@@ -66,12 +66,14 @@ A comprehensive AI-powered interview platform featuring real-time speech transcr
 1. **Clone & Setup Backend**
 ```bash
 git clone <repository-url>
-cd aura-7.0
+cd name-of-the-repo
 
 # Backend
 python -m venv venv
-venv\Scripts\activate  # Windows
-source venv/bin/activate  # macOS/Linux
+# Windows
+venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
 
 pip install -r requirements.txt
 cd backend
@@ -99,16 +101,78 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-aura-7.0/
-├── backend/app/
-│   ├── routers/           # API endpoints
-│   ├── models.py         # Database models
-│   └── main.py           # FastAPI app
-├── frontend/src/
-│   ├── components/        # React components
-│   └── contexts/         # React contexts
-├── Questions_Data/       # 20+ CSV question files
-└── models/              # AI model downloads
+├── Questions_Data
+    ├── QA_Interview_Questions_Real.csv
+    ├── Software_Engineering_All_Questions_Cleaned.csv
+    ├── UIUX_Designer_Interview_Questions.csv
+    ├── ai_ml_engineer_interview_questions_5roles_250.csv
+    ├── business_analyst_interview_questions.csv
+    ├── cloud_engineer_interview_questions_5roles_250.csv
+    ├── consulting_interview_questions.csv
+    ├── customer_support_interview_questions.csv
+    ├── cybersecurity_interview_questions_5roles_250.csv
+    ├── data_analyst_interview_questions.csv
+    ├── dba_interview_questions.csv
+    ├── devops_interview_questions_5roles_250.csv
+    ├── finance_interview_questions.csv
+    ├── marketing_interview_questions.csv
+    ├── network_engineer_interview_questions.csv
+    ├── operations_interview_questions.csv
+    ├── product_manager_interview_questions.csv
+    ├── project_manager_interview_questions (1).csv
+    ├── sales_interview_questions.csv
+    └── sysadmin_interview_questions.csv
+├── README.md
+├── backend
+    ├── app
+    │   ├── __init__.py
+    │   ├── config.py
+    │   ├── database.py
+    │   ├── main.py
+    │   ├── models.py
+    │   ├── routers
+    │   │   ├── __init__.py
+    │   │   ├── admin.py
+    │   │   ├── ai.py
+    │   │   ├── auth.py
+    │   │   ├── continuous_ai.py
+    │   │   ├── question_selector.py
+    │   │   ├── questions.py
+    │   │   ├── realtime_bias.py
+    │   │   ├── reports.py
+    │   │   ├── sentiment.py
+    │   │   ├── sessions.py
+    │   │   ├── unified_analysis.py
+    │   │   └── users.py
+    │   ├── schemas.py
+    │   ├── security.py
+    │   ├── security_middleware.py
+    │   ├── security_utils.py
+    │   └── seed_questions.py
+    └── app_data.db
+├── frontend
+    ├── index.html
+    ├── package-lock.json
+    ├── package.json
+    ├── src
+    │   ├── App.tsx
+    │   ├── components
+    │   │   ├── AdminPanel.tsx
+    │   │   ├── ApprovalStatus.tsx
+    │   │   ├── Dashboard.tsx
+    │   │   ├── Login.tsx
+    │   │   ├── QuestionsAdmin.tsx
+    │   │   ├── RealtimeBiasDisplay.tsx
+    │   │   ├── Signup.tsx
+    │   │   └── UnifiedAnalysis.tsx
+    │   ├── contexts
+    │   │   └── AuthContext.tsx
+    │   ├── index.css
+    │   └── main.tsx
+    ├── tsconfig.json
+    ├── tsconfig.node.json
+    └── vite.config.ts
+└── requirements.txt
 ```
 
 ## 🎯 Usage
@@ -212,11 +276,6 @@ SECRET_KEY=your-secret-key-here
 DATABASE_URL=sqlite:///./app_data.db
 ```
 
-## 🚀 Deployment
-
-**Production:** Deploy backend to cloud platform, use PostgreSQL, build frontend for CDN  
-**Docker:** `docker-compose up -d`
-
 ## 🐛 Troubleshooting
 
 ### **Common Issues**
@@ -241,5 +300,6 @@ DATABASE_URL=sqlite:///./app_data.db
 - **Database errors:** Check database file permissions and disk space
 
 ## 📄 License
+
 
 MIT License - see LICENSE file for details.
