@@ -1,0 +1,251 @@
+Main Role,Sub Role,Question number,difficulty,question
+Network Engineer,Junior Network Engineer,1,easy,Scenario 14: How would you troubleshoot latency issues in a VXLAN environment?
+Network Engineer,Junior Network Engineer,2,easy,Scenario 21: How would you troubleshoot link flaps in a OSPF environment?
+Network Engineer,Junior Network Engineer,3,easy,Explain the OSI model.
+Network Engineer,Junior Network Engineer,4,easy,Scenario 2: How would you troubleshoot latency issues in a MPLS environment?
+Network Engineer,Junior Network Engineer,5,easy,Scenario 13: How would you troubleshoot packet drops in a OSPF environment?
+Network Engineer,Junior Network Engineer,6,easy,How do you troubleshoot a slow network connection?
+Network Engineer,Junior Network Engineer,7,easy,Scenario 16: How would you troubleshoot packet drops in a MPLS environment?
+Network Engineer,Junior Network Engineer,8,easy,Scenario 20: How would you troubleshoot link flaps in a OSPF environment?
+Network Engineer,Junior Network Engineer,9,easy,Scenario 7: How would you troubleshoot packet drops in a VXLAN environment?
+Network Engineer,Junior Network Engineer,10,easy,What is a default gateway?
+Network Engineer,Junior Network Engineer,11,easy,Scenario 1: How would you troubleshoot high CPU on routers in a VXLAN environment?
+Network Engineer,Junior Network Engineer,12,easy,Scenario 25: How would you troubleshoot latency issues in a MPLS environment?
+Network Engineer,Junior Network Engineer,13,easy,What is port forwarding?
+Network Engineer,Junior Network Engineer,14,easy,Scenario 18: How would you troubleshoot latency issues in a OSPF environment?
+Network Engineer,Junior Network Engineer,15,easy,Scenario 11: How would you troubleshoot high CPU on routers in a MPLS environment?
+Network Engineer,Junior Network Engineer,16,easy,Scenario 4: How would you troubleshoot high CPU on routers in a BGP environment?
+Network Engineer,Junior Network Engineer,17,easy,What is BGP and where is it used?
+Network Engineer,Junior Network Engineer,18,easy,Scenario 3: How would you troubleshoot latency issues in a OSPF environment?
+Network Engineer,Junior Network Engineer,19,mid,What is DHCP and its function in networking?
+Network Engineer,Junior Network Engineer,20,mid,How do you configure inter-VLAN routing?
+Network Engineer,Junior Network Engineer,21,mid,Explain OSPF and its benefits.
+Network Engineer,Junior Network Engineer,22,mid,Explain what an IP address is.
+Network Engineer,Junior Network Engineer,23,mid,Scenario 15: How would you troubleshoot high CPU on routers in a OSPF environment?
+Network Engineer,Junior Network Engineer,24,mid,Scenario 12: How would you troubleshoot high CPU on routers in a MPLS environment?
+Network Engineer,Junior Network Engineer,25,mid,What is the difference between a switch and a router?
+Network Engineer,Junior Network Engineer,26,mid,Scenario 8: How would you troubleshoot high CPU on routers in a BGP environment?
+Network Engineer,Junior Network Engineer,27,mid,How do you use ping and traceroute?
+Network Engineer,Junior Network Engineer,28,mid,What is the difference between IPv4 and IPv6?
+Network Engineer,Junior Network Engineer,29,mid,What is the difference between TCP and UDP?
+Network Engineer,Junior Network Engineer,30,mid,Explain the purpose of ARP.
+Network Engineer,Junior Network Engineer,31,mid,Scenario 23: How would you troubleshoot link flaps in a OSPF environment?
+Network Engineer,Junior Network Engineer,32,mid,Scenario 5: How would you troubleshoot high CPU on routers in a VXLAN environment?
+Network Engineer,Junior Network Engineer,33,mid,What is the role of a firewall?
+Network Engineer,Junior Network Engineer,34,mid,How do you configure a static IP address?
+Network Engineer,Junior Network Engineer,35,mid,Scenario 24: How would you troubleshoot latency issues in a VXLAN environment?
+Network Engineer,Junior Network Engineer,36,mid,What is a MAC address?
+Network Engineer,Junior Network Engineer,37,mid,How do you check network connectivity?
+Network Engineer,Junior Network Engineer,38,mid,What is VLAN and why is it used?
+Network Engineer,Junior Network Engineer,39,high,What is DNS and how does it work?
+Network Engineer,Junior Network Engineer,40,high,What is NAT and why is it important?
+Network Engineer,Junior Network Engineer,41,high,What is spanning tree protocol (STP)?
+Network Engineer,Junior Network Engineer,42,high,Scenario 22: How would you troubleshoot link flaps in a VXLAN environment?
+Network Engineer,Junior Network Engineer,43,high,Scenario 17: How would you troubleshoot latency issues in a VXLAN environment?
+Network Engineer,Junior Network Engineer,44,high,Scenario 19: How would you troubleshoot packet drops in a VXLAN environment?
+Network Engineer,Junior Network Engineer,45,high,How do you secure a wireless network?
+Network Engineer,Junior Network Engineer,46,high,Scenario 6: How would you troubleshoot link flaps in a VXLAN environment?
+Network Engineer,Junior Network Engineer,47,high,How do you configure a site-to-site VPN?
+Network Engineer,Junior Network Engineer,48,high,Scenario 9: How would you troubleshoot packet drops in a OSPF environment?
+Network Engineer,Junior Network Engineer,49,high,Scenario 10: How would you troubleshoot high CPU on routers in a BGP environment?
+Network Engineer,Junior Network Engineer,50,high,What is a subnet mask?
+Network Engineer,Network Engineer,1,easy,What is HSRP and how does it work?
+Network Engineer,Network Engineer,2,easy,What is an ACL and how is it used?
+Network Engineer,Network Engineer,3,easy,What is the difference between TCP and UDP? (Context: Network Engineer)
+Network Engineer,Network Engineer,4,easy,How do you check network connectivity? (Context: Network Engineer)
+Network Engineer,Network Engineer,5,easy,What is the difference between a switch and a router? (Context: Network Engineer)
+Network Engineer,Network Engineer,6,easy,Scenario 10: How would you troubleshoot link flaps in a OSPF environment?
+Network Engineer,Network Engineer,7,easy,What is network address translation overload (PAT)?
+Network Engineer,Network Engineer,8,easy,Explain OSPF and its benefits. (Context: Network Engineer)
+Network Engineer,Network Engineer,9,easy,What is VLAN and why is it used? (Context: Network Engineer)
+Network Engineer,Network Engineer,10,easy,Explain MPLS and its advantages.
+Network Engineer,Network Engineer,11,easy,Scenario 3: How would you troubleshoot link flaps in a QoS environment?
+Network Engineer,Network Engineer,12,easy,How do you configure a site-to-site VPN? (Context: Network Engineer)
+Network Engineer,Network Engineer,13,easy,What is EtherChannel and how is it configured?
+Network Engineer,Network Engineer,14,easy,How do you troubleshoot a slow network connection? (Context: Network Engineer)
+Network Engineer,Network Engineer,15,easy,Explain the purpose of ARP. (Context: Network Engineer)
+Network Engineer,Network Engineer,16,easy,What is spanning tree protocol (STP)? (Context: Network Engineer)
+Network Engineer,Network Engineer,17,easy,What is DNS and how does it work? (Context: Network Engineer)
+Network Engineer,Network Engineer,18,easy,Explain the OSI model. (Context: Network Engineer)
+Network Engineer,Network Engineer,19,mid,What is port forwarding? (Context: Network Engineer)
+Network Engineer,Network Engineer,20,mid,How do you configure redundancy in networks?
+Network Engineer,Network Engineer,21,mid,How do you configure port security on a switch?
+Network Engineer,Network Engineer,22,mid,Scenario 7: How would you troubleshoot latency issues in a MPLS environment?
+Network Engineer,Network Engineer,23,mid,What are network topologies?
+Network Engineer,Network Engineer,24,mid,Scenario 6: How would you troubleshoot latency issues in a VXLAN environment?
+Network Engineer,Network Engineer,25,mid,Explain what an IP address is. (Context: Network Engineer)
+Network Engineer,Network Engineer,26,mid,How do you configure a static IP address? (Context: Network Engineer)
+Network Engineer,Network Engineer,27,mid,What is the role of a firewall? (Context: Network Engineer)
+Network Engineer,Network Engineer,28,mid,What is network segmentation and why is it important?
+Network Engineer,Network Engineer,29,mid,What is a default gateway? (Context: Network Engineer)
+Network Engineer,Network Engineer,30,mid,What is BGP and where is it used? (Context: Network Engineer)
+Network Engineer,Network Engineer,31,mid,What is GRE tunneling?
+Network Engineer,Network Engineer,32,mid,Scenario 1: How would you troubleshoot link flaps in a VXLAN environment?
+Network Engineer,Network Engineer,33,mid,How do you configure SNMP monitoring?
+Network Engineer,Network Engineer,34,mid,Scenario 2: How would you troubleshoot latency issues in a MPLS environment? (Context: Network Engineer)
+Network Engineer,Network Engineer,35,mid,Scenario 4: How would you troubleshoot packet drops in a QoS environment?
+Network Engineer,Network Engineer,36,mid,What is a subnet mask? (Context: Network Engineer)
+Network Engineer,Network Engineer,37,mid,How do you use ping and traceroute? (Context: Network Engineer)
+Network Engineer,Network Engineer,38,mid,What is NAT and why is it important? (Context: Network Engineer)
+Network Engineer,Network Engineer,39,high,What is DHCP and its function in networking? (Context: Network Engineer)
+Network Engineer,Network Engineer,40,high,Scenario 5: How would you troubleshoot packet drops in a OSPF environment?
+Network Engineer,Network Engineer,41,high,What is QoS and why is it needed?
+Network Engineer,Network Engineer,42,high,Scenario 8: How would you troubleshoot high CPU on routers in a OSPF environment?
+Network Engineer,Network Engineer,43,high,How do you troubleshoot routing issues?
+Network Engineer,Network Engineer,44,high,How do you secure a wireless network? (Context: Network Engineer)
+Network Engineer,Network Engineer,45,high,Explain the difference between stateful and stateless firewalls.
+Network Engineer,Network Engineer,46,high,What is a MAC address? (Context: Network Engineer)
+Network Engineer,Network Engineer,47,high,What is the difference between IPv4 and IPv6? (Context: Network Engineer)
+Network Engineer,Network Engineer,48,high,How do you monitor bandwidth usage?
+Network Engineer,Network Engineer,49,high,Scenario 9: How would you troubleshoot latency issues in a BGP environment?
+Network Engineer,Network Engineer,50,high,How do you configure inter-VLAN routing? (Context: Network Engineer)
+Network Engineer,Senior Network Engineer,1,easy,What is a network fabric architecture?
+Network Engineer,Senior Network Engineer,2,easy,How do you secure network infrastructure?
+Network Engineer,Senior Network Engineer,3,easy,How do you monitor and manage large-scale networks?
+Network Engineer,Senior Network Engineer,4,easy,What is EtherChannel and how is it configured? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,5,easy,What is network segmentation and why is it important? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,6,easy,Explain the role of DNSSEC.
+Network Engineer,Senior Network Engineer,7,easy,Explain IPv6 transition mechanisms.
+Network Engineer,Senior Network Engineer,8,easy,Scenario 4: How would you troubleshoot latency issues in a VXLAN environment?
+Network Engineer,Senior Network Engineer,9,easy,How do you troubleshoot asymmetric routing?
+Network Engineer,Senior Network Engineer,10,easy,Explain MPLS and its advantages. (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,11,easy,Scenario 6: How would you troubleshoot link flaps in a QoS environment?
+Network Engineer,Senior Network Engineer,12,easy,What is SDN and its benefits?
+Network Engineer,Senior Network Engineer,13,easy,What is HSRP and how does it work? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,14,easy,How do you configure SNMP monitoring? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,15,easy,Scenario 10: How would you troubleshoot latency issues in a MPLS environment?
+Network Engineer,Senior Network Engineer,16,easy,How do you monitor bandwidth usage? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,17,easy,What is network automation and which tools are used?
+Network Engineer,Senior Network Engineer,18,easy,What is spanning tree protocol (STP)? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,19,mid,What is QoS and why is it needed? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,20,mid,How do you implement microsegmentation?
+Network Engineer,Senior Network Engineer,21,mid,How do you configure redundancy in networks? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,22,mid,Scenario 3: How would you troubleshoot high CPU on routers in a OSPF environment?
+Network Engineer,Senior Network Engineer,23,mid,What is network virtualization?
+Network Engineer,Senior Network Engineer,24,mid,How do you design WAN optimization strategies?
+Network Engineer,Senior Network Engineer,25,mid,Explain the difference between inline and passive IDS/IPS.
+Network Engineer,Senior Network Engineer,26,mid,Explain the difference between stateful and stateless firewalls. (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,27,mid,Scenario 1: How would you troubleshoot high CPU on routers in a MPLS environment?
+Network Engineer,Senior Network Engineer,28,mid,How do you troubleshoot routing issues? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,29,mid,How do you mitigate DDoS attacks?
+Network Engineer,Senior Network Engineer,30,mid,Scenario 9: How would you troubleshoot link flaps in a BGP environment?
+Network Engineer,Senior Network Engineer,31,mid,Scenario 8: How would you troubleshoot packet drops in a OSPF environment?
+Network Engineer,Senior Network Engineer,32,mid,How do you configure inter-VLAN routing? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,33,mid,Explain advanced BGP attributes and path selection.
+Network Engineer,Senior Network Engineer,34,mid,What are network topologies? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,35,mid,How do you configure port security on a switch? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,36,mid,What are VXLANs and why are they used?
+Network Engineer,Senior Network Engineer,37,mid,Scenario 2: How would you troubleshoot latency issues in a OSPF environment?
+Network Engineer,Senior Network Engineer,38,mid,What is an ACL and how is it used? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,39,high,What is GRE tunneling? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,40,high,What is NetFlow and how is it used?
+Network Engineer,Senior Network Engineer,41,high,What is network address translation overload (PAT)? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,42,high,What is a zero trust network model?
+Network Engineer,Senior Network Engineer,43,high,What is BGP and where is it used? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,44,high,How do you configure a site-to-site VPN? (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,45,high,How do you ensure compliance with network security policies?
+Network Engineer,Senior Network Engineer,46,high,How do you design a redundant enterprise network?
+Network Engineer,Senior Network Engineer,47,high,How do you integrate on-premise networks with cloud providers?
+Network Engineer,Senior Network Engineer,48,high,Explain OSPF and its benefits. (Context: Senior Network Engineer)
+Network Engineer,Senior Network Engineer,49,high,Scenario 5: How would you troubleshoot packet drops in a BGP environment?
+Network Engineer,Senior Network Engineer,50,high,Scenario 7: How would you troubleshoot latency issues in a QoS environment?
+Network Engineer,Network Lead / Architect,1,easy,What is a network fabric architecture? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,2,easy,How do you troubleshoot asymmetric routing? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,3,easy,How do you secure network infrastructure? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,4,easy,How do you integrate on-premise networks with cloud providers? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,5,easy,What is network virtualization? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,6,easy,What is SDN and its benefits? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,7,easy,What KPIs are important for network performance?
+Network Engineer,Network Lead / Architect,8,easy,Scenario 22: How would you troubleshoot latency issues in a VXLAN environment?
+Network Engineer,Network Lead / Architect,9,easy,Scenario 6: How would you troubleshoot link flaps in a VXLAN environment? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,10,easy,Explain IPv6 transition mechanisms. (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,11,easy,Scenario 17: How would you troubleshoot link flaps in a BGP environment?
+Network Engineer,Network Lead / Architect,12,easy,How do you ensure compliance with network security policies? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,13,easy,How do you plan network capacity for growth?
+Network Engineer,Network Lead / Architect,14,easy,Scenario 8: How would you troubleshoot packet drops in a BGP environment?
+Network Engineer,Network Lead / Architect,15,easy,Scenario 4: How would you troubleshoot packet drops in a QoS environment? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,16,easy,Scenario 23: How would you troubleshoot link flaps in a QoS environment?
+Network Engineer,Network Lead / Architect,17,easy,Scenario 13: How would you troubleshoot high CPU on routers in a QoS environment?
+Network Engineer,Network Lead / Architect,18,easy,Scenario 10: How would you troubleshoot latency issues in a OSPF environment?
+Network Engineer,Network Lead / Architect,19,mid,Scenario 7: How would you troubleshoot link flaps in a VXLAN environment?
+Network Engineer,Network Lead / Architect,20,mid,Scenario 2: How would you troubleshoot latency issues in a OSPF environment? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,21,mid,Scenario 14: How would you troubleshoot packet drops in a MPLS environment?
+Network Engineer,Network Lead / Architect,22,mid,Scenario 18: How would you troubleshoot latency issues in a VXLAN environment?
+Network Engineer,Network Lead / Architect,23,mid,Scenario 25: How would you troubleshoot link flaps in a BGP environment?
+Network Engineer,Network Lead / Architect,24,mid,Scenario 20: How would you troubleshoot link flaps in a QoS environment?
+Network Engineer,Network Lead / Architect,25,mid,Scenario 9: How would you troubleshoot latency issues in a VXLAN environment?
+Network Engineer,Network Lead / Architect,26,mid,How do you mitigate DDoS attacks? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,27,mid,How do you lead a network upgrade project?
+Network Engineer,Network Lead / Architect,28,mid,Explain the difference between inline and passive IDS/IPS. (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,29,mid,What is network automation and which tools are used? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,30,mid,Scenario 3: How would you troubleshoot latency issues in a BGP environment?
+Network Engineer,Network Lead / Architect,31,mid,Scenario 19: How would you troubleshoot latency issues in a BGP environment?
+Network Engineer,Network Lead / Architect,32,mid,Scenario 5: How would you troubleshoot high CPU on routers in a MPLS environment?
+Network Engineer,Network Lead / Architect,33,mid,How do you design WAN optimization strategies? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,34,mid,Scenario 15: How would you troubleshoot latency issues in a BGP environment?
+Network Engineer,Network Lead / Architect,35,mid,Scenario 24: How would you troubleshoot high CPU on routers in a MPLS environment?
+Network Engineer,Network Lead / Architect,36,mid,Scenario 1: How would you troubleshoot packet drops in a VXLAN environment?
+Network Engineer,Network Lead / Architect,37,mid,How do you design a redundant enterprise network? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,38,mid,How do you implement microsegmentation? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,39,high,How do you evaluate network vendor solutions?
+Network Engineer,Network Lead / Architect,40,high,Scenario 16: How would you troubleshoot high CPU on routers in a BGP environment?
+Network Engineer,Network Lead / Architect,41,high,Explain advanced BGP attributes and path selection. (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,42,high,How do you monitor and manage large-scale networks? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,43,high,What is NetFlow and how is it used? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,44,high,Scenario 12: How would you troubleshoot latency issues in a QoS environment?
+Network Engineer,Network Lead / Architect,45,high,What are VXLANs and why are they used? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,46,high,What is a zero trust network model? (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,47,high,How do you handle major network outages?
+Network Engineer,Network Lead / Architect,48,high,Explain the role of DNSSEC. (Context: Network Lead / Architect)
+Network Engineer,Network Lead / Architect,49,high,Scenario 21: How would you troubleshoot high CPU on routers in a VXLAN environment?
+Network Engineer,Network Lead / Architect,50,high,Scenario 11: How would you troubleshoot link flaps in a VXLAN environment?
+Network Engineer,Network Manager,1,easy,What is SDN and its benefits? (Context: Network Manager)
+Network Engineer,Network Manager,2,easy,Scenario 17: How would you troubleshoot link flaps in a MPLS environment?
+Network Engineer,Network Manager,3,easy,Scenario 18: How would you troubleshoot latency issues in a VXLAN environment? (Context: Network Manager)
+Network Engineer,Network Manager,4,easy,Scenario 3: How would you troubleshoot latency issues in a VXLAN environment?
+Network Engineer,Network Manager,5,easy,Scenario 34: How would you troubleshoot latency issues in a QoS environment?
+Network Engineer,Network Manager,6,easy,What KPIs are important for network performance? (Context: Network Manager)
+Network Engineer,Network Manager,7,easy,Scenario 12: How would you troubleshoot high CPU on routers in a OSPF environment?
+Network Engineer,Network Manager,8,easy,Scenario 5: How would you troubleshoot high CPU on routers in a VXLAN environment? (Context: Network Manager)
+Network Engineer,Network Manager,9,easy,How do you manage a team of network engineers?
+Network Engineer,Network Manager,10,easy,Scenario 14: How would you troubleshoot packet drops in a MPLS environment? (Context: Network Manager)
+Network Engineer,Network Manager,11,easy,Scenario 22: How would you troubleshoot packet drops in a QoS environment?
+Network Engineer,Network Manager,12,easy,Scenario 29: How would you troubleshoot latency issues in a QoS environment?
+Network Engineer,Network Manager,13,easy,Scenario 25: How would you troubleshoot high CPU on routers in a BGP environment?
+Network Engineer,Network Manager,14,easy,Scenario 4: How would you troubleshoot latency issues in a OSPF environment?
+Network Engineer,Network Manager,15,easy,How do you lead a network upgrade project? (Context: Network Manager)
+Network Engineer,Network Manager,16,easy,Scenario 32: How would you troubleshoot high CPU on routers in a QoS environment?
+Network Engineer,Network Manager,17,easy,What are best practices for IT budget allocation in networking?
+Network Engineer,Network Manager,18,easy,Scenario 23: How would you troubleshoot packet drops in a MPLS environment?
+Network Engineer,Network Manager,19,mid,How do you secure network infrastructure? (Context: Network Manager)
+Network Engineer,Network Manager,20,mid,How do you design a redundant enterprise network? (Context: Network Manager)
+Network Engineer,Network Manager,21,mid,Scenario 6: How would you troubleshoot high CPU on routers in a MPLS environment?
+Network Engineer,Network Manager,22,mid,Scenario 10: How would you troubleshoot latency issues in a BGP environment?
+Network Engineer,Network Manager,23,mid,Scenario 8: How would you troubleshoot high CPU on routers in a VXLAN environment?
+Network Engineer,Network Manager,24,mid,Explain IPv6 transition mechanisms. (Context: Network Manager)
+Network Engineer,Network Manager,25,mid,Scenario 21: How would you troubleshoot latency issues in a VXLAN environment?
+Network Engineer,Network Manager,26,mid,Scenario 11: How would you troubleshoot latency issues in a OSPF environment?
+Network Engineer,Network Manager,27,mid,How do you align network strategy with business goals?
+Network Engineer,Network Manager,28,mid,Scenario 30: How would you troubleshoot packet drops in a BGP environment?
+Network Engineer,Network Manager,29,mid,Scenario 27: How would you troubleshoot packet drops in a QoS environment?
+Network Engineer,Network Manager,30,mid,How do you ensure compliance with regulatory requirements?
+Network Engineer,Network Manager,31,mid,Scenario 26: How would you troubleshoot latency issues in a OSPF environment?
+Network Engineer,Network Manager,32,mid,What is your approach to change management in networks?
+Network Engineer,Network Manager,33,mid,Scenario 28: How would you troubleshoot latency issues in a VXLAN environment?
+Network Engineer,Network Manager,34,mid,Scenario 19: How would you troubleshoot packet drops in a VXLAN environment? (Context: Network Manager)
+Network Engineer,Network Manager,35,mid,How do you handle major network outages? (Context: Network Manager)
+Network Engineer,Network Manager,36,mid,Scenario 15: How would you troubleshoot latency issues in a VXLAN environment?
+Network Engineer,Network Manager,37,mid,Scenario 31: How would you troubleshoot high CPU on routers in a BGP environment?
+Network Engineer,Network Manager,38,mid,Scenario 35: How would you troubleshoot high CPU on routers in a BGP environment?
+Network Engineer,Network Manager,39,high,How do you plan network capacity for growth? (Context: Network Manager)
+Network Engineer,Network Manager,40,high,Scenario 16: How would you troubleshoot high CPU on routers in a QoS environment?
+Network Engineer,Network Manager,41,high,Scenario 1: How would you troubleshoot link flaps in a BGP environment?
+Network Engineer,Network Manager,42,high,Scenario 9: How would you troubleshoot link flaps in a OSPF environment?
+Network Engineer,Network Manager,43,high,Scenario 24: How would you troubleshoot link flaps in a OSPF environment?
+Network Engineer,Network Manager,44,high,How do you evaluate network vendor solutions? (Context: Network Manager)
+Network Engineer,Network Manager,45,high,Scenario 2: How would you troubleshoot latency issues in a QoS environment?
+Network Engineer,Network Manager,46,high,Scenario 7: How would you troubleshoot link flaps in a QoS environment?
+Network Engineer,Network Manager,47,high,Scenario 20: How would you troubleshoot high CPU on routers in a QoS environment?
+Network Engineer,Network Manager,48,high,Explain advanced BGP attributes and path selection. (Context: Network Manager)
+Network Engineer,Network Manager,49,high,Scenario 33: How would you troubleshoot latency issues in a MPLS environment?
+Network Engineer,Network Manager,50,high,Scenario 13: How would you troubleshoot link flaps in a OSPF environment?

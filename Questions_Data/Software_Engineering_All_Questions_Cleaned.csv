@@ -1,0 +1,251 @@
+Main Role,Sub Role,Question number,Difficulty,Question
+Software Engineering,Junior Software Engineer,1,easy,Explain the difference between a stack and a queue.
+Software Engineering,Junior Software Engineer,2,mid,What is a linked list? How do you reverse a singly linked list?
+Software Engineering,Junior Software Engineer,3,high,Write code to find the maximum element in an array.
+Software Engineering,Junior Software Engineer,4,easy,"Explain time and space complexity. Give examples for O(1), O(n), O(n^2)."
+Software Engineering,Junior Software Engineer,5,mid,What is a hash table and how does it handle collisions?
+Software Engineering,Junior Software Engineer,6,high,Describe the difference between == and === (or language-specific equality operators).
+Software Engineering,Junior Software Engineer,7,easy,Explain how a binary search works and its complexity.
+Software Engineering,Junior Software Engineer,8,mid,What is recursion? Give an example problem solved by recursion.
+Software Engineering,Junior Software Engineer,9,high,How does bubble sort work? What's its time complexity?
+Software Engineering,Junior Software Engineer,10,easy,What are functions/methods and why are they useful?
+Software Engineering,Junior Software Engineer,11,mid,"Explain basic HTTP request methods (GET, POST, PUT, DELETE)."
+Software Engineering,Junior Software Engineer,12,high,What is REST and RESTful API?
+Software Engineering,Junior Software Engineer,13,easy,Describe the MVC architecture.
+Software Engineering,Junior Software Engineer,14,mid,What is version control and why use Git?
+Software Engineering,Junior Software Engineer,15,high,Explain the purpose of unit testing.
+Software Engineering,Junior Software Engineer,16,easy,What is continuous integration (CI)?
+Software Engineering,Junior Software Engineer,17,mid,How do you debug a program? Mention tools you use.
+Software Engineering,Junior Software Engineer,18,high,Explain the difference between compiled and interpreted languages.
+Software Engineering,Junior Software Engineer,19,easy,What is an exception and how do you handle it?
+Software Engineering,Junior Software Engineer,20,mid,Describe the lifecycle of a web request in a typical web app.
+Software Engineering,Junior Software Engineer,21,high,What are CSS selectors and how do they work?
+Software Engineering,Junior Software Engineer,22,easy,Explain DOM and event handling in web browsers.
+Software Engineering,Junior Software Engineer,23,mid,What is responsive design?
+Software Engineering,Junior Software Engineer,24,high,How do you optimize SQL queries?
+Software Engineering,Junior Software Engineer,25,easy,Explain INNER JOIN vs LEFT JOIN.
+Software Engineering,Junior Software Engineer,26,mid,What is normalization in databases?
+Software Engineering,Junior Software Engineer,27,high,Describe ACID properties of transactions.
+Software Engineering,Junior Software Engineer,28,easy,What are environment variables and why use them?
+Software Engineering,Junior Software Engineer,29,mid,Explain the concept of authentication vs authorization.
+Software Engineering,Junior Software Engineer,30,high,What is CORS and why does it matter?
+Software Engineering,Junior Software Engineer,31,easy,How would you store passwords securely?
+Software Engineering,Junior Software Engineer,32,mid,What is OAuth (high level)?
+Software Engineering,Junior Software Engineer,33,high,Explain the difference between synchronous and asynchronous programming.
+Software Engineering,Junior Software Engineer,34,easy,What are Promises/Futures (or async/await) in modern languages?
+Software Engineering,Junior Software Engineer,35,mid,How do you prevent SQL injection?
+Software Engineering,Junior Software Engineer,36,high,What is cross-site scripting (XSS)?
+Software Engineering,Junior Software Engineer,37,easy,Explain basic Big-O for common operations on arrays and linked lists.
+Software Engineering,Junior Software Engineer,38,mid,Describe a time you fixed a bug — what steps did you take? (behavioral)
+Software Engineering,Junior Software Engineer,39,high,How do you prioritize tasks when assigned multiple bugs/features? (behavioral)
+Software Engineering,Junior Software Engineer,40,easy,What motivates you to become a software engineer? (behavioral)
+Software Engineering,Junior Software Engineer,41,mid,How do you keep your code maintainable?
+Software Engineering,Junior Software Engineer,42,high,Explain the concept of code reviews and why they are useful.
+Software Engineering,Junior Software Engineer,43,easy,What is a build pipeline?
+Software Engineering,Junior Software Engineer,44,mid,"Describe dependency management (e.g., npm, pip, maven)."
+Software Engineering,Junior Software Engineer,45,high,Explain the difference between process and thread.
+Software Engineering,Junior Software Engineer,46,easy,What is garbage collection?
+Software Engineering,Junior Software Engineer,47,mid,How would you explain polymorphism to a junior colleague?
+Software Engineering,Junior Software Engineer,48,high,What is the difference between an array and a linked list?
+Software Engineering,Junior Software Engineer,49,easy,Explain what an API is in simple terms.
+Software Engineering,Junior Software Engineer,50,mid,Write code to reverse a string.
+Software Engineering,Software Engineer,1,easy,Design an algorithm to merge two sorted arrays in-place.
+Software Engineering,Software Engineer,2,mid,Explain quicksort and its average and worst-case complexities.
+Software Engineering,Software Engineer,3,high,How do hash maps work internally?
+Software Engineering,Software Engineer,4,easy,Implement LRU cache. Explain your design decisions.
+Software Engineering,Software Engineer,5,mid,Design a URL shortener service (high-level components).
+Software Engineering,Software Engineer,6,high,Explain CAP theorem and its implications for distributed systems.
+Software Engineering,Software Engineer,7,easy,Describe how HTTPS works (TLS handshake overview).
+Software Engineering,Software Engineer,8,mid,"What are design patterns? Give examples (Factory, Singleton, Observer)."
+Software Engineering,Software Engineer,9,high,Explain database indexing and trade-offs.
+Software Engineering,Software Engineer,10,easy,How does garbage collection impact performance?
+Software Engineering,Software Engineer,11,mid,Write code to detect a cycle in a directed graph.
+Software Engineering,Software Engineer,12,high,Explain eventual consistency vs strong consistency.
+Software Engineering,Software Engineer,13,easy,Design a system to handle file uploads at scale.
+Software Engineering,Software Engineer,14,mid,How do you monitor and instrument a service in production?
+Software Engineering,Software Engineer,15,high,What is a CDN and how does it improve performance?
+Software Engineering,Software Engineer,16,easy,Describe microservices vs monolith architectures.
+Software Engineering,Software Engineer,17,mid,Explain containerization and Docker basics.
+Software Engineering,Software Engineer,18,high,How would you perform capacity planning for a service?
+Software Engineering,Software Engineer,19,easy,What is backpressure and how to implement it in streaming systems?
+Software Engineering,Software Engineer,20,mid,Explain message queues and pub/sub models.
+Software Engineering,Software Engineer,21,high,"How would you secure an API? (authentication, rate-limiting, input validation)"
+Software Engineering,Software Engineer,22,easy,What is schema migration and strategies to perform it safely?
+Software Engineering,Software Engineer,23,mid,Implement an algorithm to find the lowest common ancestor in a binary tree.
+Software Engineering,Software Engineer,24,high,Explain the difference between optimistic and pessimistic locking.
+Software Engineering,Software Engineer,25,easy,How do you design a relational schema for a social feed?
+Software Engineering,Software Engineer,26,mid,Describe trade-offs between SQL and NoSQL databases.
+Software Engineering,Software Engineer,27,high,How do you perform load testing and what tools do you use?
+Software Engineering,Software Engineer,28,easy,Explain the role of reverse proxies and load balancers.
+Software Engineering,Software Engineer,29,mid,What is zero-downtime deployment and strategies to achieve it?
+Software Engineering,Software Engineer,30,high,Describe a challenging bug you fixed and how you diagnosed it. (behavioral)
+Software Engineering,Software Engineer,31,easy,How do you mentor junior engineers? (behavioral)
+Software Engineering,Software Engineer,32,mid,"Explain observability: metrics, logs, traces."
+Software Engineering,Software Engineer,33,high,What is circuit breaker pattern and when to use it?
+Software Engineering,Software Engineer,34,easy,Write code for in-order traversal of a binary search tree without recursion.
+Software Engineering,Software Engineer,35,mid,Explain memory leaks and how to detect them.
+Software Engineering,Software Engineer,36,high,Describe how to design a search feature for an application.
+Software Engineering,Software Engineer,37,easy,What is idempotency and why is it important in APIs?
+Software Engineering,Software Engineer,38,mid,Explain event-driven architecture and use-cases.
+Software Engineering,Software Engineer,39,high,Design a rate limiter for an API gateway.
+Software Engineering,Software Engineer,40,easy,How do you approach performance optimization for a slow query or endpoint?
+Software Engineering,Software Engineer,41,mid,What is feature flagging and how does it help deployments?
+Software Engineering,Software Engineer,42,high,Explain cross-cutting concerns and how to handle them.
+Software Engineering,Software Engineer,43,easy,How do you design for fault tolerance in a distributed system?
+Software Engineering,Software Engineer,44,mid,Describe the process of incident postmortem and its key elements.
+Software Engineering,Software Engineer,45,high,What trade-offs do you consider when choosing consistency vs availability?
+Software Engineering,Software Engineer,46,easy,Explain how to use caching effectively and cache invalidation strategies.
+Software Engineering,Software Engineer,47,mid,How do you handle schema evolution for a widely used API?
+Software Engineering,Software Engineer,48,high,How would you implement a thread-safe singleton?
+Software Engineering,Software Engineer,49,easy,What are the advantages of using message queues?
+Software Engineering,Software Engineer,50,mid,Explain how DNS resolution works.
+Software Engineering,Senior Software Engineer,1,easy,Design a distributed cache with eviction policies and replication.
+Software Engineering,Senior Software Engineer,2,mid,How would you design a consistent and scalable leader election?
+Software Engineering,Senior Software Engineer,3,high,"Architect a large-scale messaging system (requirements, components, bottlenecks)."
+Software Engineering,Senior Software Engineer,4,easy,Explain techniques for database sharding and routing.
+Software Engineering,Senior Software Engineer,5,mid,Design the architecture for a real-time analytics pipeline.
+Software Engineering,Senior Software Engineer,6,high,How do you evaluate and choose between multiple database technologies?
+Software Engineering,Senior Software Engineer,7,easy,Describe strategies for migrating a monolith to microservices.
+Software Engineering,Senior Software Engineer,8,mid,Explain how to build reliable deployment pipelines for multiple teams.
+Software Engineering,Senior Software Engineer,9,high,Design a globally distributed storage system with low latency.
+Software Engineering,Senior Software Engineer,10,easy,How do you drive technical decisions and trade-offs across teams? (behavioral)
+Software Engineering,Senior Software Engineer,11,mid,Discuss observability at scale and SRE best practices.
+Software Engineering,Senior Software Engineer,12,high,How to prevent and mitigate cascading failures in distributed systems?
+Software Engineering,Senior Software Engineer,13,easy,Design a system for recommendation at scale.
+Software Engineering,Senior Software Engineer,14,mid,Explain advanced concurrency control techniques.
+Software Engineering,Senior Software Engineer,15,high,How do you ensure security across the software supply chain?
+Software Engineering,Senior Software Engineer,16,easy,Design data partitioning and replication strategies for high throughput.
+Software Engineering,Senior Software Engineer,17,mid,Explain cost optimization strategies for cloud infrastructure.
+Software Engineering,Senior Software Engineer,18,high,How do you lead architectural reviews and code ownership across teams? (behavioral)
+Software Engineering,Senior Software Engineer,19,easy,Design a multi-tenant SaaS platform with tenant isolation.
+Software Engineering,Senior Software Engineer,20,mid,Describe techniques for capacity forecasting and autoscaling policies.
+Software Engineering,Senior Software Engineer,21,high,How would you build an efficient A/B testing platform?
+Software Engineering,Senior Software Engineer,22,easy,Explain trade-offs of synchronous vs asynchronous communication between services.
+Software Engineering,Senior Software Engineer,23,mid,Design a fault-tolerant leaderless consensus (eg. explain Raft alternatives).
+Software Engineering,Senior Software Engineer,24,high,How to approach technical debt in a large codebase?
+Software Engineering,Senior Software Engineer,25,easy,Explain methods to measure developer productivity and engineering health.
+Software Engineering,Senior Software Engineer,26,mid,"Design a secure API gateway with authentication, authorization, and observability."
+Software Engineering,Senior Software Engineer,27,high,How to onboard and grow senior engineers effectively? (behavioral)
+Software Engineering,Senior Software Engineer,28,easy,Explain blue/green and canary deployment strategies in detail.
+Software Engineering,Senior Software Engineer,29,mid,Design a system for near real-time search indexing with millions of docs.
+Software Engineering,Senior Software Engineer,30,high,How would you approach cross-team data contracts and schema governance?
+Software Engineering,Senior Software Engineer,31,easy,Explain how to handle GDPR and data privacy in system design.
+Software Engineering,Senior Software Engineer,32,mid,Design a highly available database failover strategy.
+Software Engineering,Senior Software Engineer,33,high,How do you design for compliance and auditability in critical systems?
+Software Engineering,Senior Software Engineer,34,easy,Explain leadership challenges in incident response and communication. (behavioral)
+Software Engineering,Senior Software Engineer,35,mid,Design an internal platform (PaaS) for developer self-service.
+Software Engineering,Senior Software Engineer,36,high,How to evaluate open-source vs commercial solutions for core infra?
+Software Engineering,Senior Software Engineer,37,easy,"Explain rate limiting, throttling, and quota enforcement patterns."
+Software Engineering,Senior Software Engineer,38,mid,Design monitoring and alerting thresholds to reduce alert fatigue.
+Software Engineering,Senior Software Engineer,39,high,How to run effective postmortems and translate learnings into changes?
+Software Engineering,Senior Software Engineer,40,easy,Explain approaches to handle hotspots and skew in distributed workloads.
+Software Engineering,Senior Software Engineer,41,mid,Design an access control model for complex organizational roles.
+Software Engineering,Senior Software Engineer,42,high,How would you set up chaos engineering experiments safely?
+Software Engineering,Senior Software Engineer,43,easy,Explain strategies for cross-region data replication with consistency guarantees.
+Software Engineering,Senior Software Engineer,44,mid,How to build a culture of code quality and testing at scale?
+Software Engineering,Senior Software Engineer,45,high,Design a billing system for usage-based charging with accuracy and resilience.
+Software Engineering,Senior Software Engineer,46,easy,Discuss how to balance long-term architecture vs short-term delivery needs.
+Software Engineering,Senior Software Engineer,47,mid,Explain how consensus algorithms like Raft or Paxos work.
+Software Engineering,Senior Software Engineer,48,high,How do you optimize large-scale distributed joins?
+Software Engineering,Senior Software Engineer,49,easy,Describe techniques to achieve exactly-once delivery in messaging systems.
+Software Engineering,Senior Software Engineer,50,mid,How do you ensure schema compatibility across microservices?
+Software Engineering,Lead / Principal Engineer,1,easy,How do you set technical vision for multiple product teams? (behavioral)
+Software Engineering,Lead / Principal Engineer,2,mid,Design an enterprise-grade microservices platform for hundreds of services.
+Software Engineering,Lead / Principal Engineer,3,high,Explain organizational patterns for scaling engineering (tribes/squads/etc).
+Software Engineering,Lead / Principal Engineer,4,easy,How to influence technical direction across engineering and product stakeholders?
+Software Engineering,Lead / Principal Engineer,5,mid,Design a multi-region data platform that supports analytics and OLTP workloads.
+Software Engineering,Lead / Principal Engineer,6,high,Explain governance for critical shared services and libraries.
+Software Engineering,Lead / Principal Engineer,7,easy,How to establish and measure architectural principles and standards?
+Software Engineering,Lead / Principal Engineer,8,mid,Design an internal developer platform that reduces cognitive load for teams.
+Software Engineering,Lead / Principal Engineer,9,high,Describe strategies for technical hiring and building distributed teams. (behavioral)
+Software Engineering,Lead / Principal Engineer,10,easy,How to run architecture reviews at scale and enforce decisions?
+Software Engineering,Lead / Principal Engineer,11,mid,Design a platform for event sourcing and CQRS with long-term retention.
+Software Engineering,Lead / Principal Engineer,12,high,How to balance innovation vs platform stability?
+Software Engineering,Lead / Principal Engineer,13,easy,Design a secure software supply chain pipeline with SBOM and provenance.
+Software Engineering,Lead / Principal Engineer,14,mid,Explain strategies for mentoring senior engineers and creating tech leaders. (behavioral)
+Software Engineering,Lead / Principal Engineer,15,high,How to drive cross-functional technical initiatives with measurable outcomes?
+Software Engineering,Lead / Principal Engineer,16,easy,Design a data governance model to support data privacy and discoverability.
+Software Engineering,Lead / Principal Engineer,17,mid,Explain technical risk management and mitigation strategies.
+Software Engineering,Lead / Principal Engineer,18,high,How to create effective KPIs for platform and product engineering?
+Software Engineering,Lead / Principal Engineer,19,easy,Design a blueprint for global disaster recovery and business continuity.
+Software Engineering,Lead / Principal Engineer,20,mid,Explain the role of a principal engineer during major incidents.
+Software Engineering,Lead / Principal Engineer,21,high,How to align technical roadmaps with business objectives?
+Software Engineering,Lead / Principal Engineer,22,easy,Design an architecture for a unified identity and access management system.
+Software Engineering,Lead / Principal Engineer,23,mid,Explain patterns for polyglot persistence and when to use them.
+Software Engineering,Lead / Principal Engineer,24,high,How do you evaluate technical ROI for infrastructure investments?
+Software Engineering,Lead / Principal Engineer,25,easy,Design a migration plan from legacy systems with minimal disruption.
+Software Engineering,Lead / Principal Engineer,26,mid,Explain methods to institutionalize knowledge and documentation.
+Software Engineering,Lead / Principal Engineer,27,high,How to foster psychological safety and high-performing engineering teams? (behavioral)
+Software Engineering,Lead / Principal Engineer,28,easy,Design a long-term cost model for cloud and on-prem resources.
+Software Engineering,Lead / Principal Engineer,29,mid,Explain strategies to handle regulatory constraints in system design.
+Software Engineering,Lead / Principal Engineer,30,high,How to steward open-source engagement and contributions?
+Software Engineering,Lead / Principal Engineer,31,easy,Design a cross-team data mesh architecture and its governance.
+Software Engineering,Lead / Principal Engineer,32,mid,Explain techniques for scaling observability and tracing across an enterprise.
+Software Engineering,Lead / Principal Engineer,33,high,How to coach engineering managers and principals for career ladders? (behavioral)
+Software Engineering,Lead / Principal Engineer,34,easy,Design a roadmap for adopting AI/ML capabilities across products.
+Software Engineering,Lead / Principal Engineer,35,mid,Explain approaches to technical debt prioritization at organizational level.
+Software Engineering,Lead / Principal Engineer,36,high,How to measure and improve system reliability SLOs and SLIs across services?
+Software Engineering,Lead / Principal Engineer,37,easy,Design a secure secrets management and rotation system.
+Software Engineering,Lead / Principal Engineer,38,mid,Explain considerations when selecting cloud providers vs multi-cloud.
+Software Engineering,Lead / Principal Engineer,39,high,How to lead M&A engineering integrations technically? (behavioral)
+Software Engineering,Lead / Principal Engineer,40,easy,Design a high-throughput event processing pipeline with end-to-end guarantees.
+Software Engineering,Lead / Principal Engineer,41,mid,Explain the trade-offs in centralized vs decentralized platform ownership.
+Software Engineering,Lead / Principal Engineer,42,high,How to run successful technical retrospectives and incorporate improvements?
+Software Engineering,Lead / Principal Engineer,43,easy,Design a privacy-preserving analytics platform (differential privacy basics).
+Software Engineering,Lead / Principal Engineer,44,mid,Explain leadership communication strategies during technical transformation.
+Software Engineering,Lead / Principal Engineer,45,high,How to build an innovation pipeline and evaluate new technologies?
+Software Engineering,Lead / Principal Engineer,46,easy,How do you evaluate build vs buy decisions for core systems?
+Software Engineering,Lead / Principal Engineer,47,mid,Explain architectural trade-offs in adopting event sourcing.
+Software Engineering,Lead / Principal Engineer,48,high,How would you design a multi-cloud strategy for resilience?
+Software Engineering,Lead / Principal Engineer,49,easy,Describe how you would enforce company-wide coding standards.
+Software Engineering,Lead / Principal Engineer,50,mid,How do you future-proof a data architecture for AI/ML workloads?
+Software Engineering,Engineering Manager,1,easy,How do you hire for a balanced engineering team? (behavioral)
+Software Engineering,Engineering Manager,2,mid,Describe your approach to performance reviews and feedback. (behavioral)
+Software Engineering,Engineering Manager,3,high,How do you set goals and OKRs for your team?
+Software Engineering,Engineering Manager,4,easy,How do you handle conflicts between engineers? (behavioral)
+Software Engineering,Engineering Manager,5,mid,Describe a time you led through a high-severity incident. What did you do? (behavioral)
+Software Engineering,Engineering Manager,6,high,How do you measure team health and engineering effectiveness?
+Software Engineering,Engineering Manager,7,easy,What is your approach to career development for engineers?
+Software Engineering,Engineering Manager,8,mid,How do you prioritize technical debt vs feature work?
+Software Engineering,Engineering Manager,9,high,Explain how you run a sprint/planning/iteration with multiple teams.
+Software Engineering,Engineering Manager,10,easy,How do you work with product managers to set roadmaps?
+Software Engineering,Engineering Manager,11,mid,Describe hiring process improvements you implemented. (behavioral)
+Software Engineering,Engineering Manager,12,high,How do you balance delivery commitments and quality?
+Software Engineering,Engineering Manager,13,easy,Explain how to build a culture of ownership and accountability.
+Software Engineering,Engineering Manager,14,mid,How do you onboard new engineers effectively?
+Software Engineering,Engineering Manager,15,high,Describe handling underperforming team members. (behavioral)
+Software Engineering,Engineering Manager,16,easy,How do you align engineering outcomes with business metrics?
+Software Engineering,Engineering Manager,17,mid,Explain strategies to increase cross-team collaboration.
+Software Engineering,Engineering Manager,18,high,How do you manage remote or distributed teams?
+Software Engineering,Engineering Manager,19,easy,What metrics do you track to evaluate product/engineering success?
+Software Engineering,Engineering Manager,20,mid,How do you run effective 1:1s with engineers?
+Software Engineering,Engineering Manager,21,high,Explain your incident management and escalation process.
+Software Engineering,Engineering Manager,22,easy,How do you ensure psychological safety on your team?
+Software Engineering,Engineering Manager,23,mid,Describe a time you influenced senior stakeholders. (behavioral)
+Software Engineering,Engineering Manager,24,high,How do you build high-trust relationships with product and design?
+Software Engineering,Engineering Manager,25,easy,Explain capacity planning and resourcing for multiple projects.
+Software Engineering,Engineering Manager,26,mid,How do you approach budgeting and cost optimization for engineering?
+Software Engineering,Engineering Manager,27,high,Describe techniques to improve recruitment funnel and diversity hiring.
+Software Engineering,Engineering Manager,28,easy,How do you handle reorganizations and role changes? (behavioral)
+Software Engineering,Engineering Manager,29,mid,How do you create a roadmap that allows for innovation?
+Software Engineering,Engineering Manager,30,high,Explain strategies for knowledge sharing and documentation.
+Software Engineering,Engineering Manager,31,easy,How do you measure and reduce cycle time for features?
+Software Engineering,Engineering Manager,32,mid,Describe running performance improvement plans. (behavioral)
+Software Engineering,Engineering Manager,33,high,How do you create a culture of continuous learning?
+Software Engineering,Engineering Manager,34,easy,Explain how you would scale teams during rapid growth.
+Software Engineering,Engineering Manager,35,mid,How do you set expectations for code quality and testing?
+Software Engineering,Engineering Manager,36,high,Describe vendor/third-party evaluation and procurement approach.
+Software Engineering,Engineering Manager,37,easy,How do you balance hiring senior vs junior engineers?
+Software Engineering,Engineering Manager,38,mid,Explain a time you had to push back on product timelines. (behavioral)
+Software Engineering,Engineering Manager,39,high,How do you ensure compliance and security requirements are met?
+Software Engineering,Engineering Manager,40,easy,Describe your approach to cross-functional program management.
+Software Engineering,Engineering Manager,41,mid,How do you foster mentorship and peer learning?
+Software Engineering,Engineering Manager,42,high,How do you measure ROI for engineering projects?
+Software Engineering,Engineering Manager,43,easy,Describe techniques for reducing technical risk in projects.
+Software Engineering,Engineering Manager,44,mid,How do you maintain visibility into team progress for execs?
+Software Engineering,Engineering Manager,45,high,Explain strategies to retain top engineering talent.
+Software Engineering,Engineering Manager,46,easy,How do you handle burnout and workload distribution? (behavioral)
+Software Engineering,Engineering Manager,47,mid,Describe how you'd set up career ladders and promotion criteria.
+Software Engineering,Engineering Manager,48,high,How do you handle conflicts between engineering and product priorities?
+Software Engineering,Engineering Manager,49,easy,What metrics do you track to measure engineering productivity?
+Software Engineering,Engineering Manager,50,mid,Describe your approach to mentoring new managers.

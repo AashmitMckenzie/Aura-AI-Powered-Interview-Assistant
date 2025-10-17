@@ -1,0 +1,251 @@
+Main Role,Sub Role,Question number,difficulty,question
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),1,easy,What is the importance of follow-ups in sales?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),2,easy,How do you structure a sales pitch?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),3,easy,Scenario 24: How would you handle closing for a retail product deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),4,easy,What is cold calling and how do you handle rejection?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),5,easy,Scenario 11: How would you handle negotiation for a enterprise software deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),6,easy,Scenario 22: How would you handle prospecting for a retail product deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),7,easy,Scenario 5: How would you handle prospecting for a consulting services deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),8,easy,Scenario 14: How would you handle account management for a consulting services deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),9,easy,Scenario 6: How would you handle account management for a retail product deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),10,easy,Scenario 12: How would you handle prospecting for a enterprise software deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),11,easy,Scenario 16: How would you handle negotiation for a consulting services deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),12,easy,Scenario 15: How would you handle account management for a retail product deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),13,easy,How do you handle pricing objections?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),14,easy,How do you calculate customer lifetime value (CLV)?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),15,easy,Scenario 2: How would you handle prospecting for a consulting services deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),16,easy,Scenario 21: How would you handle closing for a enterprise software deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),17,easy,What is your experience with sales quotas?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),18,easy,What CRM tools have you used?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),19,mid,What is the difference between upselling and cross-selling?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),20,mid,What is your process for qualifying leads?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),21,mid,What tools do you use for lead generation?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),22,mid,What do you know about consultative selling?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),23,mid,How do you handle objections from a prospect?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),24,mid,How do you identify decision-makers in a company?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),25,mid,Scenario 7: How would you handle closing for a enterprise software deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),26,mid,How do you manage a long sales cycle?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),27,mid,Scenario 10: How would you handle prospecting for a SaaS deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),28,mid,Scenario 19: How would you handle account management for a enterprise software deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),29,mid,How do you prioritize leads?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),30,mid,Scenario 3: How would you handle closing for a SaaS deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),31,mid,How do you handle a difficult client?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),32,mid,What motivates you in sales?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),33,mid,How do you prepare before a client meeting?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),34,mid,How do you approach a new prospect?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),35,mid,How do you build rapport with a potential client?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),36,mid,What is your strategy for nurturing leads?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),37,mid,Scenario 1: How would you handle prospecting for a retail product deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),38,mid,Scenario 13: How would you handle prospecting for a retail product deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),39,high,Scenario 25: How would you handle prospecting for a retail product deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),40,high,Scenario 23: How would you handle negotiation for a enterprise software deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),41,high,Scenario 4: How would you handle prospecting for a enterprise software deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),42,high,What is SPIN selling?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),43,high,Scenario 17: How would you handle account management for a SaaS deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),44,high,How do you manage multiple prospects at once?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),45,high,Scenario 20: How would you handle account management for a consulting services deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),46,high,Scenario 8: How would you handle negotiation for a consulting services deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),47,high,What is a sales pipeline?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),48,high,Scenario 18: How would you handle prospecting for a consulting services deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),49,high,Scenario 9: How would you handle negotiation for a enterprise software deal?
+Sales Executive / Business Development,Sales Associate / Business Development Representative (BDR),50,high,What is the difference between inbound and outbound sales?
+Sales Executive / Business Development,Sales Executive,1,easy,What role does storytelling play in sales?
+Sales Executive / Business Development,Sales Executive,2,easy,Scenario 1: How would you handle closing for a consulting services deal?
+Sales Executive / Business Development,Sales Executive,3,easy,What is the importance of follow-ups in sales? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,4,easy,What is account-based selling?
+Sales Executive / Business Development,Sales Executive,5,easy,How do you collaborate with marketing for lead generation?
+Sales Executive / Business Development,Sales Executive,6,easy,What’s your experience with territory management?
+Sales Executive / Business Development,Sales Executive,7,easy,What is your experience with sales quotas? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,8,easy,How do you tailor pitches for different industries?
+Sales Executive / Business Development,Sales Executive,9,easy,What motivates you in sales? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,10,easy,How do you manage your sales pipeline?
+Sales Executive / Business Development,Sales Executive,11,easy,What tools do you use for lead generation? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,12,easy,Scenario 8: How would you handle closing for a enterprise software deal?
+Sales Executive / Business Development,Sales Executive,13,easy,Scenario 2: How would you handle negotiation for a enterprise software deal?
+Sales Executive / Business Development,Sales Executive,14,easy,How do you structure a sales pitch? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,15,easy,Scenario 4: How would you handle prospecting for a retail product deal?
+Sales Executive / Business Development,Sales Executive,16,easy,How do you manage recurring revenue accounts?
+Sales Executive / Business Development,Sales Executive,17,easy,What is cold calling and how do you handle rejection? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,18,easy,How do you handle gatekeepers when reaching decision-makers?
+Sales Executive / Business Development,Sales Executive,19,mid,Scenario 10: How would you handle account management for a SaaS deal?
+Sales Executive / Business Development,Sales Executive,20,mid,What is value-based selling?
+Sales Executive / Business Development,Sales Executive,21,mid,How do you handle pricing objections? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,22,mid,Scenario 3: How would you handle prospecting for a consulting services deal?
+Sales Executive / Business Development,Sales Executive,23,mid,What is the difference between upselling and cross-selling? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,24,mid,What is SPIN selling? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,25,mid,What KPIs do you track in sales?
+Sales Executive / Business Development,Sales Executive,26,mid,What is the difference between B2B and B2C sales?
+Sales Executive / Business Development,Sales Executive,27,mid,How do you approach a new prospect? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,28,mid,What is your process for qualifying leads? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,29,mid,What is a sales pipeline? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,30,mid,How do you manage a long sales cycle? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,31,mid,How do you build rapport with a potential client? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,32,mid,How do you ensure data accuracy in CRM?
+Sales Executive / Business Development,Sales Executive,33,mid,What is the difference between inbound and outbound sales? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,34,mid,How do you handle a difficult client? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,35,mid,What is your approach to closing deals?
+Sales Executive / Business Development,Sales Executive,36,mid,How do you manage multiple prospects at once? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,37,mid,Scenario 9: How would you handle negotiation for a enterprise software deal? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,38,mid,How do you prioritize leads? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,39,high,What is your strategy for nurturing leads? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,40,high,What CRM tools have you used? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,41,high,How do you use LinkedIn for sales prospecting?
+Sales Executive / Business Development,Sales Executive,42,high,Scenario 7: How would you handle prospecting for a consulting services deal?
+Sales Executive / Business Development,Sales Executive,43,high,How do you handle objections from a prospect? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,44,high,Scenario 5: How would you handle account management for a SaaS deal?
+Sales Executive / Business Development,Sales Executive,45,high,How do you prepare before a client meeting? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,46,high,Scenario 6: How would you handle account management for a retail product deal? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,47,high,What do you know about consultative selling? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,48,high,How do you identify decision-makers in a company? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,49,high,How do you calculate customer lifetime value (CLV)? (Context: Sales Executive)
+Sales Executive / Business Development,Sales Executive,50,high,How do you approach referral selling?
+Sales Executive / Business Development,Senior Sales Executive,1,easy,What role does storytelling play in sales? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,2,easy,How do you calculate customer lifetime value (CLV)? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,3,easy,How do you coach peers on sales techniques?
+Sales Executive / Business Development,Senior Sales Executive,4,easy,How do you identify upsell opportunities in key accounts?
+Sales Executive / Business Development,Senior Sales Executive,5,easy,Scenario 8: How would you handle account management for a SaaS deal?
+Sales Executive / Business Development,Senior Sales Executive,6,easy,How do you analyze lost deals?
+Sales Executive / Business Development,Senior Sales Executive,7,easy,How do you handle gatekeepers when reaching decision-makers? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,8,easy,How do you manage a long sales cycle? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,9,easy,Scenario 4: How would you handle negotiation for a consulting services deal?
+Sales Executive / Business Development,Senior Sales Executive,10,easy,What role does data analytics play in sales strategy?
+Sales Executive / Business Development,Senior Sales Executive,11,easy,Scenario 9: How would you handle negotiation for a SaaS deal?
+Sales Executive / Business Development,Senior Sales Executive,12,easy,Scenario 3: How would you handle closing for a SaaS deal? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,13,easy,Scenario 7: How would you handle closing for a consulting services deal?
+Sales Executive / Business Development,Senior Sales Executive,14,easy,What is your approach to contract management?
+Sales Executive / Business Development,Senior Sales Executive,15,easy,What methods do you use for strategic account planning?
+Sales Executive / Business Development,Senior Sales Executive,16,easy,How do you tailor pitches for different industries? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,17,easy,How do you manage recurring revenue accounts? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,18,easy,What strategies do you use for enterprise-level deals?
+Sales Executive / Business Development,Senior Sales Executive,19,mid,Scenario 2: How would you handle account management for a enterprise software deal?
+Sales Executive / Business Development,Senior Sales Executive,20,mid,How do you ensure data accuracy in CRM? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,21,mid,What is the difference between B2B and B2C sales? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,22,mid,Scenario 10: How would you handle closing for a consulting services deal?
+Sales Executive / Business Development,Senior Sales Executive,23,mid,Scenario 6: How would you handle closing for a retail product deal?
+Sales Executive / Business Development,Senior Sales Executive,24,mid,How do you collaborate with marketing for lead generation? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,25,mid,How do you manage your sales pipeline? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,26,mid,What KPIs do you track in sales? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,27,mid,How do you approach referral selling? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,28,mid,What is your strategy for nurturing leads? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,29,mid,What is your approach to subscription-based sales models?
+Sales Executive / Business Development,Senior Sales Executive,30,mid,What is value-based selling? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,31,mid,What is your strategy for penetrating new markets?
+Sales Executive / Business Development,Senior Sales Executive,32,mid,How do you forecast sales accurately?
+Sales Executive / Business Development,Senior Sales Executive,33,mid,What’s your experience with territory management? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,34,mid,What is account-based selling? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,35,mid,How do you evaluate sales performance beyond quotas?
+Sales Executive / Business Development,Senior Sales Executive,36,mid,How do you negotiate with procurement departments?
+Sales Executive / Business Development,Senior Sales Executive,37,mid,What is SPIN selling? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,38,mid,What is your approach to closing deals? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,39,high,How do you handle competitive selling situations?
+Sales Executive / Business Development,Senior Sales Executive,40,high,How do you use LinkedIn for sales prospecting? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,41,high,How do you evaluate sales enablement tools?
+Sales Executive / Business Development,Senior Sales Executive,42,high,What tools do you use for pipeline analytics?
+Sales Executive / Business Development,Senior Sales Executive,43,high,What is your strategy for international sales?
+Sales Executive / Business Development,Senior Sales Executive,44,high,How do you manage multi-stakeholder negotiations?
+Sales Executive / Business Development,Senior Sales Executive,45,high,How do you balance product knowledge with persuasion skills?
+Sales Executive / Business Development,Senior Sales Executive,46,high,Scenario 1: How would you handle negotiation for a consulting services deal?
+Sales Executive / Business Development,Senior Sales Executive,47,high,How do you structure a sales pitch? (Context: Senior Sales Executive)
+Sales Executive / Business Development,Senior Sales Executive,48,high,How do you balance short-term wins with long-term growth?
+Sales Executive / Business Development,Senior Sales Executive,49,high,How do you prepare executive-level proposals?
+Sales Executive / Business Development,Senior Sales Executive,50,high,Scenario 5: How would you handle negotiation for a retail product deal?
+Sales Executive / Business Development,Sales Manager,1,easy,How do you balance product knowledge with persuasion skills? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,2,easy,Scenario 8: How would you handle closing for a retail product deal?
+Sales Executive / Business Development,Sales Manager,3,easy,What is your strategy for penetrating new markets? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,4,easy,Scenario 15: How would you handle prospecting for a retail product deal?
+Sales Executive / Business Development,Sales Manager,5,easy,Scenario 4: How would you handle closing for a SaaS deal?
+Sales Executive / Business Development,Sales Manager,6,easy,What is your philosophy on sales incentives?
+Sales Executive / Business Development,Sales Manager,7,easy,How do you forecast sales accurately? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,8,easy,Scenario 10: How would you handle prospecting for a consulting services deal?
+Sales Executive / Business Development,Sales Manager,9,easy,What is your approach to subscription-based sales models? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,10,easy,What is your strategy for international sales? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,11,easy,How do you evaluate sales enablement tools? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,12,easy,How do you prepare executive-level proposals? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,13,easy,Scenario 2: How would you handle account management for a retail product deal?
+Sales Executive / Business Development,Sales Manager,14,easy,How do you negotiate with procurement departments? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,15,easy,Scenario 23: How would you handle negotiation for a consulting services deal?
+Sales Executive / Business Development,Sales Manager,16,easy,What is your approach to building a sales strategy?
+Sales Executive / Business Development,Sales Manager,17,easy,How do you analyze lost deals? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,18,easy,Scenario 11: How would you handle prospecting for a enterprise software deal?
+Sales Executive / Business Development,Sales Manager,19,mid,Scenario 18: How would you handle account management for a consulting services deal?
+Sales Executive / Business Development,Sales Manager,20,mid,Scenario 14: How would you handle closing for a enterprise software deal?
+Sales Executive / Business Development,Sales Manager,21,mid,How do you set sales quotas for teams?
+Sales Executive / Business Development,Sales Manager,22,mid,What is your approach to contract management? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,23,mid,Scenario 21: How would you handle account management for a retail product deal?
+Sales Executive / Business Development,Sales Manager,24,mid,How do you align sales goals with company objectives?
+Sales Executive / Business Development,Sales Manager,25,mid,Scenario 20: How would you handle prospecting for a retail product deal?
+Sales Executive / Business Development,Sales Manager,26,mid,What strategies do you use for enterprise-level deals? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,27,mid,How do you handle competitive selling situations? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,28,mid,Scenario 5: How would you handle prospecting for a retail product deal?
+Sales Executive / Business Development,Sales Manager,29,mid,Scenario 9: How would you handle negotiation for a retail product deal?
+Sales Executive / Business Development,Sales Manager,30,mid,Scenario 16: How would you handle prospecting for a consulting services deal?
+Sales Executive / Business Development,Sales Manager,31,mid,Scenario 1: How would you handle prospecting for a SaaS deal?
+Sales Executive / Business Development,Sales Manager,32,mid,Scenario 3: How would you handle prospecting for a consulting services deal? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,33,mid,How do you coach peers on sales techniques? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,34,mid,Scenario 25: How would you handle prospecting for a consulting services deal?
+Sales Executive / Business Development,Sales Manager,35,mid,How do you balance short-term wins with long-term growth? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,36,mid,How do you evaluate sales performance beyond quotas? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,37,mid,What tools do you use for pipeline analytics? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,38,mid,How do you hire and train sales talent?
+Sales Executive / Business Development,Sales Manager,39,high,What methods do you use for strategic account planning? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,40,high,Scenario 22: How would you handle closing for a SaaS deal?
+Sales Executive / Business Development,Sales Manager,41,high,How do you identify upsell opportunities in key accounts? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,42,high,What role does data analytics play in sales strategy? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,43,high,Scenario 7: How would you handle closing for a enterprise software deal? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,44,high,How do you manage multi-stakeholder negotiations? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,45,high,Scenario 6: How would you handle closing for a retail product deal? (Context: Sales Manager)
+Sales Executive / Business Development,Sales Manager,46,high,Scenario 13: How would you handle closing for a consulting services deal?
+Sales Executive / Business Development,Sales Manager,47,high,Scenario 17: How would you handle account management for a retail product deal?
+Sales Executive / Business Development,Sales Manager,48,high,Scenario 24: How would you handle closing for a SaaS deal?
+Sales Executive / Business Development,Sales Manager,49,high,Scenario 12: How would you handle account management for a SaaS deal?
+Sales Executive / Business Development,Sales Manager,50,high,Scenario 19: How would you handle negotiation for a consulting services deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,1,easy,How do you align sales goals with company objectives? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,2,easy,Scenario 5: How would you handle account management for a consulting services deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,3,easy,Scenario 20: How would you handle closing for a consulting services deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,4,easy,How do you handle conflict within a sales team?
+Sales Executive / Business Development,Head of Sales / VP Sales,5,easy,What metrics do you review in sales team performance?
+Sales Executive / Business Development,Head of Sales / VP Sales,6,easy,How do you manage underperforming sales reps?
+Sales Executive / Business Development,Head of Sales / VP Sales,7,easy,Scenario 30: How would you handle account management for a SaaS deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,8,easy,Scenario 22: How would you handle negotiation for a consulting services deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,9,easy,How do you forecast sales accurately? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,10,easy,Scenario 29: How would you handle prospecting for a SaaS deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,11,easy,Scenario 27: How would you handle closing for a enterprise software deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,12,easy,Scenario 23: How would you handle account management for a SaaS deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,13,easy,How do you present sales results to the board?
+Sales Executive / Business Development,Head of Sales / VP Sales,14,easy,Scenario 16: How would you handle closing for a SaaS deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,15,easy,Scenario 9: How would you handle account management for a SaaS deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,16,easy,How do you hire and train sales talent? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,17,easy,Scenario 8: How would you handle prospecting for a consulting services deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,18,easy,Scenario 26: How would you handle account management for a SaaS deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,19,mid,Scenario 13: How would you handle account management for a consulting services deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,20,mid,Scenario 4: How would you handle prospecting for a SaaS deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,21,mid,Scenario 3: How would you handle closing for a SaaS deal? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,22,mid,Scenario 19: How would you handle closing for a retail product deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,23,mid,What is your experience with restructuring sales teams?
+Sales Executive / Business Development,Head of Sales / VP Sales,24,mid,Scenario 24: How would you handle account management for a SaaS deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,25,mid,Scenario 25: How would you handle prospecting for a consulting services deal? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,26,mid,How do you collaborate with other department heads?
+Sales Executive / Business Development,Head of Sales / VP Sales,27,mid,What is your approach to territory planning at scale?
+Sales Executive / Business Development,Head of Sales / VP Sales,28,mid,Scenario 21: How would you handle prospecting for a enterprise software deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,29,mid,Scenario 15: How would you handle negotiation for a enterprise software deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,30,mid,Scenario 1: How would you handle account management for a SaaS deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,31,mid,Scenario 7: How would you handle prospecting for a consulting services deal? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,32,mid,Scenario 12: How would you handle closing for a consulting services deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,33,mid,Scenario 11: How would you handle closing for a SaaS deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,34,mid,Scenario 18: How would you handle closing for a consulting services deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,35,mid,What is your approach to building a sales strategy? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,36,mid,What is your philosophy on sales incentives? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,37,mid,What is your approach to contract management? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,38,mid,How do you forecast revenue for the organization?
+Sales Executive / Business Development,Head of Sales / VP Sales,39,high,How do you set sales quotas for teams? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,40,high,Scenario 14: How would you handle negotiation for a SaaS deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,41,high,How do you negotiate with procurement departments? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,42,high,Scenario 10: How would you handle prospecting for a SaaS deal? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,43,high,Scenario 6: How would you handle account management for a consulting services deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,44,high,Scenario 28: How would you handle prospecting for a SaaS deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,45,high,What strategies do you use for enterprise-level deals? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,46,high,What is your strategy for international expansion?
+Sales Executive / Business Development,Head of Sales / VP Sales,47,high,Scenario 17: How would you handle prospecting for a enterprise software deal?
+Sales Executive / Business Development,Head of Sales / VP Sales,48,high,What role does technology play in scaling sales operations?
+Sales Executive / Business Development,Head of Sales / VP Sales,49,high,How do you handle competitive selling situations? (Context: Head of Sales / VP Sales)
+Sales Executive / Business Development,Head of Sales / VP Sales,50,high,Scenario 2: How would you handle account management for a enterprise software deal? (Context: Head of Sales / VP Sales)

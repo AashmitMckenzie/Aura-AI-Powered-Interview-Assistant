@@ -1,0 +1,251 @@
+Main Role,Sub Role,Question Number,Difficulty,Question
+UI/UX Designer,Junior UX Designer,1,easy,What is the difference between UI and UX design?
+UI/UX Designer,Junior UX Designer,2,mid,What are wireframes and why are they important?
+UI/UX Designer,Junior UX Designer,3,high,What tools do you use for wireframing and prototyping?
+UI/UX Designer,Junior UX Designer,4,easy,What is a user persona?
+UI/UX Designer,Junior UX Designer,5,mid,What is usability testing?
+UI/UX Designer,Junior UX Designer,6,high,How do you conduct a basic user interview?
+UI/UX Designer,Junior UX Designer,7,easy,What are the principles of good UX design?
+UI/UX Designer,Junior UX Designer,8,mid,What is the purpose of a mood board?
+UI/UX Designer,Junior UX Designer,9,high,What is an empathy map?
+UI/UX Designer,Junior UX Designer,10,easy,What is a customer journey map?
+UI/UX Designer,Junior UX Designer,11,mid,What is information architecture?
+UI/UX Designer,Junior UX Designer,12,high,What are low-fidelity vs high-fidelity prototypes?
+UI/UX Designer,Junior UX Designer,13,easy,What is heuristic evaluation?
+UI/UX Designer,Junior UX Designer,14,mid,What is accessibility in design?
+UI/UX Designer,Junior UX Designer,15,high,What is the role of typography in UI design?
+UI/UX Designer,Junior UX Designer,16,easy,What is the difference between mobile-first and responsive design?
+UI/UX Designer,Junior UX Designer,17,mid,What is color theory and why is it important in UI design?
+UI/UX Designer,Junior UX Designer,18,high,What is the golden ratio in design?
+UI/UX Designer,Junior UX Designer,19,easy,What are microinteractions in UI?
+UI/UX Designer,Junior UX Designer,20,mid,What is card sorting in UX research?
+UI/UX Designer,Junior UX Designer,21,high,What is A/B testing in design?
+UI/UX Designer,Junior UX Designer,22,easy,What is a design system?
+UI/UX Designer,Junior UX Designer,23,mid,What are affordances in UI design?
+UI/UX Designer,Junior UX Designer,24,high,What is the importance of consistency in UI?
+UI/UX Designer,Junior UX Designer,25,easy,What is skeuomorphic design?
+UI/UX Designer,Junior UX Designer,26,mid,What is flat design?
+UI/UX Designer,Junior UX Designer,27,high,What are the key principles of Gestalt psychology in design?
+UI/UX Designer,Junior UX Designer,28,easy,What is a design sprint?
+UI/UX Designer,Junior UX Designer,29,mid,What is a style guide in UI/UX?
+UI/UX Designer,Junior UX Designer,30,high,What is responsive grid layout?
+UI/UX Designer,Junior UX Designer,31,easy,What is the importance of whitespace in design?
+UI/UX Designer,Junior UX Designer,32,mid,What are wireflow diagrams?
+UI/UX Designer,Junior UX Designer,33,high,What is usability heuristics by Nielsen?
+UI/UX Designer,Junior UX Designer,34,easy,What is progressive disclosure in UX?
+UI/UX Designer,Junior UX Designer,35,mid,What is onboarding in UX?
+UI/UX Designer,Junior UX Designer,36,high,What is CTA (Call To Action) design?
+UI/UX Designer,Junior UX Designer,37,easy,What is the difference between UX research and usability testing?
+UI/UX Designer,Junior UX Designer,38,mid,What is the importance of feedback in UI design?
+UI/UX Designer,Junior UX Designer,39,high,What is a clickable prototype?
+UI/UX Designer,Junior UX Designer,40,easy,What is the difference between qualitative and quantitative research?
+UI/UX Designer,Junior UX Designer,41,mid,What is the role of empathy in UX design?
+UI/UX Designer,Junior UX Designer,42,high,What are personas vs archetypes?
+UI/UX Designer,Junior UX Designer,43,easy,What is skeuomorphism vs flat design?
+UI/UX Designer,Junior UX Designer,44,mid,What is a usability scorecard?
+UI/UX Designer,Junior UX Designer,45,high,What is error prevention in UX?
+UI/UX Designer,Junior UX Designer,46,easy,What is user flow vs task flow?
+UI/UX Designer,Junior UX Designer,47,mid,What is visual hierarchy in design?
+UI/UX Designer,Junior UX Designer,48,high,What is a sitemap in UX design?
+UI/UX Designer,Junior UX Designer,49,easy,What is eye-tracking in UX research?
+UI/UX Designer,Junior UX Designer,50,mid,What is delight in UX design?
+UI/UX Designer,UX / UI Designer,1,easy,What is the double diamond design process?
+UI/UX Designer,UX / UI Designer,2,mid,What are the differences between user-centered and human-centered design?
+UI/UX Designer,UX / UI Designer,3,high,What is a service blueprint?
+UI/UX Designer,UX / UI Designer,4,easy,What is the role of usability heuristics in product evaluation?
+UI/UX Designer,UX / UI Designer,5,mid,What is Fitts’s law and its application in UI design?
+UI/UX Designer,UX / UI Designer,6,high,What is Hick’s law in design?
+UI/UX Designer,UX / UI Designer,7,easy,What is the role of cognitive load in UX?
+UI/UX Designer,UX / UI Designer,8,mid,What is responsive vs adaptive design?
+UI/UX Designer,UX / UI Designer,9,high,What is accessibility compliance (WCAG)?
+UI/UX Designer,UX / UI Designer,10,easy,What is inclusive design?
+UI/UX Designer,UX / UI Designer,11,mid,What is the 60-30-10 color rule?
+UI/UX Designer,UX / UI Designer,12,high,What is mobile-first design approach?
+UI/UX Designer,UX / UI Designer,13,easy,What are design tokens?
+UI/UX Designer,UX / UI Designer,14,mid,What is component-based design?
+UI/UX Designer,UX / UI Designer,15,high,What are touch targets and guidelines for mobile UI?
+UI/UX Designer,UX / UI Designer,16,easy,What is motion design in UI?
+UI/UX Designer,UX / UI Designer,17,mid,What is parallax scrolling?
+UI/UX Designer,UX / UI Designer,18,high,What are dark patterns in UX?
+UI/UX Designer,UX / UI Designer,19,easy,What is UX writing?
+UI/UX Designer,UX / UI Designer,20,mid,What is localization in design?
+UI/UX Designer,UX / UI Designer,21,high,What are responsive breakpoints?
+UI/UX Designer,UX / UI Designer,22,easy,What is the 8-point grid system?
+UI/UX Designer,UX / UI Designer,23,mid,What is a usability benchmark study?
+UI/UX Designer,UX / UI Designer,24,high,What are user stories in UX design?
+UI/UX Designer,UX / UI Designer,25,easy,What is a prototype fidelity spectrum?
+UI/UX Designer,UX / UI Designer,26,mid,What are affordances and signifiers?
+UI/UX Designer,UX / UI Designer,27,high,What is a pattern library?
+UI/UX Designer,UX / UI Designer,28,easy,What is conversion rate optimization (CRO)?
+UI/UX Designer,UX / UI Designer,29,mid,What is usability debt?
+UI/UX Designer,UX / UI Designer,30,high,What is a usability lab?
+UI/UX Designer,UX / UI Designer,31,easy,What is heatmap analysis in UX research?
+UI/UX Designer,UX / UI Designer,32,mid,What are personas vs jobs-to-be-done?
+UI/UX Designer,UX / UI Designer,33,high,What is Kano model in UX prioritization?
+UI/UX Designer,UX / UI Designer,34,easy,What are pain points in UX research?
+UI/UX Designer,UX / UI Designer,35,mid,What is a usability report?
+UI/UX Designer,UX / UI Designer,36,high,What is customer journey orchestration?
+UI/UX Designer,UX / UI Designer,37,easy,What is mobile usability testing?
+UI/UX Designer,UX / UI Designer,38,mid,What is multivariate testing?
+UI/UX Designer,UX / UI Designer,39,high,What are gamification elements in UX?
+UI/UX Designer,UX / UI Designer,40,easy,What is information scent in UX?
+UI/UX Designer,UX / UI Designer,41,mid,What is the role of context in design research?
+UI/UX Designer,UX / UI Designer,42,high,What is user onboarding experience?
+UI/UX Designer,UX / UI Designer,43,easy,What is skeuomorphic vs neumorphic design?
+UI/UX Designer,UX / UI Designer,44,mid,What are clickstreams in UX analytics?
+UI/UX Designer,UX / UI Designer,45,high,What is a usability maturity model?
+UI/UX Designer,UX / UI Designer,46,easy,What is participatory design?
+UI/UX Designer,UX / UI Designer,47,mid,What is a heuristic walkthrough?
+UI/UX Designer,UX / UI Designer,48,high,What is eye movement modeling examples (EMME)?
+UI/UX Designer,UX / UI Designer,49,easy,What are key deliverables in UX design projects?
+UI/UX Designer,UX / UI Designer,50,mid,What is a usability tree?
+UI/UX Designer,Senior UX Designer,1,easy,How do you conduct advanced usability studies?
+UI/UX Designer,Senior UX Designer,2,mid,What is eye-tracking used for in UX research?
+UI/UX Designer,Senior UX Designer,3,high,What is mixed-method research in UX?
+UI/UX Designer,Senior UX Designer,4,easy,What is journey analytics?
+UI/UX Designer,Senior UX Designer,5,mid,How do you validate design hypotheses?
+UI/UX Designer,Senior UX Designer,6,high,What is cognitive walkthrough method?
+UI/UX Designer,Senior UX Designer,7,easy,What is ethnographic research in UX?
+UI/UX Designer,Senior UX Designer,8,mid,How do you handle conflicting stakeholder requirements?
+UI/UX Designer,Senior UX Designer,9,high,What is participatory action research?
+UI/UX Designer,Senior UX Designer,10,easy,How do you conduct heuristic evaluations at scale?
+UI/UX Designer,Senior UX Designer,11,mid,What is triangulation in UX research?
+UI/UX Designer,Senior UX Designer,12,high,What is service design and its deliverables?
+UI/UX Designer,Senior UX Designer,13,easy,What are OKRs for UX design teams?
+UI/UX Designer,Senior UX Designer,14,mid,What is design debt and how to manage it?
+UI/UX Designer,Senior UX Designer,15,high,What is design critique and how do you run one effectively?
+UI/UX Designer,Senior UX Designer,16,easy,What is co-creation workshop in UX?
+UI/UX Designer,Senior UX Designer,17,mid,What is contextual inquiry?
+UI/UX Designer,Senior UX Designer,18,high,What is the role of UX in Agile development?
+UI/UX Designer,Senior UX Designer,19,easy,How do you measure usability metrics like SUS?
+UI/UX Designer,Senior UX Designer,20,mid,What is predictive UX?
+UI/UX Designer,Senior UX Designer,21,high,What is UX maturity model?
+UI/UX Designer,Senior UX Designer,22,easy,How do you perform competitive UX benchmarking?
+UI/UX Designer,Senior UX Designer,23,mid,What is cross-cultural UX design?
+UI/UX Designer,Senior UX Designer,24,high,What is the role of accessibility audits?
+UI/UX Designer,Senior UX Designer,25,easy,How do you manage design handoff to developers?
+UI/UX Designer,Senior UX Designer,26,mid,What is customer effort score in UX?
+UI/UX Designer,Senior UX Designer,27,high,What is product discovery in UX?
+UI/UX Designer,Senior UX Designer,28,easy,How do you balance innovation and usability?
+UI/UX Designer,Senior UX Designer,29,mid,What are service blueprints used for?
+UI/UX Designer,Senior UX Designer,30,high,What is a design thinking workshop?
+UI/UX Designer,Senior UX Designer,31,easy,How do you create KPI dashboards for UX?
+UI/UX Designer,Senior UX Designer,32,mid,What is the HEART framework for UX metrics?
+UI/UX Designer,Senior UX Designer,33,high,What is task success rate?
+UI/UX Designer,Senior UX Designer,34,easy,How do you measure time-on-task usability?
+UI/UX Designer,Senior UX Designer,35,mid,What is the importance of error rates in UX studies?
+UI/UX Designer,Senior UX Designer,36,high,What is the role of NPS in UX measurement?
+UI/UX Designer,Senior UX Designer,37,easy,What is the role of A/B/n testing in UX optimization?
+UI/UX Designer,Senior UX Designer,38,mid,How do you prioritize design improvements?
+UI/UX Designer,Senior UX Designer,39,high,What is a design backlog?
+UI/UX Designer,Senior UX Designer,40,easy,What are lean UX principles?
+UI/UX Designer,Senior UX Designer,41,mid,What is hypothesis-driven design?
+UI/UX Designer,Senior UX Designer,42,high,How do you use analytics in UX decisions?
+UI/UX Designer,Senior UX Designer,43,easy,What is journey map validation?
+UI/UX Designer,Senior UX Designer,44,mid,What is a content audit in UX?
+UI/UX Designer,Senior UX Designer,45,high,How do you validate accessibility compliance?
+UI/UX Designer,Senior UX Designer,46,easy,What are anticipatory design patterns?
+UI/UX Designer,Senior UX Designer,47,mid,What is adaptive path in UX?
+UI/UX Designer,Senior UX Designer,48,high,What is anticipatory UX?
+UI/UX Designer,Senior UX Designer,49,easy,How do you test multimodal interfaces?
+UI/UX Designer,Senior UX Designer,50,mid,What is conversational UX design?
+UI/UX Designer,Lead UX Designer,1,easy,How do you lead UX strategy for a large-scale product?
+UI/UX Designer,Lead UX Designer,2,mid,How do you align UX with business objectives?
+UI/UX Designer,Lead UX Designer,3,high,What is the role of a design system at scale?
+UI/UX Designer,Lead UX Designer,4,easy,How do you measure design ROI?
+UI/UX Designer,Lead UX Designer,5,mid,How do you advocate for UX at executive level?
+UI/UX Designer,Lead UX Designer,6,high,How do you balance design consistency vs innovation?
+UI/UX Designer,Lead UX Designer,7,easy,What is your approach to cross-functional collaboration?
+UI/UX Designer,Lead UX Designer,8,mid,How do you lead user research programs?
+UI/UX Designer,Lead UX Designer,9,high,How do you ensure accessibility across multiple products?
+UI/UX Designer,Lead UX Designer,10,easy,What is the role of a UX roadmap?
+UI/UX Designer,Lead UX Designer,11,mid,How do you mentor junior designers?
+UI/UX Designer,Lead UX Designer,12,high,What is your approach to stakeholder buy-in for UX?
+UI/UX Designer,Lead UX Designer,13,easy,How do you run large-scale usability testing?
+UI/UX Designer,Lead UX Designer,14,mid,What is your approach to UX metrics dashboards?
+UI/UX Designer,Lead UX Designer,15,high,How do you handle design conflicts between teams?
+UI/UX Designer,Lead UX Designer,16,easy,What is your approach to internationalization in UX?
+UI/UX Designer,Lead UX Designer,17,mid,How do you plan for localization testing in UX?
+UI/UX Designer,Lead UX Designer,18,high,How do you manage a design critique culture?
+UI/UX Designer,Lead UX Designer,19,easy,How do you align UX with Agile/SAFe frameworks?
+UI/UX Designer,Lead UX Designer,20,mid,What is your strategy for user-centered KPIs?
+UI/UX Designer,Lead UX Designer,21,high,How do you validate UX experiments?
+UI/UX Designer,Lead UX Designer,22,easy,What is your approach to omnichannel UX?
+UI/UX Designer,Lead UX Designer,23,mid,How do you balance speed vs quality in design delivery?
+UI/UX Designer,Lead UX Designer,24,high,What is the role of OKRs in UX leadership?
+UI/UX Designer,Lead UX Designer,25,easy,How do you ensure UX compliance with standards?
+UI/UX Designer,Lead UX Designer,26,mid,How do you prioritize UX initiatives in roadmaps?
+UI/UX Designer,Lead UX Designer,27,high,How do you manage UX resource allocation?
+UI/UX Designer,Lead UX Designer,28,easy,How do you lead cross-functional design thinking workshops?
+UI/UX Designer,Lead UX Designer,29,mid,What is your approach to service design leadership?
+UI/UX Designer,Lead UX Designer,30,high,How do you manage remote UX teams?
+UI/UX Designer,Lead UX Designer,31,easy,What is your strategy for cross-platform consistency?
+UI/UX Designer,Lead UX Designer,32,mid,How do you define UX governance?
+UI/UX Designer,Lead UX Designer,33,high,How do you communicate UX impact to executives?
+UI/UX Designer,Lead UX Designer,34,easy,What is your approach to managing design systems?
+UI/UX Designer,Lead UX Designer,35,mid,How do you approach multi-device design challenges?
+UI/UX Designer,Lead UX Designer,36,high,What is your strategy for design innovation programs?
+UI/UX Designer,Lead UX Designer,37,easy,How do you evaluate success of UX initiatives?
+UI/UX Designer,Lead UX Designer,38,mid,What is your role in customer experience transformation?
+UI/UX Designer,Lead UX Designer,39,high,How do you integrate design with DevOps pipelines?
+UI/UX Designer,Lead UX Designer,40,easy,What is your approach to data-driven UX?
+UI/UX Designer,Lead UX Designer,41,mid,How do you balance qualitative vs quantitative insights?
+UI/UX Designer,Lead UX Designer,42,high,How do you lead experimentation in UX?
+UI/UX Designer,Lead UX Designer,43,easy,How do you validate hypotheses at scale?
+UI/UX Designer,Lead UX Designer,44,mid,What is your approach to AR/VR UX leadership?
+UI/UX Designer,Lead UX Designer,45,high,What is your strategy for conversational UX at scale?
+UI/UX Designer,Lead UX Designer,46,easy,How do you support UX in mergers & acquisitions?
+UI/UX Designer,Lead UX Designer,47,mid,What is your strategy for next-gen interfaces?
+UI/UX Designer,Lead UX Designer,48,high,How do you align UX with brand identity?
+UI/UX Designer,Lead UX Designer,49,easy,What is your approach to ethical design leadership?
+UI/UX Designer,Lead UX Designer,50,mid,How do you plan UX succession and talent growth?
+UI/UX Designer,Design Manager / Creative Director,1,easy,How do you define and communicate design vision for an organization?
+UI/UX Designer,Design Manager / Creative Director,2,mid,How do you align design goals with business strategy?
+UI/UX Designer,Design Manager / Creative Director,3,high,How do you measure design impact at executive level?
+UI/UX Designer,Design Manager / Creative Director,4,easy,What is your strategy for building design culture?
+UI/UX Designer,Design Manager / Creative Director,5,mid,How do you scale design teams globally?
+UI/UX Designer,Design Manager / Creative Director,6,high,How do you manage cross-functional design leadership?
+UI/UX Designer,Design Manager / Creative Director,7,easy,What is your approach to executive design advocacy?
+UI/UX Designer,Design Manager / Creative Director,8,mid,How do you prioritize design investments?
+UI/UX Designer,Design Manager / Creative Director,9,high,What is your strategy for fostering design innovation?
+UI/UX Designer,Design Manager / Creative Director,10,easy,How do you define design OKRs?
+UI/UX Designer,Design Manager / Creative Director,11,mid,How do you manage agency/vendor relationships in design?
+UI/UX Designer,Design Manager / Creative Director,12,high,What is your role in brand transformation?
+UI/UX Designer,Design Manager / Creative Director,13,easy,How do you ensure alignment between design and marketing?
+UI/UX Designer,Design Manager / Creative Director,14,mid,How do you manage design budgets?
+UI/UX Designer,Design Manager / Creative Director,15,high,What is your strategy for design governance?
+UI/UX Designer,Design Manager / Creative Director,16,easy,How do you balance operational vs strategic design leadership?
+UI/UX Designer,Design Manager / Creative Director,17,mid,How do you ensure inclusivity and accessibility in design culture?
+UI/UX Designer,Design Manager / Creative Director,18,high,What is your approach to executive reporting for design?
+UI/UX Designer,Design Manager / Creative Director,19,easy,How do you handle design risks?
+UI/UX Designer,Design Manager / Creative Director,20,mid,What is your approach to customer experience governance?
+UI/UX Designer,Design Manager / Creative Director,21,high,How do you support design in digital transformation?
+UI/UX Designer,Design Manager / Creative Director,22,easy,What is your role in enterprise design systems?
+UI/UX Designer,Design Manager / Creative Director,23,mid,How do you drive design-led innovation?
+UI/UX Designer,Design Manager / Creative Director,24,high,How do you collaborate with CIO/CTO for design strategy?
+UI/UX Designer,Design Manager / Creative Director,25,easy,What is your role in omnichannel experience management?
+UI/UX Designer,Design Manager / Creative Director,26,mid,How do you ensure brand consistency across touchpoints?
+UI/UX Designer,Design Manager / Creative Director,27,high,What is your strategy for ethical and sustainable design?
+UI/UX Designer,Design Manager / Creative Director,28,easy,How do you manage change management in design orgs?
+UI/UX Designer,Design Manager / Creative Director,29,mid,How do you mentor and grow design leaders?
+UI/UX Designer,Design Manager / Creative Director,30,high,What is your approach to diversity in design hiring?
+UI/UX Designer,Design Manager / Creative Director,31,easy,How do you measure ROI of design investments?
+UI/UX Designer,Design Manager / Creative Director,32,mid,What is your strategy for customer journey transformation?
+UI/UX Designer,Design Manager / Creative Director,33,high,How do you foster creativity under constraints?
+UI/UX Designer,Design Manager / Creative Director,34,easy,What is your approach to enterprise CX alignment?
+UI/UX Designer,Design Manager / Creative Director,35,mid,How do you plan succession in design leadership?
+UI/UX Designer,Design Manager / Creative Director,36,high,What is your role in enterprise-level UX governance?
+UI/UX Designer,Design Manager / Creative Director,37,easy,How do you scale design in fast-growing companies?
+UI/UX Designer,Design Manager / Creative Director,38,mid,"What is your approach to next-gen technologies in design (AI, AR, VR)?"
+UI/UX Designer,Design Manager / Creative Director,39,high,How do you align design with long-term business growth?
+UI/UX Designer,Design Manager / Creative Director,40,easy,How do you evaluate success of global design initiatives?
+UI/UX Designer,Design Manager / Creative Director,41,mid,What is your approach to executive stakeholder management?
+UI/UX Designer,Design Manager / Creative Director,42,high,How do you advocate for design at the board level?
+UI/UX Designer,Design Manager / Creative Director,43,easy,How do you manage interdepartmental conflicts around design?
+UI/UX Designer,Design Manager / Creative Director,44,mid,How do you approach brand-UX alignment strategies?
+UI/UX Designer,Design Manager / Creative Director,45,high,What is your role in digital customer experience innovation?
+UI/UX Designer,Design Manager / Creative Director,46,easy,How do you create metrics-driven design culture?
+UI/UX Designer,Design Manager / Creative Director,47,mid,What is your approach to building design academies internally?
+UI/UX Designer,Design Manager / Creative Director,48,high,How do you manage creative direction across multiple brands?
+UI/UX Designer,Design Manager / Creative Director,49,easy,How do you balance global vs local design requirements?
+UI/UX Designer,Design Manager / Creative Director,50,mid,What is your long-term vision for enterprise design leadership?

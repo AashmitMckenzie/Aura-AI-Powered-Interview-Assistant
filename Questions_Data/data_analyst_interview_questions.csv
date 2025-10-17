@@ -1,0 +1,251 @@
+Main Role,Sub Role,Question number,difficulty,question
+Data Analyst,Junior Data Analyst,1,easy,What is the difference between a spreadsheet and a database?
+Data Analyst,Junior Data Analyst,2,easy,Explain what a pivot table is and one use-case.
+Data Analyst,Junior Data Analyst,3,easy,How do you handle missing values in a dataset?
+Data Analyst,Junior Data Analyst,4,easy,What are the common file formats used for tabular data?
+Data Analyst,Junior Data Analyst,5,easy,What is filtering data and how is it useful?
+Data Analyst,Junior Data Analyst,6,easy,Describe the purpose of basic data validation.
+Data Analyst,Junior Data Analyst,7,easy,How would you find the average of a numeric column in Excel?
+Data Analyst,Junior Data Analyst,8,easy,What is sorting and how does it help during EDA?
+Data Analyst,Junior Data Analyst,9,easy,What does CSV stand for and why is it commonly used?
+Data Analyst,Junior Data Analyst,10,easy,Explain what a column and a row represent in a dataset.
+Data Analyst,Junior Data Analyst,11,easy,How do you convert text to numbers in Excel?
+Data Analyst,Junior Data Analyst,12,easy,Name two common data visualization chart types and when to use them.
+Data Analyst,Junior Data Analyst,13,easy,What is data entry validation and why is it important?
+Data Analyst,Junior Data Analyst,14,easy,How would you remove duplicate rows in a dataset?
+Data Analyst,Junior Data Analyst,15,easy,What is a primary key in a table?
+Data Analyst,Junior Data Analyst,16,easy,Explain what a histogram shows about a variable.
+Data Analyst,Junior Data Analyst,17,easy,What is the purpose of descriptive statistics?
+Data Analyst,Junior Data Analyst,18,easy,How do you perform a simple sum aggregation in Excel or SQL?
+Data Analyst,Junior Data Analyst,19,easy,What is basic data cleaning?
+Data Analyst,Junior Data Analyst,20,easy,How would you split a full name into first and last name in Excel?
+Data Analyst,Junior Data Analyst,21,mid,Write an SQL query to retrieve records where sales > 1000 from a table named sales.
+Data Analyst,Junior Data Analyst,22,mid,How would you join two tables to combine customer info and order info? Name the join type.
+Data Analyst,Junior Data Analyst,23,mid,Explain the difference between INNER JOIN and LEFT JOIN with an example.
+Data Analyst,Junior Data Analyst,24,mid,How do you handle outliers in a small dataset?
+Data Analyst,Junior Data Analyst,25,mid,Describe a situation where you would use VLOOKUP (or INDEX-MATCH) in Excel.
+Data Analyst,Junior Data Analyst,26,mid,How would you calculate a moving average over 7 days for a time series?
+Data Analyst,Junior Data Analyst,27,mid,Explain data normalization and when it is necessary.
+Data Analyst,Junior Data Analyst,28,mid,"How do you detect inconsistent categorical labels (e.g., 'NY' vs 'New York')?"
+Data Analyst,Junior Data Analyst,29,mid,Describe how you'd document your data cleaning steps for reproducibility.
+Data Analyst,Junior Data Analyst,30,mid,Explain the difference between mean and median and when to use each.
+Data Analyst,Junior Data Analyst,31,mid,How do you create a simple bar chart and what insight does it provide?
+Data Analyst,Junior Data Analyst,32,mid,Describe an approach to validate data imported from another system.
+Data Analyst,Junior Data Analyst,33,mid,How would you transform a long table to wide format (or vice versa)?
+Data Analyst,Junior Data Analyst,34,mid,Explain the difference between continuous and categorical variables.
+Data Analyst,Junior Data Analyst,35,mid,"How would you perform a basic aggregation (count, sum) grouped by a column in SQL?"
+Data Analyst,Junior Data Analyst,36,mid,Describe one method to check data quality programmatically.
+Data Analyst,Junior Data Analyst,37,mid,What is data type casting and why is it important?
+Data Analyst,Junior Data Analyst,38,mid,Explain cross-tabulation and a use-case for it.
+Data Analyst,Junior Data Analyst,39,mid,How would you handle date parsing issues when importing data?
+Data Analyst,Junior Data Analyst,40,mid,Describe a scenario where you would use conditional formatting in Excel.
+Data Analyst,Junior Data Analyst,41,high,"Given a dataset with missing timestamps and irregular intervals, how would you prepare it for time-series analysis?"
+Data Analyst,Junior Data Analyst,42,high,How would you design a small ETL process to clean CSV files and load them into a database?
+Data Analyst,Junior Data Analyst,43,high,Explain how you would estimate the impact of an incorrect data source on a report's KPIs.
+Data Analyst,Junior Data Analyst,44,high,Describe steps to evaluate whether a dataset is biased and what you would do about it.
+Data Analyst,Junior Data Analyst,45,high,How would you validate the accuracy of a computed field used in monthly reporting?
+Data Analyst,Junior Data Analyst,46,high,Explain techniques to optimize a slow Excel workbook with many formulas and pivots.
+Data Analyst,Junior Data Analyst,47,high,"Describe how you'd build a simple reproducible workflow using scripting (e.g., Python) for repeated reports."
+Data Analyst,Junior Data Analyst,48,high,How would you explain data lineage to a non-technical stakeholder?
+Data Analyst,Junior Data Analyst,49,high,Propose a testing strategy to ensure data quality in an ingestion pipeline.
+Data Analyst,Junior Data Analyst,50,high,Explain how you would approach verifying the correctness of a merge between two large datasets.
+Data Analyst,Data Analyst,1,easy,Explain SQL GROUP BY and provide a simple example.
+Data Analyst,Data Analyst,2,easy,What is a JOIN in SQL and list common types?
+Data Analyst,Data Analyst,3,easy,How do you interpret a boxplot?
+Data Analyst,Data Analyst,4,easy,What is a KPI and give three examples relevant to sales?
+Data Analyst,Data Analyst,5,easy,Explain correlation and whether it implies causation.
+Data Analyst,Data Analyst,6,easy,Describe the purpose of exploratory data analysis (EDA).
+Data Analyst,Data Analyst,7,easy,How would you handle date/time fields in analysis?
+Data Analyst,Data Analyst,8,easy,What are NULL values in SQL and how do you treat them?
+Data Analyst,Data Analyst,9,easy,Explain the difference between COUNT(*) and COUNT(column).
+Data Analyst,Data Analyst,10,easy,What is a foreign key in a relational database?
+Data Analyst,Data Analyst,11,easy,Name three visualizations you would use to show distribution of a variable.
+Data Analyst,Data Analyst,12,easy,How do you calculate percentage change between two periods?
+Data Analyst,Data Analyst,13,easy,What is a pivot chart and when would you use it?
+Data Analyst,Data Analyst,14,easy,Explain the concept of a dashboard.
+Data Analyst,Data Analyst,15,easy,Describe the difference between precision and recall (basic explanation).
+Data Analyst,Data Analyst,16,easy,How would you check for duplicate records in SQL?
+Data Analyst,Data Analyst,17,easy,What is data granularity?
+Data Analyst,Data Analyst,18,easy,Explain the use of DISTINCT in SQL queries.
+Data Analyst,Data Analyst,19,easy,How do you handle categorical variables before visualization?
+Data Analyst,Data Analyst,20,easy,Describe a use-case for a scatter plot.
+Data Analyst,Data Analyst,21,mid,Write an SQL query to find the top 5 customers by total spend from an orders table.
+Data Analyst,Data Analyst,22,mid,How would you perform cohort analysis for user retention?
+Data Analyst,Data Analyst,23,mid,Explain how to calculate a confidence interval for a mean.
+Data Analyst,Data Analyst,24,mid,Describe the steps to design a monthly KPI dashboard for executives.
+Data Analyst,Data Analyst,25,mid,How do you perform A/B test analysis and determine statistical significance?
+Data Analyst,Data Analyst,26,mid,Explain one-hot encoding and when to use it.
+Data Analyst,Data Analyst,27,mid,How would you use rolling aggregates to smooth noisy time-series data?
+Data Analyst,Data Analyst,28,mid,Describe an approach to detect data drift between training and current data.
+Data Analyst,Data Analyst,29,mid,How would you measure feature importance for a predictive model?
+Data Analyst,Data Analyst,30,mid,"Explain the use of window functions (e.g., ROW_NUMBER, RANK) with example."
+Data Analyst,Data Analyst,31,mid,How do you handle multicollinearity between features?
+Data Analyst,Data Analyst,32,mid,Describe how you'd clean and join data from multiple CSVs with mismatched schemas.
+Data Analyst,Data Analyst,33,mid,Explain the difference between supervised and unsupervised learning at a high level.
+Data Analyst,Data Analyst,34,mid,How would you compute the churn rate for a subscription product?
+Data Analyst,Data Analyst,35,mid,Describe how to build a funnel analysis and what insights it provides.
+Data Analyst,Data Analyst,36,mid,"Write an SQL query using CASE to bucket customers into 'low','medium','high' spend based on amount."
+Data Analyst,Data Analyst,37,mid,How would you create a normalized metric to compare stores of different sizes?
+Data Analyst,Data Analyst,38,mid,Explain Simpson's paradox with an example.
+Data Analyst,Data Analyst,39,mid,How do you validate that a segmentation you created is meaningful?
+Data Analyst,Data Analyst,40,mid,Describe steps to optimize an SQL query that is running slowly.
+Data Analyst,Data Analyst,41,high,"Design an experiment to evaluate the effect of a new pricing strategy on revenue, including metrics and statistical tests."
+Data Analyst,Data Analyst,42,high,Explain how you would build and validate a propensity model for upsell likelihood.
+Data Analyst,Data Analyst,43,high,How would you approach building a forecasting model for monthly demand with seasonality and promotions?
+Data Analyst,Data Analyst,44,high,Describe methods to attribute revenue across multiple marketing touchpoints (multi-touch attribution).
+Data Analyst,Data Analyst,45,high,Explain bootstrapping and how you'd use it to estimate uncertainty.
+Data Analyst,Data Analyst,46,high,Design a robust ETL architecture for daily ingestion of transactional data from multiple sources.
+Data Analyst,Data Analyst,47,high,How would you apply propensity score matching to estimate causal impact from observational data?
+Data Analyst,Data Analyst,48,high,Explain model monitoring and what metrics you would track in production.
+Data Analyst,Data Analyst,49,high,Describe how you'd build a performance dashboard that updates in near real-time.
+Data Analyst,Data Analyst,50,high,Design a process to evaluate and select among multiple forecasting models using backtesting.
+Data Analyst,Senior Data Analyst,1,easy,How do you mentor junior analysts during a project? (variant 1)
+Data Analyst,Senior Data Analyst,2,easy,Explain how to interpret a regression coefficient in a linear model. (variant 1)
+Data Analyst,Senior Data Analyst,3,easy,What are the steps of an end-to-end analysis project? (variant 1)
+Data Analyst,Senior Data Analyst,4,easy,How do you prioritize tasks when multiple stakeholders request analysis? (variant 1)
+Data Analyst,Senior Data Analyst,5,easy,Describe how to document an analysis for handoff. (variant 1)
+Data Analyst,Senior Data Analyst,6,easy,How do you communicate uncertainty to business stakeholders? (variant 1)
+Data Analyst,Senior Data Analyst,7,easy,Explain the difference between population and sample. (variant 1)
+Data Analyst,Senior Data Analyst,8,easy,What is statistical significance and p-value (intuitive explanation)? (variant 1)
+Data Analyst,Senior Data Analyst,9,easy,How would you organize code and scripts for reproducible analysis? (variant 1)
+Data Analyst,Senior Data Analyst,10,easy,Describe a time-series decomposition and what it shows. (variant 1)
+Data Analyst,Senior Data Analyst,11,easy,How do you mentor junior analysts during a project? (variant 2)
+Data Analyst,Senior Data Analyst,12,easy,Explain how to interpret a regression coefficient in a linear model. (variant 2)
+Data Analyst,Senior Data Analyst,13,easy,What are the steps of an end-to-end analysis project? (variant 2)
+Data Analyst,Senior Data Analyst,14,easy,How do you prioritize tasks when multiple stakeholders request analysis? (variant 2)
+Data Analyst,Senior Data Analyst,15,easy,Describe how to document an analysis for handoff. (variant 2)
+Data Analyst,Senior Data Analyst,16,easy,How do you communicate uncertainty to business stakeholders? (variant 2)
+Data Analyst,Senior Data Analyst,17,easy,Explain the difference between population and sample. (variant 2)
+Data Analyst,Senior Data Analyst,18,easy,What is statistical significance and p-value (intuitive explanation)? (variant 2)
+Data Analyst,Senior Data Analyst,19,easy,How would you organize code and scripts for reproducible analysis? (variant 2)
+Data Analyst,Senior Data Analyst,20,easy,Describe a time-series decomposition and what it shows. (variant 2)
+Data Analyst,Senior Data Analyst,21,mid,Design a KPI framework for an e-commerce analytics team including leading and lagging indicators. (variant 1)
+Data Analyst,Senior Data Analyst,22,mid,Explain how to set up regression analysis to measure impact of marketing spend on sales. (variant 1)
+Data Analyst,Senior Data Analyst,23,mid,How would you implement feature engineering pipelines for model training? (variant 1)
+Data Analyst,Senior Data Analyst,24,mid,Describe handling and interpretation of interaction terms in regression. (variant 1)
+Data Analyst,Senior Data Analyst,25,mid,How do you perform root-cause analysis for a sudden drop in conversion rate? (variant 1)
+Data Analyst,Senior Data Analyst,26,mid,Explain how to construct a validation strategy for time-series forecasting. (variant 1)
+Data Analyst,Senior Data Analyst,27,mid,Describe methods to reduce bias in sampling for user research. (variant 1)
+Data Analyst,Senior Data Analyst,28,mid,How would you build an anomaly detection system for critical metrics? (variant 1)
+Data Analyst,Senior Data Analyst,29,mid,Explain approaches to aggregate disparate data sources into a single customer view. (variant 1)
+Data Analyst,Senior Data Analyst,30,mid,Describe how to lead a cross-functional analytics request from scoping to delivery. (variant 1)
+Data Analyst,Senior Data Analyst,31,mid,Design a KPI framework for an e-commerce analytics team including leading and lagging indicators. (variant 2)
+Data Analyst,Senior Data Analyst,32,mid,Explain how to set up regression analysis to measure impact of marketing spend on sales. (variant 2)
+Data Analyst,Senior Data Analyst,33,mid,How would you implement feature engineering pipelines for model training? (variant 2)
+Data Analyst,Senior Data Analyst,34,mid,Describe handling and interpretation of interaction terms in regression. (variant 2)
+Data Analyst,Senior Data Analyst,35,mid,How do you perform root-cause analysis for a sudden drop in conversion rate? (variant 2)
+Data Analyst,Senior Data Analyst,36,mid,Explain how to construct a validation strategy for time-series forecasting. (variant 2)
+Data Analyst,Senior Data Analyst,37,mid,Describe methods to reduce bias in sampling for user research. (variant 2)
+Data Analyst,Senior Data Analyst,38,mid,How would you build an anomaly detection system for critical metrics? (variant 2)
+Data Analyst,Senior Data Analyst,39,mid,Explain approaches to aggregate disparate data sources into a single customer view. (variant 2)
+Data Analyst,Senior Data Analyst,40,mid,Describe how to lead a cross-functional analytics request from scoping to delivery. (variant 2)
+Data Analyst,Senior Data Analyst,41,high,"Design an end-to-end analytics solution to measure lifetime value (LTV) including data, models, and dashboards."
+Data Analyst,Senior Data Analyst,42,high,Explain advanced causal inference techniques you would consider for measuring marketing ROI.
+Data Analyst,Senior Data Analyst,43,high,How would you architect a scalable feature store for use by multiple models across teams?
+Data Analyst,Senior Data Analyst,44,high,Design a monitoring and alerting strategy for model degradation in production.
+Data Analyst,Senior Data Analyst,45,high,Describe how you'd convince stakeholders to adopt a data-driven experiment when they are skeptical.
+Data Analyst,Senior Data Analyst,46,high,Explain the trade-offs between bias and variance in complex modeling and how you'd address them.
+Data Analyst,Senior Data Analyst,47,high,Design a plan to migrate legacy reporting to a modern BI platform ensuring data accuracy.
+Data Analyst,Senior Data Analyst,48,high,How would you evaluate and select a third-party analytics vendor or tool?
+Data Analyst,Senior Data Analyst,49,high,Describe how to quantify and communicate the business impact of analytics projects.
+Data Analyst,Senior Data Analyst,50,high,"Explain a governance model for data ownership, quality, and access in a growing analytics organization."
+Data Analyst,Lead Data Analyst,1,easy,What leadership qualities are important for a lead analyst? (variant 1)
+Data Analyst,Lead Data Analyst,2,easy,How do you set expectations with stakeholders for deliverables? (variant 1)
+Data Analyst,Lead Data Analyst,3,easy,Describe how you perform a retrospective after a project. (variant 1)
+Data Analyst,Lead Data Analyst,4,easy,How would you build a roadmap for analytics deliverables? (variant 1)
+Data Analyst,Lead Data Analyst,5,easy,Explain how to handle conflicting priorities within the team. (variant 1)
+Data Analyst,Lead Data Analyst,6,easy,What is stakeholder management and why is it important? (variant 1)
+Data Analyst,Lead Data Analyst,7,easy,How do you ensure consistency in reporting across teams? (variant 1)
+Data Analyst,Lead Data Analyst,8,easy,Describe setting SLAs for report delivery. (variant 1)
+Data Analyst,Lead Data Analyst,9,easy,How do you onboard a new analyst to your team? (variant 1)
+Data Analyst,Lead Data Analyst,10,easy,Explain the role of documentation and knowledge sharing. (variant 1)
+Data Analyst,Lead Data Analyst,11,easy,What leadership qualities are important for a lead analyst? (variant 2)
+Data Analyst,Lead Data Analyst,12,easy,How do you set expectations with stakeholders for deliverables? (variant 2)
+Data Analyst,Lead Data Analyst,13,easy,Describe how you perform a retrospective after a project. (variant 2)
+Data Analyst,Lead Data Analyst,14,easy,How would you build a roadmap for analytics deliverables? (variant 2)
+Data Analyst,Lead Data Analyst,15,easy,Explain how to handle conflicting priorities within the team. (variant 2)
+Data Analyst,Lead Data Analyst,16,easy,What is stakeholder management and why is it important? (variant 2)
+Data Analyst,Lead Data Analyst,17,easy,How do you ensure consistency in reporting across teams? (variant 2)
+Data Analyst,Lead Data Analyst,18,easy,Describe setting SLAs for report delivery. (variant 2)
+Data Analyst,Lead Data Analyst,19,easy,How do you onboard a new analyst to your team? (variant 2)
+Data Analyst,Lead Data Analyst,20,easy,Explain the role of documentation and knowledge sharing. (variant 2)
+Data Analyst,Lead Data Analyst,21,mid,Design a hiring rubric for junior and mid-level data analysts. (variant 1)
+Data Analyst,Lead Data Analyst,22,mid,How would you structure an analytics team to support multiple product lines? (variant 1)
+Data Analyst,Lead Data Analyst,23,mid,Describe a process to standardize metrics across business units. (variant 1)
+Data Analyst,Lead Data Analyst,24,mid,How do you balance exploratory work vs. operational reporting in resourcing? (variant 1)
+Data Analyst,Lead Data Analyst,25,mid,Explain how you'd implement mentorship and career development for analysts. (variant 1)
+Data Analyst,Lead Data Analyst,26,mid,Design a process to prioritize analytics requests based on business impact. (variant 1)
+Data Analyst,Lead Data Analyst,27,mid,How would you implement version control and code review practices for analytics code? (variant 1)
+Data Analyst,Lead Data Analyst,28,mid,Explain strategies to reduce technical debt in reporting pipelines. (variant 1)
+Data Analyst,Lead Data Analyst,29,mid,Describe a plan to improve data literacy across the company. (variant 1)
+Data Analyst,Lead Data Analyst,30,mid,How would you measure the ROI of the analytics team? (variant 1)
+Data Analyst,Lead Data Analyst,31,mid,Design a hiring rubric for junior and mid-level data analysts. (variant 2)
+Data Analyst,Lead Data Analyst,32,mid,How would you structure an analytics team to support multiple product lines? (variant 2)
+Data Analyst,Lead Data Analyst,33,mid,Describe a process to standardize metrics across business units. (variant 2)
+Data Analyst,Lead Data Analyst,34,mid,How do you balance exploratory work vs. operational reporting in resourcing? (variant 2)
+Data Analyst,Lead Data Analyst,35,mid,Explain how you'd implement mentorship and career development for analysts. (variant 2)
+Data Analyst,Lead Data Analyst,36,mid,Design a process to prioritize analytics requests based on business impact. (variant 2)
+Data Analyst,Lead Data Analyst,37,mid,How would you implement version control and code review practices for analytics code? (variant 2)
+Data Analyst,Lead Data Analyst,38,mid,Explain strategies to reduce technical debt in reporting pipelines. (variant 2)
+Data Analyst,Lead Data Analyst,39,mid,Describe a plan to improve data literacy across the company. (variant 2)
+Data Analyst,Lead Data Analyst,40,mid,How would you measure the ROI of the analytics team? (variant 2)
+Data Analyst,Lead Data Analyst,41,high,Design an organizational strategy to scale analytics for a company growing from 50 to 500 employees.
+Data Analyst,Lead Data Analyst,42,high,How would you build a governance framework to ensure data quality and compliance across regions?
+Data Analyst,Lead Data Analyst,43,high,Describe building a centralized analytics platform vs. decentralized squads: pros and cons and recommendation.
+Data Analyst,Lead Data Analyst,44,high,Design KPIs and incentives for analytics teams aligned with company objectives.
+Data Analyst,Lead Data Analyst,45,high,Explain how to lead a change management program to shift decision-making to data-driven processes.
+Data Analyst,Lead Data Analyst,46,high,How would you evaluate whether to build vs buy analytics tooling at scale?
+Data Analyst,Lead Data Analyst,47,high,Describe strategies to manage cross-functional dependencies for large analytics initiatives.
+Data Analyst,Lead Data Analyst,48,high,How would you create a long-term talent development program for analytics leadership?
+Data Analyst,Lead Data Analyst,49,high,Design an incident response plan for critical analytics platform failures.
+Data Analyst,Lead Data Analyst,50,high,Explain how to measure and improve the trust in analytics outputs across senior leadership.
+Data Analyst,Analytics Manager,1,easy,What is the role of an analytics manager in a product organization? (variant 1)
+Data Analyst,Analytics Manager,2,easy,How do you align analytics priorities with business strategy? (variant 1)
+Data Analyst,Analytics Manager,3,easy,Describe how you would run a weekly analytics review meeting. (variant 1)
+Data Analyst,Analytics Manager,4,easy,What are common KPIs an analytics manager tracks? (variant 1)
+Data Analyst,Analytics Manager,5,easy,How do you evaluate the performance of your analytics team? (variant 1)
+Data Analyst,Analytics Manager,6,easy,Explain stakeholder engagement basics for an analytics manager. (variant 1)
+Data Analyst,Analytics Manager,7,easy,How do you set OKRs for an analytics function? (variant 1)
+Data Analyst,Analytics Manager,8,easy,Describe how to manage resource allocation across projects. (variant 1)
+Data Analyst,Analytics Manager,9,easy,What is capacity planning for an analytics team? (variant 1)
+Data Analyst,Analytics Manager,10,easy,How would you communicate analytics results to C-level stakeholders? (variant 1)
+Data Analyst,Analytics Manager,11,easy,What is the role of an analytics manager in a product organization? (variant 2)
+Data Analyst,Analytics Manager,12,easy,How do you align analytics priorities with business strategy? (variant 2)
+Data Analyst,Analytics Manager,13,easy,Describe how you would run a weekly analytics review meeting. (variant 2)
+Data Analyst,Analytics Manager,14,easy,What are common KPIs an analytics manager tracks? (variant 2)
+Data Analyst,Analytics Manager,15,easy,How do you evaluate the performance of your analytics team? (variant 2)
+Data Analyst,Analytics Manager,16,easy,Explain stakeholder engagement basics for an analytics manager. (variant 2)
+Data Analyst,Analytics Manager,17,easy,How do you set OKRs for an analytics function? (variant 2)
+Data Analyst,Analytics Manager,18,easy,Describe how to manage resource allocation across projects. (variant 2)
+Data Analyst,Analytics Manager,19,easy,What is capacity planning for an analytics team? (variant 2)
+Data Analyst,Analytics Manager,20,easy,How would you communicate analytics results to C-level stakeholders? (variant 2)
+Data Analyst,Analytics Manager,21,mid,Design a strategy to mature an analytics practice within a mid-size company. (variant 1)
+Data Analyst,Analytics Manager,22,mid,How would you measure the business impact of analytics initiatives quantitatively? (variant 1)
+Data Analyst,Analytics Manager,23,mid,Describe approaches to building cross-functional partnerships to deliver analytics projects. (variant 1)
+Data Analyst,Analytics Manager,24,mid,How do you create a budget and roadmap for analytics tooling and infrastructure? (variant 1)
+Data Analyst,Analytics Manager,25,mid,Explain approaches to vendor evaluation for analytics platforms and BI tools. (variant 1)
+Data Analyst,Analytics Manager,26,mid,"How would you build a blended team of data engineers, analysts, and data scientists? (variant 1)"
+Data Analyst,Analytics Manager,27,mid,Describe a process to set priorities for production ML vs. reporting work. (variant 1)
+Data Analyst,Analytics Manager,28,mid,How would you define SLAs for model retraining and data refresh? (variant 1)
+Data Analyst,Analytics Manager,29,mid,Explain how you'd create a succession plan for key analytics roles. (variant 1)
+Data Analyst,Analytics Manager,30,mid,How do you incorporate privacy and compliance considerations into analytics planning? (variant 1)
+Data Analyst,Analytics Manager,31,mid,Design a strategy to mature an analytics practice within a mid-size company. (variant 2)
+Data Analyst,Analytics Manager,32,mid,How would you measure the business impact of analytics initiatives quantitatively? (variant 2)
+Data Analyst,Analytics Manager,33,mid,Describe approaches to building cross-functional partnerships to deliver analytics projects. (variant 2)
+Data Analyst,Analytics Manager,34,mid,How do you create a budget and roadmap for analytics tooling and infrastructure? (variant 2)
+Data Analyst,Analytics Manager,35,mid,Explain approaches to vendor evaluation for analytics platforms and BI tools. (variant 2)
+Data Analyst,Analytics Manager,36,mid,"How would you build a blended team of data engineers, analysts, and data scientists? (variant 2)"
+Data Analyst,Analytics Manager,37,mid,Describe a process to set priorities for production ML vs. reporting work. (variant 2)
+Data Analyst,Analytics Manager,38,mid,How would you define SLAs for model retraining and data refresh? (variant 2)
+Data Analyst,Analytics Manager,39,mid,Explain how you'd create a succession plan for key analytics roles. (variant 2)
+Data Analyst,Analytics Manager,40,mid,How do you incorporate privacy and compliance considerations into analytics planning? (variant 2)
+Data Analyst,Analytics Manager,41,high,"Design a three-year analytics strategy that shifts the company from descriptive to predictive analytics, including milestones, hiring, and tooling."
+Data Analyst,Analytics Manager,42,high,Explain how to quantify the ROI of a major analytics program for board-level reporting.
+Data Analyst,Analytics Manager,43,high,"How would you lead a company-wide analytics transformation including culture, process, and technology changes?"
+Data Analyst,Analytics Manager,44,high,Describe approaches to measure end-to-end impact of data-driven product changes using causal inference and experimentation.
+Data Analyst,Analytics Manager,45,high,Design a scalable data governance and privacy model for global operations.
+Data Analyst,Analytics Manager,46,high,"How would you evaluate and integrate advanced AI capabilities (LLMs, AutoML) into the analytics roadmap responsibly?"
+Data Analyst,Analytics Manager,47,high,Explain strategies to secure executive sponsorship and funding for long-term analytics initiatives.
+Data Analyst,Analytics Manager,48,high,Design a framework to monitor and govern third-party data and vendor risk for analytics.
+Data Analyst,Analytics Manager,49,high,How would you build partnerships with external research or academic institutions to accelerate analytics innovation?
+Data Analyst,Analytics Manager,50,high,Describe the metrics and processes to ensure ethical use of analytics and AI across the organization.

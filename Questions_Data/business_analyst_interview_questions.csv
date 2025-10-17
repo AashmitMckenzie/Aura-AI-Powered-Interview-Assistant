@@ -1,0 +1,251 @@
+Main Role,Sub Role,Question number,difficulty,question
+Business Analyst,Associate Business Analyst,1,easy,What is the role of a business analyst? (variant 1)
+Business Analyst,Associate Business Analyst,2,easy,Explain requirements gathering in simple terms. (variant 1)
+Business Analyst,Associate Business Analyst,3,easy,What are functional vs. non-functional requirements? (variant 1)
+Business Analyst,Associate Business Analyst,4,easy,How do you differentiate between a stakeholder and an end-user? (variant 1)
+Business Analyst,Associate Business Analyst,5,easy,What is a use case? Provide an example. (variant 1)
+Business Analyst,Associate Business Analyst,6,easy,Explain what a process flow diagram is. (variant 1)
+Business Analyst,Associate Business Analyst,7,easy,What is the purpose of requirement documentation? (variant 1)
+Business Analyst,Associate Business Analyst,8,easy,How do you handle missing information during requirements gathering? (variant 1)
+Business Analyst,Associate Business Analyst,9,easy,What is a wireframe and when is it used? (variant 1)
+Business Analyst,Associate Business Analyst,10,easy,Describe the importance of active listening for a BA. (variant 1)
+Business Analyst,Associate Business Analyst,11,easy,What is the role of a business analyst? (variant 2)
+Business Analyst,Associate Business Analyst,12,easy,Explain requirements gathering in simple terms. (variant 2)
+Business Analyst,Associate Business Analyst,13,easy,What are functional vs. non-functional requirements? (variant 2)
+Business Analyst,Associate Business Analyst,14,easy,How do you differentiate between a stakeholder and an end-user? (variant 2)
+Business Analyst,Associate Business Analyst,15,easy,What is a use case? Provide an example. (variant 2)
+Business Analyst,Associate Business Analyst,16,easy,Explain what a process flow diagram is. (variant 2)
+Business Analyst,Associate Business Analyst,17,easy,What is the purpose of requirement documentation? (variant 2)
+Business Analyst,Associate Business Analyst,18,easy,How do you handle missing information during requirements gathering? (variant 2)
+Business Analyst,Associate Business Analyst,19,easy,What is a wireframe and when is it used? (variant 2)
+Business Analyst,Associate Business Analyst,20,easy,Describe the importance of active listening for a BA. (variant 2)
+Business Analyst,Associate Business Analyst,21,mid,How would you conduct a stakeholder interview effectively? (variant 1)
+Business Analyst,Associate Business Analyst,22,mid,Explain difference between Agile and Waterfall methodology in context of BA work. (variant 1)
+Business Analyst,Associate Business Analyst,23,mid,What is the purpose of a requirements traceability matrix? (variant 1)
+Business Analyst,Associate Business Analyst,24,mid,Describe the steps to perform a gap analysis. (variant 1)
+Business Analyst,Associate Business Analyst,25,mid,Explain user stories and acceptance criteria. (variant 1)
+Business Analyst,Associate Business Analyst,26,mid,How would you prioritize conflicting stakeholder requirements? (variant 1)
+Business Analyst,Associate Business Analyst,27,mid,What are the advantages of prototyping? (variant 1)
+Business Analyst,Associate Business Analyst,28,mid,Explain the MoSCoW prioritization technique. (variant 1)
+Business Analyst,Associate Business Analyst,29,mid,How do you validate requirements with stakeholders? (variant 1)
+Business Analyst,Associate Business Analyst,30,mid,What are business rules and why are they important? (variant 1)
+Business Analyst,Associate Business Analyst,31,mid,How would you conduct a stakeholder interview effectively? (variant 2)
+Business Analyst,Associate Business Analyst,32,mid,Explain difference between Agile and Waterfall methodology in context of BA work. (variant 2)
+Business Analyst,Associate Business Analyst,33,mid,What is the purpose of a requirements traceability matrix? (variant 2)
+Business Analyst,Associate Business Analyst,34,mid,Describe the steps to perform a gap analysis. (variant 2)
+Business Analyst,Associate Business Analyst,35,mid,Explain user stories and acceptance criteria. (variant 2)
+Business Analyst,Associate Business Analyst,36,mid,How would you prioritize conflicting stakeholder requirements? (variant 2)
+Business Analyst,Associate Business Analyst,37,mid,What are the advantages of prototyping? (variant 2)
+Business Analyst,Associate Business Analyst,38,mid,Explain the MoSCoW prioritization technique. (variant 2)
+Business Analyst,Associate Business Analyst,39,mid,How do you validate requirements with stakeholders? (variant 2)
+Business Analyst,Associate Business Analyst,40,mid,What are business rules and why are they important? (variant 2)
+Business Analyst,Associate Business Analyst,41,high,Design a requirements elicitation plan for a new CRM implementation.
+Business Analyst,Associate Business Analyst,42,high,How would you ensure alignment of requirements with business objectives?
+Business Analyst,Associate Business Analyst,43,high,Explain how you would handle stakeholders with conflicting interests.
+Business Analyst,Associate Business Analyst,44,high,Describe a structured approach to identify root causes of a business problem.
+Business Analyst,Associate Business Analyst,45,high,How would you evaluate whether a solution meets business needs post-implementation?
+Business Analyst,Associate Business Analyst,46,high,Explain risk analysis in context of requirement gathering.
+Business Analyst,Associate Business Analyst,47,high,Describe a BA approach in a highly regulated industry.
+Business Analyst,Associate Business Analyst,48,high,How do you handle scope creep during requirement gathering?
+Business Analyst,Associate Business Analyst,49,high,Explain a technique to facilitate workshops with diverse stakeholders.
+Business Analyst,Associate Business Analyst,50,high,Describe a BA deliverable you would create for a product launch project.
+Business Analyst,Business Analyst,1,easy,What are key responsibilities of a BA in a software development project? (variant 1)
+Business Analyst,Business Analyst,2,easy,Explain difference between business requirement and system requirement. (variant 1)
+Business Analyst,Business Analyst,3,easy,What is SWOT analysis? (variant 1)
+Business Analyst,Business Analyst,4,easy,How do you define project scope? (variant 1)
+Business Analyst,Business Analyst,5,easy,What are the main elements of a BRD (Business Requirement Document)? (variant 1)
+Business Analyst,Business Analyst,6,easy,Explain what acceptance testing is. (variant 1)
+Business Analyst,Business Analyst,7,easy,What is UML and how is it used? (variant 1)
+Business Analyst,Business Analyst,8,easy,How do you capture non-functional requirements? (variant 1)
+Business Analyst,Business Analyst,9,easy,What is process mapping? (variant 1)
+Business Analyst,Business Analyst,10,easy,Explain what a backlog is in Agile. (variant 1)
+Business Analyst,Business Analyst,11,easy,What are key responsibilities of a BA in a software development project? (variant 2)
+Business Analyst,Business Analyst,12,easy,Explain difference between business requirement and system requirement. (variant 2)
+Business Analyst,Business Analyst,13,easy,What is SWOT analysis? (variant 2)
+Business Analyst,Business Analyst,14,easy,How do you define project scope? (variant 2)
+Business Analyst,Business Analyst,15,easy,What are the main elements of a BRD (Business Requirement Document)? (variant 2)
+Business Analyst,Business Analyst,16,easy,Explain what acceptance testing is. (variant 2)
+Business Analyst,Business Analyst,17,easy,What is UML and how is it used? (variant 2)
+Business Analyst,Business Analyst,18,easy,How do you capture non-functional requirements? (variant 2)
+Business Analyst,Business Analyst,19,easy,What is process mapping? (variant 2)
+Business Analyst,Business Analyst,20,easy,Explain what a backlog is in Agile. (variant 2)
+Business Analyst,Business Analyst,21,mid,How would you conduct requirement workshops? (variant 1)
+Business Analyst,Business Analyst,22,mid,Explain story mapping and its use. (variant 1)
+Business Analyst,Business Analyst,23,mid,"What is the difference between epic, story, and task in Agile? (variant 1)"
+Business Analyst,Business Analyst,24,mid,How do you manage requirement changes mid-project? (variant 1)
+Business Analyst,Business Analyst,25,mid,Explain cost-benefit analysis with example. (variant 1)
+Business Analyst,Business Analyst,26,mid,What are KPIs and how would you define them for a project? (variant 1)
+Business Analyst,Business Analyst,27,mid,Describe how you'd validate requirements with business goals. (variant 1)
+Business Analyst,Business Analyst,28,mid,How do you conduct feasibility analysis? (variant 1)
+Business Analyst,Business Analyst,29,mid,Explain decision tables and their purpose. (variant 1)
+Business Analyst,Business Analyst,30,mid,How would you manage multiple stakeholders with conflicting priorities? (variant 1)
+Business Analyst,Business Analyst,31,mid,How would you conduct requirement workshops? (variant 2)
+Business Analyst,Business Analyst,32,mid,Explain story mapping and its use. (variant 2)
+Business Analyst,Business Analyst,33,mid,"What is the difference between epic, story, and task in Agile? (variant 2)"
+Business Analyst,Business Analyst,34,mid,How do you manage requirement changes mid-project? (variant 2)
+Business Analyst,Business Analyst,35,mid,Explain cost-benefit analysis with example. (variant 2)
+Business Analyst,Business Analyst,36,mid,What are KPIs and how would you define them for a project? (variant 2)
+Business Analyst,Business Analyst,37,mid,Describe how you'd validate requirements with business goals. (variant 2)
+Business Analyst,Business Analyst,38,mid,How do you conduct feasibility analysis? (variant 2)
+Business Analyst,Business Analyst,39,mid,Explain decision tables and their purpose. (variant 2)
+Business Analyst,Business Analyst,40,mid,How would you manage multiple stakeholders with conflicting priorities? (variant 2)
+Business Analyst,Business Analyst,41,high,Design a framework for requirement management in an enterprise setting.
+Business Analyst,Business Analyst,42,high,How would you perform impact analysis for a major requirement change?
+Business Analyst,Business Analyst,43,high,Explain how you would evaluate and select among competing solution designs.
+Business Analyst,Business Analyst,44,high,Describe how you measure business value delivered by a solution.
+Business Analyst,Business Analyst,45,high,"How do you create alignment between product, business, and technology teams?"
+Business Analyst,Business Analyst,46,high,Design an approach for continuous requirement management in Agile.
+Business Analyst,Business Analyst,47,high,How would you define KPIs for a digital transformation program?
+Business Analyst,Business Analyst,48,high,Explain how you would lead requirement management in a merger scenario.
+Business Analyst,Business Analyst,49,high,Describe governance practices for requirement management.
+Business Analyst,Business Analyst,50,high,How do you ensure regulatory compliance in business requirements?
+Business Analyst,Senior Business Analyst,1,easy,How do you mentor junior BAs? (variant 1)
+Business Analyst,Senior Business Analyst,2,easy,What is requirements validation and why is it important? (variant 1)
+Business Analyst,Senior Business Analyst,3,easy,Describe the difference between functional decomposition and process mapping. (variant 1)
+Business Analyst,Senior Business Analyst,4,easy,How do you facilitate requirement sign-off? (variant 1)
+Business Analyst,Senior Business Analyst,5,easy,What is stakeholder analysis? (variant 1)
+Business Analyst,Senior Business Analyst,6,easy,How do you create effective documentation for future reference? (variant 1)
+Business Analyst,Senior Business Analyst,7,easy,What is the importance of prototyping in BA work? (variant 1)
+Business Analyst,Senior Business Analyst,8,easy,Explain the concept of business process re-engineering. (variant 1)
+Business Analyst,Senior Business Analyst,9,easy,What are constraints in requirements? (variant 1)
+Business Analyst,Senior Business Analyst,10,easy,How do you ensure clarity in requirement communication? (variant 1)
+Business Analyst,Senior Business Analyst,11,easy,How do you mentor junior BAs? (variant 2)
+Business Analyst,Senior Business Analyst,12,easy,What is requirements validation and why is it important? (variant 2)
+Business Analyst,Senior Business Analyst,13,easy,Describe the difference between functional decomposition and process mapping. (variant 2)
+Business Analyst,Senior Business Analyst,14,easy,How do you facilitate requirement sign-off? (variant 2)
+Business Analyst,Senior Business Analyst,15,easy,What is stakeholder analysis? (variant 2)
+Business Analyst,Senior Business Analyst,16,easy,How do you create effective documentation for future reference? (variant 2)
+Business Analyst,Senior Business Analyst,17,easy,What is the importance of prototyping in BA work? (variant 2)
+Business Analyst,Senior Business Analyst,18,easy,Explain the concept of business process re-engineering. (variant 2)
+Business Analyst,Senior Business Analyst,19,easy,What are constraints in requirements? (variant 2)
+Business Analyst,Senior Business Analyst,20,easy,How do you ensure clarity in requirement communication? (variant 2)
+Business Analyst,Senior Business Analyst,21,mid,How would you perform impact analysis for a regulatory change? (variant 1)
+Business Analyst,Senior Business Analyst,22,mid,Explain advanced elicitation techniques such as focus groups. (variant 1)
+Business Analyst,Senior Business Analyst,23,mid,How do you ensure requirements align with strategic goals? (variant 1)
+Business Analyst,Senior Business Analyst,24,mid,Describe how you evaluate vendor solutions against requirements. (variant 1)
+Business Analyst,Senior Business Analyst,25,mid,How would you lead cross-functional workshops? (variant 1)
+Business Analyst,Senior Business Analyst,26,mid,Explain risk mitigation in requirements gathering. (variant 1)
+Business Analyst,Senior Business Analyst,27,mid,How do you manage requirement dependencies? (variant 1)
+Business Analyst,Senior Business Analyst,28,mid,Describe how you balance tactical vs. strategic analysis requests. (variant 1)
+Business Analyst,Senior Business Analyst,29,mid,How would you measure effectiveness of requirements documentation? (variant 1)
+Business Analyst,Senior Business Analyst,30,mid,Explain steps for conducting enterprise-level gap analysis. (variant 1)
+Business Analyst,Senior Business Analyst,31,mid,How would you perform impact analysis for a regulatory change? (variant 2)
+Business Analyst,Senior Business Analyst,32,mid,Explain advanced elicitation techniques such as focus groups. (variant 2)
+Business Analyst,Senior Business Analyst,33,mid,How do you ensure requirements align with strategic goals? (variant 2)
+Business Analyst,Senior Business Analyst,34,mid,Describe how you evaluate vendor solutions against requirements. (variant 2)
+Business Analyst,Senior Business Analyst,35,mid,How would you lead cross-functional workshops? (variant 2)
+Business Analyst,Senior Business Analyst,36,mid,Explain risk mitigation in requirements gathering. (variant 2)
+Business Analyst,Senior Business Analyst,37,mid,How do you manage requirement dependencies? (variant 2)
+Business Analyst,Senior Business Analyst,38,mid,Describe how you balance tactical vs. strategic analysis requests. (variant 2)
+Business Analyst,Senior Business Analyst,39,mid,How would you measure effectiveness of requirements documentation? (variant 2)
+Business Analyst,Senior Business Analyst,40,mid,Explain steps for conducting enterprise-level gap analysis. (variant 2)
+Business Analyst,Senior Business Analyst,41,high,Design an enterprise requirement management framework.
+Business Analyst,Senior Business Analyst,42,high,Explain methods to measure ROI of a BA project.
+Business Analyst,Senior Business Analyst,43,high,How do you align BA outcomes with C-level strategic initiatives?
+Business Analyst,Senior Business Analyst,44,high,Describe governance mechanisms for requirements in a multinational project.
+Business Analyst,Senior Business Analyst,45,high,How do you evaluate requirement traceability across multiple programs?
+Business Analyst,Senior Business Analyst,46,high,Explain advanced facilitation techniques for executive workshops.
+Business Analyst,Senior Business Analyst,47,high,Design approach to handle conflicting regulations in global projects.
+Business Analyst,Senior Business Analyst,48,high,How would you contribute to organizational change management as a BA?
+Business Analyst,Senior Business Analyst,49,high,"Explain role of BA in Agile at scale (SAFe, LeSS)."
+Business Analyst,Senior Business Analyst,50,high,How do you quantify the value of BA deliverables to the business?
+Business Analyst,Lead / Principal BA,1,easy,What leadership skills are important for a Lead BA? (variant 1)
+Business Analyst,Lead / Principal BA,2,easy,How do you align BA team work with business strategy? (variant 1)
+Business Analyst,Lead / Principal BA,3,easy,What is your approach to mentoring senior BAs? (variant 1)
+Business Analyst,Lead / Principal BA,4,easy,How do you communicate with executives about BA deliverables? (variant 1)
+Business Analyst,Lead / Principal BA,5,easy,What is governance in BA practice? (variant 1)
+Business Analyst,Lead / Principal BA,6,easy,How do you handle escalations in BA work? (variant 1)
+Business Analyst,Lead / Principal BA,7,easy,Explain setting performance goals for BAs. (variant 1)
+Business Analyst,Lead / Principal BA,8,easy,How do you ensure consistent BA practices across teams? (variant 1)
+Business Analyst,Lead / Principal BA,9,easy,What is portfolio analysis? (variant 1)
+Business Analyst,Lead / Principal BA,10,easy,How do you delegate BA tasks effectively? (variant 1)
+Business Analyst,Lead / Principal BA,11,easy,What leadership skills are important for a Lead BA? (variant 2)
+Business Analyst,Lead / Principal BA,12,easy,How do you align BA team work with business strategy? (variant 2)
+Business Analyst,Lead / Principal BA,13,easy,What is your approach to mentoring senior BAs? (variant 2)
+Business Analyst,Lead / Principal BA,14,easy,How do you communicate with executives about BA deliverables? (variant 2)
+Business Analyst,Lead / Principal BA,15,easy,What is governance in BA practice? (variant 2)
+Business Analyst,Lead / Principal BA,16,easy,How do you handle escalations in BA work? (variant 2)
+Business Analyst,Lead / Principal BA,17,easy,Explain setting performance goals for BAs. (variant 2)
+Business Analyst,Lead / Principal BA,18,easy,How do you ensure consistent BA practices across teams? (variant 2)
+Business Analyst,Lead / Principal BA,19,easy,What is portfolio analysis? (variant 2)
+Business Analyst,Lead / Principal BA,20,easy,How do you delegate BA tasks effectively? (variant 2)
+Business Analyst,Lead / Principal BA,21,mid,Design a BA Center of Excellence structure. (variant 1)
+Business Analyst,Lead / Principal BA,22,mid,How do you standardize BA practices across multiple programs? (variant 1)
+Business Analyst,Lead / Principal BA,23,mid,Explain KPI frameworks for BA function performance. (variant 1)
+Business Analyst,Lead / Principal BA,24,mid,How would you prioritize BA work across strategic initiatives? (variant 1)
+Business Analyst,Lead / Principal BA,25,mid,Describe a governance model for BA deliverables. (variant 1)
+Business Analyst,Lead / Principal BA,26,mid,How do you build stakeholder trust in BA outputs? (variant 1)
+Business Analyst,Lead / Principal BA,27,mid,Explain leadership approach for distributed BA teams. (variant 1)
+Business Analyst,Lead / Principal BA,28,mid,How do you integrate BA work with PMO practices? (variant 1)
+Business Analyst,Lead / Principal BA,29,mid,Describe how you'd evaluate BA maturity in organization. (variant 1)
+Business Analyst,Lead / Principal BA,30,mid,How do you assess skill gaps in BA team? (variant 1)
+Business Analyst,Lead / Principal BA,31,mid,Design a BA Center of Excellence structure. (variant 2)
+Business Analyst,Lead / Principal BA,32,mid,How do you standardize BA practices across multiple programs? (variant 2)
+Business Analyst,Lead / Principal BA,33,mid,Explain KPI frameworks for BA function performance. (variant 2)
+Business Analyst,Lead / Principal BA,34,mid,How would you prioritize BA work across strategic initiatives? (variant 2)
+Business Analyst,Lead / Principal BA,35,mid,Describe a governance model for BA deliverables. (variant 2)
+Business Analyst,Lead / Principal BA,36,mid,How do you build stakeholder trust in BA outputs? (variant 2)
+Business Analyst,Lead / Principal BA,37,mid,Explain leadership approach for distributed BA teams. (variant 2)
+Business Analyst,Lead / Principal BA,38,mid,How do you integrate BA work with PMO practices? (variant 2)
+Business Analyst,Lead / Principal BA,39,mid,Describe how you'd evaluate BA maturity in organization. (variant 2)
+Business Analyst,Lead / Principal BA,40,mid,How do you assess skill gaps in BA team? (variant 2)
+Business Analyst,Lead / Principal BA,41,high,Design an enterprise-wide BA operating model.
+Business Analyst,Lead / Principal BA,42,high,How do you influence C-level executives on BA investments?
+Business Analyst,Lead / Principal BA,43,high,Describe strategies to evolve BA practices in digital-first organizations.
+Business Analyst,Lead / Principal BA,44,high,How do you measure BA value delivery across portfolios?
+Business Analyst,Lead / Principal BA,45,high,Explain change management practices for BA function transformation.
+Business Analyst,Lead / Principal BA,46,high,Design approach for integrating BA with enterprise architecture.
+Business Analyst,Lead / Principal BA,47,high,How do you prepare BA team for large-scale transformation program?
+Business Analyst,Lead / Principal BA,48,high,Explain how to manage political dynamics in executive requirement discussions.
+Business Analyst,Lead / Principal BA,49,high,Design strategy for BA succession planning.
+Business Analyst,Lead / Principal BA,50,high,How do you align BA practice with regulatory and compliance frameworks?
+Business Analyst,Business Analysis Manager,1,easy,What is the role of a Business Analysis Manager? (variant 1)
+Business Analyst,Business Analysis Manager,2,easy,How do you align BA team goals with organizational goals? (variant 1)
+Business Analyst,Business Analysis Manager,3,easy,What are common KPIs for BA teams? (variant 1)
+Business Analyst,Business Analysis Manager,4,easy,How do you evaluate performance of BAs? (variant 1)
+Business Analyst,Business Analysis Manager,5,easy,What is stakeholder engagement for BA managers? (variant 1)
+Business Analyst,Business Analysis Manager,6,easy,How do you create a BA team roadmap? (variant 1)
+Business Analyst,Business Analysis Manager,7,easy,How do you plan training for BA skill development? (variant 1)
+Business Analyst,Business Analysis Manager,8,easy,Explain capacity planning for BA resources. (variant 1)
+Business Analyst,Business Analysis Manager,9,easy,What is succession planning in BA teams? (variant 1)
+Business Analyst,Business Analysis Manager,10,easy,How do you manage BA workloads? (variant 1)
+Business Analyst,Business Analysis Manager,11,easy,What is the role of a Business Analysis Manager? (variant 2)
+Business Analyst,Business Analysis Manager,12,easy,How do you align BA team goals with organizational goals? (variant 2)
+Business Analyst,Business Analysis Manager,13,easy,What are common KPIs for BA teams? (variant 2)
+Business Analyst,Business Analysis Manager,14,easy,How do you evaluate performance of BAs? (variant 2)
+Business Analyst,Business Analysis Manager,15,easy,What is stakeholder engagement for BA managers? (variant 2)
+Business Analyst,Business Analysis Manager,16,easy,How do you create a BA team roadmap? (variant 2)
+Business Analyst,Business Analysis Manager,17,easy,How do you plan training for BA skill development? (variant 2)
+Business Analyst,Business Analysis Manager,18,easy,Explain capacity planning for BA resources. (variant 2)
+Business Analyst,Business Analysis Manager,19,easy,What is succession planning in BA teams? (variant 2)
+Business Analyst,Business Analysis Manager,20,easy,How do you manage BA workloads? (variant 2)
+Business Analyst,Business Analysis Manager,21,mid,How do you measure ROI of BA initiatives? (variant 1)
+Business Analyst,Business Analysis Manager,22,mid,Explain strategy to build cross-functional collaboration. (variant 1)
+Business Analyst,Business Analysis Manager,23,mid,How do you create budget for BA practice? (variant 1)
+Business Analyst,Business Analysis Manager,24,mid,Describe approach to resource allocation for BA teams. (variant 1)
+Business Analyst,Business Analysis Manager,25,mid,How would you evaluate BA tools and platforms? (variant 1)
+Business Analyst,Business Analysis Manager,26,mid,Explain strategy to raise BA maturity in organization. (variant 1)
+Business Analyst,Business Analysis Manager,27,mid,How do you handle underperforming BAs? (variant 1)
+Business Analyst,Business Analysis Manager,28,mid,Design a reporting structure for BA team effectiveness. (variant 1)
+Business Analyst,Business Analysis Manager,29,mid,How do you drive adoption of BA practices across organization? (variant 1)
+Business Analyst,Business Analysis Manager,30,mid,Explain BA role in digital transformation leadership. (variant 1)
+Business Analyst,Business Analysis Manager,31,mid,How do you measure ROI of BA initiatives? (variant 2)
+Business Analyst,Business Analysis Manager,32,mid,Explain strategy to build cross-functional collaboration. (variant 2)
+Business Analyst,Business Analysis Manager,33,mid,How do you create budget for BA practice? (variant 2)
+Business Analyst,Business Analysis Manager,34,mid,Describe approach to resource allocation for BA teams. (variant 2)
+Business Analyst,Business Analysis Manager,35,mid,How would you evaluate BA tools and platforms? (variant 2)
+Business Analyst,Business Analysis Manager,36,mid,Explain strategy to raise BA maturity in organization. (variant 2)
+Business Analyst,Business Analysis Manager,37,mid,How do you handle underperforming BAs? (variant 2)
+Business Analyst,Business Analysis Manager,38,mid,Design a reporting structure for BA team effectiveness. (variant 2)
+Business Analyst,Business Analysis Manager,39,mid,How do you drive adoption of BA practices across organization? (variant 2)
+Business Analyst,Business Analysis Manager,40,mid,Explain BA role in digital transformation leadership. (variant 2)
+Business Analyst,Business Analysis Manager,41,high,Design a 3-year BA strategy roadmap aligned with corporate strategy.
+Business Analyst,Business Analysis Manager,42,high,How do you evaluate and justify investment in BA function to board?
+Business Analyst,Business Analysis Manager,43,high,Describe approach to managing global BA teams.
+Business Analyst,Business Analysis Manager,44,high,How would you lead BA contribution to enterprise transformation?
+Business Analyst,Business Analysis Manager,45,high,Design governance for BA integration with data and AI initiatives.
+Business Analyst,Business Analysis Manager,46,high,How do you measure BA impact at enterprise level?
+Business Analyst,Business Analysis Manager,47,high,Explain strategies to evolve BA practice into strategic advisory role.
+Business Analyst,Business Analysis Manager,48,high,How would you build external partnerships to enhance BA innovation?
+Business Analyst,Business Analysis Manager,49,high,Design risk management framework for BA programs.
+Business Analyst,Business Analysis Manager,50,high,Explain ethical considerations for BA work in regulated industries.

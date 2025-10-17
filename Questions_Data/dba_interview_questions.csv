@@ -1,0 +1,251 @@
+Main Role,Sub Role,Question number,difficulty,question
+Database Administrator (DBA),Junior DBA,1,easy,What are CRUD operations?
+Database Administrator (DBA),Junior DBA,2,easy,How do you grant and revoke user permissions in a database?
+Database Administrator (DBA),Junior DBA,3,easy,You are responsible for a read-heavy reporting database. How would you investigate and resolve unexplained storage growth? (provide steps)
+Database Administrator (DBA),Junior DBA,4,easy,How would you back up a small database?
+Database Administrator (DBA),Junior DBA,5,easy,"How do you monitor database performance metrics (CPU, memory, I/O)?"
+Database Administrator (DBA),Junior DBA,6,easy,How would you perform a non-disruptive schema migration?
+Database Administrator (DBA),Junior DBA,7,easy,You are responsible for an analytical data warehouse. How would you investigate and resolve sudden CPU spikes? (provide steps)
+Database Administrator (DBA),Junior DBA,8,easy,How do you perform a basic SELECT query to retrieve all columns from a table?
+Database Administrator (DBA),Junior DBA,9,easy,You are responsible for a high-traffic OLTP database. How would you investigate and resolve sudden CPU spikes? (provide steps)
+Database Administrator (DBA),Junior DBA,10,easy,What is the difference between HAVING and WHERE clauses?
+Database Administrator (DBA),Junior DBA,11,easy,How would you restore a database from a backup file?
+Database Administrator (DBA),Junior DBA,12,easy,Explain the difference between a full backup and an incremental backup.
+Database Administrator (DBA),Junior DBA,13,easy,How do you schedule automated backups?
+Database Administrator (DBA),Junior DBA,14,easy,How do you apply security patches to a database server with minimal downtime?
+Database Administrator (DBA),Junior DBA,15,easy,You are responsible for a read-heavy reporting database. How would you investigate and resolve frequent deadlocks? (provide steps)
+Database Administrator (DBA),Junior DBA,16,easy,Explain the purpose of transactions and how to commit/rollback.
+Database Administrator (DBA),Junior DBA,17,easy,How do you handle simple data migrations between environments?
+Database Administrator (DBA),Junior DBA,18,easy,What is an execution plan and how can you view it?
+Database Administrator (DBA),Junior DBA,19,mid,What is a view and when would you use it?
+Database Administrator (DBA),Junior DBA,20,mid,Explain how to identify and resolve a slow-running query.
+Database Administrator (DBA),Junior DBA,21,mid,How would you troubleshoot a connection timeout to the database?
+Database Administrator (DBA),Junior DBA,22,mid,Describe a typical backup strategy for production systems.
+Database Administrator (DBA),Junior DBA,23,mid,You are responsible for a read-heavy reporting database. How would you investigate and resolve sudden CPU spikes? (provide steps)
+Database Administrator (DBA),Junior DBA,24,mid,What is a database user role and why use roles instead of individual permissions?
+Database Administrator (DBA),Junior DBA,25,mid,What is a rollback and when would you use it?
+Database Administrator (DBA),Junior DBA,26,mid,Explain the difference between clustered and non-clustered indexes.
+Database Administrator (DBA),Junior DBA,27,mid,Describe what an index is and why it is useful.
+Database Administrator (DBA),Junior DBA,28,mid,How would you find duplicate records in a table?
+Database Administrator (DBA),Junior DBA,29,mid,You are responsible for an analytical data warehouse. How would you investigate and resolve frequent deadlocks? (provide steps)
+Database Administrator (DBA),Junior DBA,30,mid,What is point-in-time recovery (PITR)?
+Database Administrator (DBA),Junior DBA,31,mid,What is database replication and when would you use it?
+Database Administrator (DBA),Junior DBA,32,mid,What is referential integrity?
+Database Administrator (DBA),Junior DBA,33,mid,You are responsible for a high-traffic OLTP database. How would you investigate and resolve index bloat? (provide steps)
+Database Administrator (DBA),Junior DBA,34,mid,What is a database and why is it used?
+Database Administrator (DBA),Junior DBA,35,mid,What tools or commands do you use to analyze indexes and execution plans?
+Database Administrator (DBA),Junior DBA,36,mid,You are responsible for a high-traffic OLTP database. How would you investigate and resolve replication lag? (provide steps)
+Database Administrator (DBA),Junior DBA,37,mid,Explain the difference between a primary key and a foreign key.
+Database Administrator (DBA),Junior DBA,38,mid,You are responsible for an analytical data warehouse. How would you investigate and resolve replication lag? (provide steps)
+Database Administrator (DBA),Junior DBA,39,high,What is normalization? Name the first three normal forms.
+Database Administrator (DBA),Junior DBA,40,high,Explain what a stored procedure is.
+Database Administrator (DBA),Junior DBA,41,high,Describe differences between master-slave and multimaster replication.
+Database Administrator (DBA),Junior DBA,42,high,You are responsible for a multi-tenant database. How would you investigate and resolve sudden CPU spikes? (provide steps)
+Database Administrator (DBA),Junior DBA,43,high,How would you read a database error log and what key things do you look for?
+Database Administrator (DBA),Junior DBA,44,high,Explain table partitioning and its benefits.
+Database Administrator (DBA),Junior DBA,45,high,How do you check free disk space on a database server?
+Database Administrator (DBA),Junior DBA,46,high,What is a transaction in a database?
+Database Administrator (DBA),Junior DBA,47,high,Describe what a schema is in a relational database.
+Database Administrator (DBA),Junior DBA,48,high,What is SQL and what does it stand for?
+Database Administrator (DBA),Junior DBA,49,high,Explain differences between VARCHAR and TEXT types.
+Database Administrator (DBA),Junior DBA,50,high,Explain ACID properties in the context of transactions.
+Database Administrator (DBA),Database Administrator,1,easy,What are CRUD operations? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,2,easy,How do you grant and revoke user permissions in a database? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,3,easy,How do you handle database secrets and credentials securely in automated deployments?
+Database Administrator (DBA),Database Administrator,4,easy,How would you back up a small database? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,5,easy,"How do you monitor database performance metrics (CPU, memory, I/O)? (Context: Database Administrator)"
+Database Administrator (DBA),Database Administrator,6,easy,How would you perform a non-disruptive schema migration? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,7,easy,Explain blue-green deployment strategies for databases.
+Database Administrator (DBA),Database Administrator,8,easy,How do you perform a basic SELECT query to retrieve all columns from a table? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,9,easy,Describe how Infrastructure as Code can be used for database environments.
+Database Administrator (DBA),Database Administrator,10,easy,What is the difference between HAVING and WHERE clauses? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,11,easy,How would you restore a database from a backup file? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,12,easy,How do you set up high-availability for a critical database?
+Database Administrator (DBA),Database Administrator,13,easy,How would you audit database activity for compliance?
+Database Administrator (DBA),Database Administrator,14,easy,How do you apply security patches to a database server with minimal downtime? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,15,easy,How do you integrate database migrations into application CI/CD safely?
+Database Administrator (DBA),Database Administrator,16,easy,Explain the purpose of transactions and how to commit/rollback. (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,17,easy,What is database sharding and when might you use it?
+Database Administrator (DBA),Database Administrator,18,easy,How do you test backups to ensure they are restorable?
+Database Administrator (DBA),Database Administrator,19,mid,What is a view and when would you use it? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,20,mid,Explain how to identify and resolve a slow-running query. (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,21,mid,Describe methods to secure data at rest and in transit.
+Database Administrator (DBA),Database Administrator,22,mid,Describe a typical backup strategy for production systems. (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,23,mid,How do you analyze and reduce I/O wait on a busy database server?
+Database Administrator (DBA),Database Administrator,24,mid,What is failover clustering and when is it appropriate?
+Database Administrator (DBA),Database Administrator,25,mid,Explain the concept of replication lag and strategies to mitigate it.
+Database Administrator (DBA),Database Administrator,26,mid,Explain the difference between clustered and non-clustered indexes. (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,27,mid,Describe what an index is and why it is useful. (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,28,mid,How would you find duplicate records in a table? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,29,mid,How do you automate database provisioning and configuration in a CI/CD pipeline?
+Database Administrator (DBA),Database Administrator,30,mid,What is point-in-time recovery (PITR)? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,31,mid,What is database replication and when would you use it? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,32,mid,What is referential integrity? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,33,mid,Describe how you would troubleshoot inconsistent query performance over time.
+Database Administrator (DBA),Database Administrator,34,mid,What is a database and why is it used? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,35,mid,What tools or commands do you use to analyze indexes and execution plans? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,36,mid,What approaches would you take for index maintenance on large tables?
+Database Administrator (DBA),Database Administrator,37,mid,Explain the difference between a primary key and a foreign key. (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,38,mid,What are materialized views and when would you use them?
+Database Administrator (DBA),Database Administrator,39,high,What is normalization? Name the first three normal forms. (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,40,high,Explain what a stored procedure is. (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,41,high,Describe differences between master-slave and multimaster replication. (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,42,high,Explain how the query optimizer works and how statistics influence it.
+Database Administrator (DBA),Database Administrator,43,high,Describe the role of a transaction log and how it impacts recovery.
+Database Administrator (DBA),Database Administrator,44,high,Explain table partitioning and its benefits. (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,45,high,What are deadlocks and how do you troubleshoot them?
+Database Administrator (DBA),Database Administrator,46,high,What is a transaction in a database? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,47,high,Describe what a schema is in a relational database. (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,48,high,What is SQL and what does it stand for? (Context: Database Administrator)
+Database Administrator (DBA),Database Administrator,49,high,Explain how to size storage and IOPS requirements for a database.
+Database Administrator (DBA),Database Administrator,50,high,Explain ACID properties in the context of transactions. (Context: Database Administrator)
+Database Administrator (DBA),Senior DBA,1,easy,Explain how to identify and resolve a slow-running query. (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,2,easy,What is failover clustering and when is it appropriate? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,3,easy,How do you design backups for petabyte-scale databases?
+Database Administrator (DBA),Senior DBA,4,easy,How would you perform a non-disruptive schema migration? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,5,easy,Explain how the query optimizer works and how statistics influence it. (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,6,easy,Explain pros/cons of row-store vs column-store for analytical workloads.
+Database Administrator (DBA),Senior DBA,7,easy,Explain handling of hierarchical data in SQL databases at scale.
+Database Administrator (DBA),Senior DBA,8,easy,What is point-in-time recovery (PITR)? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,9,easy,Describe strategies to reduce replication lag under heavy write load.
+Database Administrator (DBA),Senior DBA,10,easy,How would you audit database activity for compliance? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,11,easy,What are deadlocks and how do you troubleshoot them? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,12,easy,How do you implement automated capacity planning for databases?
+Database Administrator (DBA),Senior DBA,13,easy,"Describe trade-offs between consistency, availability, and partition tolerance in databases."
+Database Administrator (DBA),Senior DBA,14,easy,How do you use connection pooling to improve application-database throughput?
+Database Administrator (DBA),Senior DBA,15,easy,How do you do capacity forecasting for rapidly growing databases?
+Database Administrator (DBA),Senior DBA,16,easy,What is database sharding and when might you use it? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,17,easy,Describe strategies for disaster recovery across regions.
+Database Administrator (DBA),Senior DBA,18,easy,How do you evaluate whether to migrate to a cloud-managed database service?
+Database Administrator (DBA),Senior DBA,19,mid,How do you set up high-availability for a critical database? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,20,mid,How do you analyze and reduce I/O wait on a busy database server? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,21,mid,Explain eventual consistency and patterns to handle it in applications.
+Database Administrator (DBA),Senior DBA,22,mid,What approaches would you take for index maintenance on large tables? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,23,mid,How do you handle database secrets and credentials securely in automated deployments? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,24,mid,How do you approach database cost optimization in cloud environments?
+Database Administrator (DBA),Senior DBA,25,mid,Explain techniques for zero-downtime schema changes at scale.
+Database Administrator (DBA),Senior DBA,26,mid,Describe the role of a transaction log and how it impacts recovery. (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,27,mid,What is database replication and when would you use it? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,28,mid,How do you test backups to ensure they are restorable? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,29,mid,How would you lead a performance tuning exercise for a large OLTP system?
+Database Administrator (DBA),Senior DBA,30,mid,Explain write amplification and how it affects database performance.
+Database Administrator (DBA),Senior DBA,31,mid,Describe how you would troubleshoot inconsistent query performance over time. (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,32,mid,Describe methods to secure data at rest and in transit. (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,33,mid,Explain blue-green deployment strategies for databases. (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,34,mid,Describe a typical backup strategy for production systems. (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,35,mid,Describe how compression can impact storage and query performance.
+Database Administrator (DBA),Senior DBA,36,mid,How do you automate database provisioning and configuration in a CI/CD pipeline? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,37,mid,"How do you monitor database performance metrics (CPU, memory, I/O)? (Context: Senior DBA)"
+Database Administrator (DBA),Senior DBA,38,mid,How do you integrate database migrations into application CI/CD safely? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,39,high,How do you apply security patches to a database server with minimal downtime? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,40,high,Explain the concept of replication lag and strategies to mitigate it. (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,41,high,What are materialized views and when would you use them? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,42,high,Describe how Infrastructure as Code can be used for database environments. (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,43,high,Explain how you would design a database architecture for multi-region high availability.
+Database Administrator (DBA),Senior DBA,44,high,How would you tune the buffer/cache sizes for a DBMS?
+Database Administrator (DBA),Senior DBA,45,high,Describe strategies for scaling a write-heavy database workload.
+Database Administrator (DBA),Senior DBA,46,high,What tools or commands do you use to analyze indexes and execution plans? (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,47,high,Explain how to size storage and IOPS requirements for a database. (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,48,high,Describe differences between master-slave and multimaster replication. (Context: Senior DBA)
+Database Administrator (DBA),Senior DBA,49,high,What is a distributed transaction and how would you manage it?
+Database Administrator (DBA),Senior DBA,50,high,Explain table partitioning and its benefits. (Context: Senior DBA)
+Database Administrator (DBA),Lead Database Engineer,1,easy,How do you implement automated capacity planning for databases? (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,2,easy,Describe monitoring and alerting best practices for cloud databases.
+Database Administrator (DBA),Lead Database Engineer,3,easy,You are responsible for a high-traffic OLTP database. How would you investigate and resolve frequent deadlocks? (provide steps)
+Database Administrator (DBA),Lead Database Engineer,4,easy,Describe strategies for disaster recovery across regions. (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,5,easy,Explain how the query optimizer works and how statistics influence it. (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,6,easy,Explain pros/cons of row-store vs column-store for analytical workloads. (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,7,easy,You are responsible for a high-traffic OLTP database. How would you investigate and resolve slow full table scans? (provide steps)
+Database Administrator (DBA),Lead Database Engineer,8,easy,How do you approach database cost optimization in cloud environments? (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,9,easy,You are responsible for a multi-tenant database. How would you investigate and resolve replication lag? (provide steps)
+Database Administrator (DBA),Lead Database Engineer,10,easy,How do you integrate database migrations into application CI/CD safely? (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,11,easy,Describe how Infrastructure as Code can be used for database environments. (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,12,easy,How do you mentor junior DBAs and help them grow technical skills?
+Database Administrator (DBA),Lead Database Engineer,13,easy,How do you justify budget requests for database projects to stakeholders?
+Database Administrator (DBA),Lead Database Engineer,14,easy,How do you use connection pooling to improve application-database throughput? (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,15,easy,You are responsible for a multi-tenant database. How would you investigate and resolve unexplained storage growth? (provide steps)
+Database Administrator (DBA),Lead Database Engineer,16,easy,Describe performance considerations when running databases on virtualized/cloud disks.
+Database Administrator (DBA),Lead Database Engineer,17,easy,"How do you implement observability (traces, metrics, logs) for databases?"
+Database Administrator (DBA),Lead Database Engineer,18,easy,Explain how to create cross-region read replicas with low latency.
+Database Administrator (DBA),Lead Database Engineer,19,mid,How do you handle database secrets and credentials securely in automated deployments? (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,20,mid,How do you analyze and reduce I/O wait on a busy database server? (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,21,mid,How do you evaluate new database technologies for production use?
+Database Administrator (DBA),Lead Database Engineer,22,mid,What approaches would you take for index maintenance on large tables? (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,23,mid,You are responsible for a read-heavy reporting database. How would you investigate and resolve index bloat? (provide steps)
+Database Administrator (DBA),Lead Database Engineer,24,mid,How do you design a CI/CD process that safely includes database changes?
+Database Administrator (DBA),Lead Database Engineer,25,mid,What metrics do you use to measure health and performance of DBA team work?
+Database Administrator (DBA),Lead Database Engineer,26,mid,How do you automate database provisioning and configuration in a CI/CD pipeline? (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,27,mid,Explain techniques for zero-downtime schema changes at scale. (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,28,mid,How do you test database failover in an automated fashion?
+Database Administrator (DBA),Lead Database Engineer,29,mid,You are responsible for a read-heavy reporting database. How would you investigate and resolve long-running transactions? (provide steps)
+Database Administrator (DBA),Lead Database Engineer,30,mid,Explain write amplification and how it affects database performance. (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,31,mid,Describe how you would troubleshoot inconsistent query performance over time. (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,32,mid,"Explain the implications of using managed DB services (RDS, Cloud SQL) for backup and patching."
+Database Administrator (DBA),Lead Database Engineer,33,mid,You are responsible for a transactional financial system. How would you investigate and resolve slow full table scans? (provide steps)
+Database Administrator (DBA),Lead Database Engineer,34,mid,Explain how you would design a database architecture for multi-region high availability. (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,35,mid,Describe how compression can impact storage and query performance. (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,36,mid,You are responsible for an analytical data warehouse. How would you investigate and resolve slow full table scans? (provide steps)
+Database Administrator (DBA),Lead Database Engineer,37,mid,Describe strategies for scaling a write-heavy database workload. (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,38,mid,You are responsible for a multi-tenant database. How would you investigate and resolve sudden CPU spikes? (provide steps) (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,39,high,What is a distributed transaction and how would you manage it? (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,40,high,Explain blue-green deployment strategies for databases. (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,41,high,What are materialized views and when would you use them? (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,42,high,You are responsible for a high-traffic OLTP database. How would you investigate and resolve long-running transactions? (provide steps)
+Database Administrator (DBA),Lead Database Engineer,43,high,How do you prioritize incidents affecting multiple databases and teams?
+Database Administrator (DBA),Lead Database Engineer,44,high,How would you tune the buffer/cache sizes for a DBMS? (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,45,high,Describe how you would build an on-call rota for DBAs.
+Database Administrator (DBA),Lead Database Engineer,46,high,Explain eventual consistency and patterns to handle it in applications. (Context: Lead Database Engineer)
+Database Administrator (DBA),Lead Database Engineer,47,high,How would you migrate an on-prem database to a cloud provider with minimal downtime?
+Database Administrator (DBA),Lead Database Engineer,48,high,"Describe trade-offs between consistency, availability, and partition tolerance in databases. (Context: Lead Database Engineer)"
+Database Administrator (DBA),Lead Database Engineer,49,high,Describe the components of a resilient data platform.
+Database Administrator (DBA),Lead Database Engineer,50,high,How do you evaluate whether to migrate to a cloud-managed database service? (Context: Lead Database Engineer)
+Database Administrator (DBA),Database Manager,1,easy,How do you mentor junior DBAs and help them grow technical skills? (Context: Database Manager)
+Database Administrator (DBA),Database Manager,2,easy,How do you approach database cost optimization in cloud environments? (Context: Database Manager)
+Database Administrator (DBA),Database Manager,3,easy,You are responsible for a high-traffic OLTP database. How would you investigate and resolve sudden CPU spikes? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,4,easy,Describe how you balance technical debt vs feature delivery in database work.
+Database Administrator (DBA),Database Manager,5,easy,Describe how Infrastructure as Code can be used for database environments. (Context: Database Manager)
+Database Administrator (DBA),Database Manager,6,easy,You are responsible for a high-traffic OLTP database. How would you investigate and resolve index bloat? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,7,easy,You are responsible for a high-traffic OLTP database. How would you investigate and resolve long-running transactions? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,8,easy,Describe a time you led a database migration and how you managed stakeholders.
+Database Administrator (DBA),Database Manager,9,easy,You are responsible for an analytical data warehouse. How would you investigate and resolve sudden CPU spikes? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,10,easy,"Describe trade-offs between consistency, availability, and partition tolerance in databases. (Context: Database Manager)"
+Database Administrator (DBA),Database Manager,11,easy,Describe strategies for scaling a write-heavy database workload. (Context: Database Manager)
+Database Administrator (DBA),Database Manager,12,easy,You are responsible for a high-traffic OLTP database. How would you investigate and resolve unexplained storage growth? (provide steps)
+Database Administrator (DBA),Database Manager,13,easy,You are responsible for a multi-tenant database. How would you investigate and resolve unexplained storage growth? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,14,easy,"Explain governance, compliance, and audit responsibilities for database teams."
+Database Administrator (DBA),Database Manager,15,easy,You are responsible for a transactional financial system. How would you investigate and resolve sudden CPU spikes? (provide steps)
+Database Administrator (DBA),Database Manager,16,easy,Describe strategies for disaster recovery across regions. (Context: Database Manager)
+Database Administrator (DBA),Database Manager,17,easy,You are responsible for a multi-tenant database. How would you investigate and resolve frequent deadlocks? (provide steps)
+Database Administrator (DBA),Database Manager,18,easy,You are responsible for a multi-tenant database. How would you investigate and resolve replication lag? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,19,mid,How do you implement automated capacity planning for databases? (Context: Database Manager)
+Database Administrator (DBA),Database Manager,20,mid,How do you handle database secrets and credentials securely in automated deployments? (Context: Database Manager)
+Database Administrator (DBA),Database Manager,21,mid,You are responsible for a read-heavy reporting database. How would you investigate and resolve long-running transactions? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,22,mid,How do you automate database provisioning and configuration in a CI/CD pipeline? (Context: Database Manager)
+Database Administrator (DBA),Database Manager,23,mid,You are responsible for a multi-tenant database. How would you investigate and resolve index bloat? (provide steps)
+Database Administrator (DBA),Database Manager,24,mid,You are responsible for a read-heavy reporting database. How would you investigate and resolve index bloat? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,25,mid,You are responsible for an analytical data warehouse. How would you investigate and resolve long-running transactions? (provide steps)
+Database Administrator (DBA),Database Manager,26,mid,Explain how you would design a database architecture for multi-region high availability. (Context: Database Manager)
+Database Administrator (DBA),Database Manager,27,mid,What metrics do you use to measure health and performance of DBA team work? (Context: Database Manager)
+Database Administrator (DBA),Database Manager,28,mid,How do you evaluate whether to migrate to a cloud-managed database service? (Context: Database Manager)
+Database Administrator (DBA),Database Manager,29,mid,You are responsible for a transactional financial system. How would you investigate and resolve frequent deadlocks? (provide steps)
+Database Administrator (DBA),Database Manager,30,mid,How do you measure ROI for database modernization projects?
+Database Administrator (DBA),Database Manager,31,mid,How do you create a multi-year roadmap for database infrastructure?
+Database Administrator (DBA),Database Manager,32,mid,Explain eventual consistency and patterns to handle it in applications. (Context: Database Manager)
+Database Administrator (DBA),Database Manager,33,mid,You are responsible for a read-heavy reporting database. How would you investigate and resolve unexplained storage growth? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,34,mid,How do you prioritize incidents affecting multiple databases and teams? (Context: Database Manager)
+Database Administrator (DBA),Database Manager,35,mid,How do you plan staffing and skills development for database teams?
+Database Administrator (DBA),Database Manager,36,mid,You are responsible for a multi-tenant database. How would you investigate and resolve sudden CPU spikes? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,37,mid,Describe how you would build an on-call rota for DBAs. (Context: Database Manager)
+Database Administrator (DBA),Database Manager,38,mid,You are responsible for a read-heavy reporting database. How would you investigate and resolve sudden CPU spikes? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,39,high,How do you create runbooks and operational runbooks for database incidents?
+Database Administrator (DBA),Database Manager,40,high,Explain techniques for zero-downtime schema changes at scale. (Context: Database Manager)
+Database Administrator (DBA),Database Manager,41,high,Describe how to evaluate and manage vendor contracts for database products.
+Database Administrator (DBA),Database Manager,42,high,You are responsible for a multi-tenant database. How would you investigate and resolve slow full table scans? (provide steps)
+Database Administrator (DBA),Database Manager,43,high,You are responsible for a transactional financial system. How would you investigate and resolve unexplained storage growth? (provide steps)
+Database Administrator (DBA),Database Manager,44,high,You are responsible for a multi-tenant database. How would you investigate and resolve long-running transactions? (provide steps)
+Database Administrator (DBA),Database Manager,45,high,You are responsible for a high-traffic OLTP database. How would you investigate and resolve frequent deadlocks? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,46,high,What KPIs would you track for database reliability and cost?
+Database Administrator (DBA),Database Manager,47,high,What is a distributed transaction and how would you manage it? (Context: Database Manager)
+Database Administrator (DBA),Database Manager,48,high,How do you justify budget requests for database projects to stakeholders? (Context: Database Manager)
+Database Administrator (DBA),Database Manager,49,high,You are responsible for a high-traffic OLTP database. How would you investigate and resolve replication lag? (provide steps) (Context: Database Manager)
+Database Administrator (DBA),Database Manager,50,high,How do you ensure cross-team collaboration between developers and DBAs?

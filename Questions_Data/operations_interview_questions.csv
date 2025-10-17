@@ -1,0 +1,251 @@
+Main Role,Sub Role,Question number,difficulty,question
+Operations Manager,Operations Associate,1,easy,Scenario 5: How would you manage a supply chain delay?
+Operations Manager,Operations Associate,2,easy,What is your experience with Microsoft Excel or Google Sheets?
+Operations Manager,Operations Associate,3,easy,Scenario 19: How would you manage a unexpected demand surge?
+Operations Manager,Operations Associate,4,easy,Scenario 6: How would you manage a unexpected demand surge?
+Operations Manager,Operations Associate,5,easy,What is your understanding of standard operating procedures (SOPs)?
+Operations Manager,Operations Associate,6,easy,Scenario 25: How would you manage a unexpected demand surge?
+Operations Manager,Operations Associate,7,easy,Scenario 16: How would you manage a unexpected demand surge?
+Operations Manager,Operations Associate,8,easy,What steps do you take when identifying process inefficiencies?
+Operations Manager,Operations Associate,9,easy,How do you manage deadlines when multiple tasks conflict?
+Operations Manager,Operations Associate,10,easy,How do you streamline workflows for efficiency?
+Operations Manager,Operations Associate,11,easy,Scenario 13: How would you manage a supply chain delay?
+Operations Manager,Operations Associate,12,easy,Scenario 11: How would you manage a unexpected demand surge?
+Operations Manager,Operations Associate,13,easy,Scenario 20: How would you manage a supply chain delay?
+Operations Manager,Operations Associate,14,easy,Scenario 8: How would you manage a unexpected demand surge?
+Operations Manager,Operations Associate,15,easy,How do you manage vendor relationships?
+Operations Manager,Operations Associate,16,easy,What tools have you used for task management?
+Operations Manager,Operations Associate,17,easy,What role does attention to detail play in operations?
+Operations Manager,Operations Associate,18,easy,What is your approach to handling routine operational issues?
+Operations Manager,Operations Associate,19,mid,What is the role of an Operations Associate in day-to-day business?
+Operations Manager,Operations Associate,20,mid,How do you ensure quality control in operations?
+Operations Manager,Operations Associate,21,mid,What is the importance of time management in operations?
+Operations Manager,Operations Associate,22,mid,Scenario 18: How would you manage a staff shortage?
+Operations Manager,Operations Associate,23,mid,Scenario 1: How would you manage a supply chain delay?
+Operations Manager,Operations Associate,24,mid,How do you ensure data confidentiality in operations?
+Operations Manager,Operations Associate,25,mid,How do you handle unexpected changes in daily tasks?
+Operations Manager,Operations Associate,26,mid,Scenario 9: How would you manage a unexpected demand surge?
+Operations Manager,Operations Associate,27,mid,Scenario 23: How would you manage a staff shortage?
+Operations Manager,Operations Associate,28,mid,How do you prioritize multiple operational tasks?
+Operations Manager,Operations Associate,29,mid,What is your experience with process documentation?
+Operations Manager,Operations Associate,30,mid,Scenario 14: How would you manage a unexpected demand surge?
+Operations Manager,Operations Associate,31,mid,Scenario 10: How would you manage a supply chain delay?
+Operations Manager,Operations Associate,32,mid,Scenario 17: How would you manage a system outage?
+Operations Manager,Operations Associate,33,mid,What’s your strategy for inventory management?
+Operations Manager,Operations Associate,34,mid,Scenario 12: How would you manage a supply chain delay?
+Operations Manager,Operations Associate,35,mid,What’s your understanding of key performance indicators (KPIs)?
+Operations Manager,Operations Associate,36,mid,How do you manage repetitive operational tasks efficiently?
+Operations Manager,Operations Associate,37,mid,Scenario 21: How would you manage a unexpected demand surge?
+Operations Manager,Operations Associate,38,mid,How do you communicate effectively with cross-functional teams?
+Operations Manager,Operations Associate,39,high,Scenario 24: How would you manage a staff shortage?
+Operations Manager,Operations Associate,40,high,Scenario 7: How would you manage a system outage?
+Operations Manager,Operations Associate,41,high,Scenario 22: How would you manage a system outage?
+Operations Manager,Operations Associate,42,high,Scenario 3: How would you manage a supply chain delay?
+Operations Manager,Operations Associate,43,high,How do you ensure accuracy in reporting?
+Operations Manager,Operations Associate,44,high,How do you ensure compliance with company policies?
+Operations Manager,Operations Associate,45,high,What motivates you to work in operations?
+Operations Manager,Operations Associate,46,high,Scenario 15: How would you manage a staff shortage?
+Operations Manager,Operations Associate,47,high,Scenario 4: How would you manage a supply chain delay?
+Operations Manager,Operations Associate,48,high,What methods do you use to reduce operational costs?
+Operations Manager,Operations Associate,49,high,How do you track progress on assigned tasks?
+Operations Manager,Operations Associate,50,high,Scenario 2: How would you manage a supply chain delay?
+Operations Manager,Operations Executive,1,easy,Scenario 2: How would you manage a unexpected demand surge?
+Operations Manager,Operations Executive,2,easy,How do you manage team productivity?
+Operations Manager,Operations Executive,3,easy,How do you collaborate with finance teams on budgets?
+Operations Manager,Operations Executive,4,easy,What’s your experience with ERP systems?
+Operations Manager,Operations Executive,5,easy,Scenario 3: How would you manage a supply chain delay? (Context: Operations Executive)
+Operations Manager,Operations Executive,6,easy,How do you balance efficiency with quality?
+Operations Manager,Operations Executive,7,easy,Scenario 8: How would you manage a system outage?
+Operations Manager,Operations Executive,8,easy,What are key supply chain management principles?
+Operations Manager,Operations Executive,9,easy,How do you manage deadlines when multiple tasks conflict? (Context: Operations Executive)
+Operations Manager,Operations Executive,10,easy,How do you ensure accuracy in reporting? (Context: Operations Executive)
+Operations Manager,Operations Executive,11,easy,What is your approach to project management?
+Operations Manager,Operations Executive,12,easy,How do you ensure quality control in operations? (Context: Operations Executive)
+Operations Manager,Operations Executive,13,easy,What is your experience with process documentation? (Context: Operations Executive)
+Operations Manager,Operations Executive,14,easy,How do you manage operational risks?
+Operations Manager,Operations Executive,15,easy,What is lean operations management?
+Operations Manager,Operations Executive,16,easy,How do you streamline workflows for efficiency? (Context: Operations Executive)
+Operations Manager,Operations Executive,17,easy,What is the importance of time management in operations? (Context: Operations Executive)
+Operations Manager,Operations Executive,18,easy,What methods do you use to reduce operational costs? (Context: Operations Executive)
+Operations Manager,Operations Executive,19,mid,What role does attention to detail play in operations? (Context: Operations Executive)
+Operations Manager,Operations Executive,20,mid,How do you conduct a root cause analysis?
+Operations Manager,Operations Executive,21,mid,How do you implement process improvements?
+Operations Manager,Operations Executive,22,mid,How do you communicate effectively with cross-functional teams? (Context: Operations Executive)
+Operations Manager,Operations Executive,23,mid,How do you manage repetitive operational tasks efficiently? (Context: Operations Executive)
+Operations Manager,Operations Executive,24,mid,Scenario 6: How would you manage a staff shortage?
+Operations Manager,Operations Executive,25,mid,What is business continuity planning?
+Operations Manager,Operations Executive,26,mid,What steps do you take when identifying process inefficiencies? (Context: Operations Executive)
+Operations Manager,Operations Executive,27,mid,Scenario 7: How would you manage a system outage? (Context: Operations Executive)
+Operations Manager,Operations Executive,28,mid,How do you ensure compliance with company policies? (Context: Operations Executive)
+Operations Manager,Operations Executive,29,mid,Scenario 1: How would you manage a supply chain delay? (Context: Operations Executive)
+Operations Manager,Operations Executive,30,mid,Scenario 10: How would you manage a system outage?
+Operations Manager,Operations Executive,31,mid,What is your understanding of standard operating procedures (SOPs)? (Context: Operations Executive)
+Operations Manager,Operations Executive,32,mid,What’s your strategy for inventory management? (Context: Operations Executive)
+Operations Manager,Operations Executive,33,mid,How do you manage compliance with health and safety standards?
+Operations Manager,Operations Executive,34,mid,What tools have you used for task management? (Context: Operations Executive)
+Operations Manager,Operations Executive,35,mid,How do you track progress on assigned tasks? (Context: Operations Executive)
+Operations Manager,Operations Executive,36,mid,How do you ensure data confidentiality in operations? (Context: Operations Executive)
+Operations Manager,Operations Executive,37,mid,What is Six Sigma methodology?
+Operations Manager,Operations Executive,38,mid,How do you prioritize multiple operational tasks? (Context: Operations Executive)
+Operations Manager,Operations Executive,39,high,Scenario 9: How would you manage a supply chain delay?
+Operations Manager,Operations Executive,40,high,What’s your understanding of key performance indicators (KPIs)? (Context: Operations Executive)
+Operations Manager,Operations Executive,41,high,How do you prepare monthly operational reports?
+Operations Manager,Operations Executive,42,high,What is your experience with Microsoft Excel or Google Sheets? (Context: Operations Executive)
+Operations Manager,Operations Executive,43,high,Scenario 5: How would you manage a unexpected demand surge?
+Operations Manager,Operations Executive,44,high,What is the role of an Operations Associate in day-to-day business? (Context: Operations Executive)
+Operations Manager,Operations Executive,45,high,How do you manage vendor relationships? (Context: Operations Executive)
+Operations Manager,Operations Executive,46,high,How do you handle unexpected changes in daily tasks? (Context: Operations Executive)
+Operations Manager,Operations Executive,47,high,Scenario 4: How would you manage a system outage?
+Operations Manager,Operations Executive,48,high,What is your approach to handling routine operational issues? (Context: Operations Executive)
+Operations Manager,Operations Executive,49,high,What’s your approach to resource allocation?
+Operations Manager,Operations Executive,50,high,What motivates you to work in operations? (Context: Operations Executive)
+Operations Manager,Senior Operations Executive,1,easy,What’s your experience with ERP systems? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,2,easy,What is your experience with regulatory compliance in operations?
+Operations Manager,Senior Operations Executive,3,easy,Scenario 4: How would you manage a supply chain delay? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,4,easy,What role does technology play in operations optimization?
+Operations Manager,Senior Operations Executive,5,easy,What is lean operations management? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,6,easy,Scenario 8: How would you manage a supply chain delay?
+Operations Manager,Senior Operations Executive,7,easy,Scenario 9: How would you manage a staff shortage?
+Operations Manager,Senior Operations Executive,8,easy,How do you handle multi-site operations?
+Operations Manager,Senior Operations Executive,9,easy,How do you balance efficiency with quality? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,10,easy,How do you manage compliance with health and safety standards? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,11,easy,How do you streamline workflows for efficiency? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,12,easy,How do you implement lean Six Sigma at scale?
+Operations Manager,Senior Operations Executive,13,easy,How do you ensure quality control in operations? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,14,easy,How do you evaluate supply chain performance?
+Operations Manager,Senior Operations Executive,15,easy,How do you collaborate with finance teams on budgets? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,16,easy,Scenario 10: How would you manage a supply chain delay? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,17,easy,How do you manage operational risks? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,18,easy,How do you prepare operations for scalability?
+Operations Manager,Senior Operations Executive,19,mid,Scenario 6: How would you manage a staff shortage? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,20,mid,What’s your strategy for crisis management in operations?
+Operations Manager,Senior Operations Executive,21,mid,What is your experience with automation in operations?
+Operations Manager,Senior Operations Executive,22,mid,What are key supply chain management principles? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,23,mid,Scenario 7: How would you manage a staff shortage?
+Operations Manager,Senior Operations Executive,24,mid,How do you prepare monthly operational reports? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,25,mid,How do you manage team productivity? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,26,mid,What is Six Sigma methodology? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,27,mid,What is your approach to sustainability in operations?
+Operations Manager,Senior Operations Executive,28,mid,How do you optimize logistics and distribution?
+Operations Manager,Senior Operations Executive,29,mid,What’s your approach to managing global vendors?
+Operations Manager,Senior Operations Executive,30,mid,How do you manage vendor relationships? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,31,mid,Scenario 2: How would you manage a supply chain delay? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,32,mid,How do you measure process effectiveness?
+Operations Manager,Senior Operations Executive,33,mid,What’s your method for managing organizational change?
+Operations Manager,Senior Operations Executive,34,mid,What methods do you use for demand forecasting?
+Operations Manager,Senior Operations Executive,35,mid,What methods do you use to reduce operational costs? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,36,mid,How do you assess risks in strategic projects?
+Operations Manager,Senior Operations Executive,37,mid,How do you conduct a root cause analysis? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,38,mid,What is business continuity planning? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,39,high,Scenario 1: How would you manage a supply chain delay? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,40,high,How do you balance cost savings with innovation?
+Operations Manager,Senior Operations Executive,41,high,How do you evaluate ROI for operational projects?
+Operations Manager,Senior Operations Executive,42,high,Scenario 3: How would you manage a system outage?
+Operations Manager,Senior Operations Executive,43,high,What’s your strategy for inventory management? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,44,high,What’s your approach to resource allocation? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,45,high,How do you develop long-term operational strategies?
+Operations Manager,Senior Operations Executive,46,high,Scenario 5: How would you manage a supply chain delay? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,47,high,How do you implement process improvements? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,48,high,What role does data analytics play in operations strategy?
+Operations Manager,Senior Operations Executive,49,high,What is your approach to project management? (Context: Senior Operations Executive)
+Operations Manager,Senior Operations Executive,50,high,What’s your strategy for managing high-growth environments?
+Operations Manager,Operations Manager,1,easy,Scenario 23: How would you manage a staff shortage? (Context: Operations Manager)
+Operations Manager,Operations Manager,2,easy,Scenario 10: How would you manage a staff shortage?
+Operations Manager,Operations Manager,3,easy,What is your approach to aligning operations with business strategy?
+Operations Manager,Operations Manager,4,easy,Scenario 18: How would you manage a system outage?
+Operations Manager,Operations Manager,5,easy,Scenario 22: How would you manage a unexpected demand surge?
+Operations Manager,Operations Manager,6,easy,Scenario 16: How would you manage a supply chain delay?
+Operations Manager,Operations Manager,7,easy,What role does data analytics play in operations strategy? (Context: Operations Manager)
+Operations Manager,Operations Manager,8,easy,How do you evaluate supply chain performance? (Context: Operations Manager)
+Operations Manager,Operations Manager,9,easy,How do you measure process effectiveness? (Context: Operations Manager)
+Operations Manager,Operations Manager,10,easy,Scenario 12: How would you manage a system outage?
+Operations Manager,Operations Manager,11,easy,What role does technology play in operations optimization? (Context: Operations Manager)
+Operations Manager,Operations Manager,12,easy,Scenario 9: How would you manage a staff shortage? (Context: Operations Manager)
+Operations Manager,Operations Manager,13,easy,How do you balance cost savings with innovation? (Context: Operations Manager)
+Operations Manager,Operations Manager,14,easy,Scenario 1: How would you manage a staff shortage?
+Operations Manager,Operations Manager,15,easy,Scenario 3: How would you manage a supply chain delay? (Context: Operations Manager)
+Operations Manager,Operations Manager,16,easy,What’s your strategy for managing high-growth environments? (Context: Operations Manager)
+Operations Manager,Operations Manager,17,easy,Scenario 24: How would you manage a staff shortage? (Context: Operations Manager)
+Operations Manager,Operations Manager,18,easy,What is your approach to sustainability in operations? (Context: Operations Manager)
+Operations Manager,Operations Manager,19,mid,How do you lead organizational transformation initiatives?
+Operations Manager,Operations Manager,20,mid,Scenario 20: How would you manage a unexpected demand surge?
+Operations Manager,Operations Manager,21,mid,How do you handle multi-site operations? (Context: Operations Manager)
+Operations Manager,Operations Manager,22,mid,Scenario 17: How would you manage a system outage? (Context: Operations Manager)
+Operations Manager,Operations Manager,23,mid,How do you optimize logistics and distribution? (Context: Operations Manager)
+Operations Manager,Operations Manager,24,mid,How do you implement lean Six Sigma at scale? (Context: Operations Manager)
+Operations Manager,Operations Manager,25,mid,What is your experience with regulatory compliance in operations? (Context: Operations Manager)
+Operations Manager,Operations Manager,26,mid,Scenario 7: How would you manage a unexpected demand surge?
+Operations Manager,Operations Manager,27,mid,How do you develop long-term operational strategies? (Context: Operations Manager)
+Operations Manager,Operations Manager,28,mid,Scenario 25: How would you manage a unexpected demand surge? (Context: Operations Manager)
+Operations Manager,Operations Manager,29,mid,How do you evaluate ROI for operational projects? (Context: Operations Manager)
+Operations Manager,Operations Manager,30,mid,Scenario 2: How would you manage a system outage?
+Operations Manager,Operations Manager,31,mid,How do you build and mentor high-performing operations teams?
+Operations Manager,Operations Manager,32,mid,Scenario 21: How would you manage a unexpected demand surge? (Context: Operations Manager)
+Operations Manager,Operations Manager,33,mid,Scenario 19: How would you manage a staff shortage?
+Operations Manager,Operations Manager,34,mid,Scenario 15: How would you manage a system outage?
+Operations Manager,Operations Manager,35,mid,What’s your method for managing organizational change? (Context: Operations Manager)
+Operations Manager,Operations Manager,36,mid,Scenario 6: How would you manage a staff shortage? (Context: Operations Manager)
+Operations Manager,Operations Manager,37,mid,What is your experience with automation in operations? (Context: Operations Manager)
+Operations Manager,Operations Manager,38,mid,Scenario 4: How would you manage a system outage? (Context: Operations Manager)
+Operations Manager,Operations Manager,39,high,Scenario 8: How would you manage a system outage? (Context: Operations Manager)
+Operations Manager,Operations Manager,40,high,What’s your approach to managing global vendors? (Context: Operations Manager)
+Operations Manager,Operations Manager,41,high,What methods do you use for demand forecasting? (Context: Operations Manager)
+Operations Manager,Operations Manager,42,high,How do you prepare operations for scalability? (Context: Operations Manager)
+Operations Manager,Operations Manager,43,high,Scenario 13: How would you manage a unexpected demand surge?
+Operations Manager,Operations Manager,44,high,How do you set strategic goals for operations teams?
+Operations Manager,Operations Manager,45,high,How do you assess risks in strategic projects? (Context: Operations Manager)
+Operations Manager,Operations Manager,46,high,Scenario 14: How would you manage a system outage?
+Operations Manager,Operations Manager,47,high,Scenario 5: How would you manage a system outage?
+Operations Manager,Operations Manager,48,high,What’s your strategy for crisis management in operations? (Context: Operations Manager)
+Operations Manager,Operations Manager,49,high,Scenario 11: How would you manage a supply chain delay?
+Operations Manager,Operations Manager,50,high,What metrics do you report to the executive board?
+Operations Manager,Director of Operations / COO,1,easy,What is your approach to mergers and acquisitions from an operations perspective?
+Operations Manager,Director of Operations / COO,2,easy,How do you set strategic goals for operations teams? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,3,easy,Scenario 8: How would you manage a supply chain delay? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,4,easy,Scenario 13: How would you manage a system outage?
+Operations Manager,Director of Operations / COO,5,easy,How do you develop long-term operational strategies? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,6,easy,How do you lead organizational transformation initiatives? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,7,easy,Scenario 16: How would you manage a staff shortage?
+Operations Manager,Director of Operations / COO,8,easy,Scenario 30: How would you manage a system outage?
+Operations Manager,Director of Operations / COO,9,easy,Scenario 29: How would you manage a unexpected demand surge?
+Operations Manager,Director of Operations / COO,10,easy,How do you manage stakeholder expectations?
+Operations Manager,Director of Operations / COO,11,easy,Scenario 18: How would you manage a system outage? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,12,easy,How do you manage executive-level reporting and decision-making?
+Operations Manager,Director of Operations / COO,13,easy,Scenario 26: How would you manage a system outage?
+Operations Manager,Director of Operations / COO,14,easy,What methods do you use for demand forecasting? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,15,easy,Scenario 9: How would you manage a system outage?
+Operations Manager,Director of Operations / COO,16,easy,What’s your strategy for building cross-departmental collaboration?
+Operations Manager,Director of Operations / COO,17,easy,What’s your approach to digital transformation in operations?
+Operations Manager,Director of Operations / COO,18,easy,Scenario 4: How would you manage a supply chain delay? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,19,mid,Scenario 11: How would you manage a staff shortage?
+Operations Manager,Director of Operations / COO,20,mid,What role do you play in shaping corporate culture?
+Operations Manager,Director of Operations / COO,21,mid,What is your experience with setting and managing budgets?
+Operations Manager,Director of Operations / COO,22,mid,Scenario 25: How would you manage a unexpected demand surge? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,23,mid,Scenario 14: How would you manage a system outage? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,24,mid,What is your approach to aligning operations with business strategy? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,25,mid,Scenario 3: How would you manage a unexpected demand surge?
+Operations Manager,Director of Operations / COO,26,mid,Scenario 15: How would you manage a staff shortage? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,27,mid,What role does technology play in operations optimization? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,28,mid,Scenario 20: How would you manage a system outage?
+Operations Manager,Director of Operations / COO,29,mid,How do you evaluate supply chain performance? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,30,mid,Scenario 28: How would you manage a staff shortage?
+Operations Manager,Director of Operations / COO,31,mid,Scenario 23: How would you manage a staff shortage? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,32,mid,Scenario 22: How would you manage a system outage? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,33,mid,Scenario 6: How would you manage a unexpected demand surge? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,34,mid,Scenario 2: How would you manage a supply chain delay? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,35,mid,Scenario 17: How would you manage a staff shortage?
+Operations Manager,Director of Operations / COO,36,mid,Scenario 21: How would you manage a supply chain delay?
+Operations Manager,Director of Operations / COO,37,mid,Scenario 24: How would you manage a unexpected demand surge?
+Operations Manager,Director of Operations / COO,38,mid,How do you build and mentor high-performing operations teams? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,39,high,Scenario 19: How would you manage a unexpected demand surge? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,40,high,Scenario 12: How would you manage a system outage? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,41,high,How do you ensure alignment between short-term operations and long-term strategy?
+Operations Manager,Director of Operations / COO,42,high,Scenario 10: How would you manage a system outage? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,43,high,How do you evaluate the success of operational strategies?
+Operations Manager,Director of Operations / COO,44,high,How do you implement lean Six Sigma at scale? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,45,high,How do you handle conflicts at senior leadership levels?
+Operations Manager,Director of Operations / COO,46,high,What metrics do you report to the executive board? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,47,high,Scenario 27: How would you manage a unexpected demand surge?
+Operations Manager,Director of Operations / COO,48,high,Scenario 7: How would you manage a system outage? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,49,high,Scenario 1: How would you manage a supply chain delay? (Context: Director of Operations / COO)
+Operations Manager,Director of Operations / COO,50,high,Scenario 5: How would you manage a unexpected demand surge? (Context: Director of Operations / COO)

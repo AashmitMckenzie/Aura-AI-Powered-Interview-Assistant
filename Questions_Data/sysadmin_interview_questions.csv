@@ -1,0 +1,251 @@
+Main Role,Sub Role,Question number,difficulty,question
+System Administrator,Junior System Administrator,1,easy,What is DNS and why is it important?
+System Administrator,Junior System Administrator,2,easy,You are managing a file server. How would you troubleshoot high CPU usage? (Scenario 12)
+System Administrator,Junior System Administrator,3,easy,You are managing a database server. How would you troubleshoot disk failure? (Scenario 23)
+System Administrator,Junior System Administrator,4,easy,You are managing a domain controller. How would you troubleshoot unauthorized login attempts? (Scenario 8)
+System Administrator,Junior System Administrator,5,easy,You are managing a file server. How would you troubleshoot network latency? (Scenario 13)
+System Administrator,Junior System Administrator,6,easy,You are managing a web server. How would you troubleshoot disk failure? (Scenario 25)
+System Administrator,Junior System Administrator,7,easy,You are managing a domain controller. How would you troubleshoot unauthorized login attempts? (Scenario 16)
+System Administrator,Junior System Administrator,8,easy,You are managing a domain controller. How would you troubleshoot network latency? (Scenario 15)
+System Administrator,Junior System Administrator,9,easy,What is SNMP and how is it used?
+System Administrator,Junior System Administrator,10,easy,Explain DHCP and its role in networking.
+System Administrator,Junior System Administrator,11,easy,What is SSH and why is it important?
+System Administrator,Junior System Administrator,12,easy,What are RAID levels and why are they used?
+System Administrator,Junior System Administrator,13,easy,How do you apply system updates?
+System Administrator,Junior System Administrator,14,easy,Explain IPv4 vs IPv6.
+System Administrator,Junior System Administrator,15,easy,You are managing a web server. How would you troubleshoot unauthorized login attempts? (Scenario 17)
+System Administrator,Junior System Administrator,16,easy,Explain the OSI model layers.
+System Administrator,Junior System Administrator,17,easy,How do you restore a deleted file from backup?
+System Administrator,Junior System Administrator,18,easy,What is a firewall and how does it work?
+System Administrator,Junior System Administrator,19,mid,You are managing a web server. How would you troubleshoot high CPU usage? (Scenario 6)
+System Administrator,Junior System Administrator,20,mid,You are managing a file server. How would you troubleshoot network latency? (Scenario 18)
+System Administrator,Junior System Administrator,21,mid,How do you join a computer to a domain?
+System Administrator,Junior System Administrator,22,mid,How do you reset a user password in Active Directory?
+System Administrator,Junior System Administrator,23,mid,You are managing a file server. How would you troubleshoot high CPU usage? (Scenario 11)
+System Administrator,Junior System Administrator,24,mid,You are managing a database server. How would you troubleshoot disk failure? (Scenario 9)
+System Administrator,Junior System Administrator,25,mid,What is PowerShell and why is it used?
+System Administrator,Junior System Administrator,26,mid,You are managing a domain controller. How would you troubleshoot network latency? (Scenario 24)
+System Administrator,Junior System Administrator,27,mid,You are managing a web server. How would you troubleshoot disk failure? (Scenario 2)
+System Administrator,Junior System Administrator,28,mid,What is Active Directory used for?
+System Administrator,Junior System Administrator,29,mid,You are managing a file server. How would you troubleshoot network latency? (Scenario 1)
+System Administrator,Junior System Administrator,30,mid,You are managing a database server. How would you troubleshoot disk failure? (Scenario 5)
+System Administrator,Junior System Administrator,31,mid,You are managing a database server. How would you troubleshoot network latency? (Scenario 4)
+System Administrator,Junior System Administrator,32,mid,You are managing a web server. How would you troubleshoot unauthorized login attempts? (Scenario 3)
+System Administrator,Junior System Administrator,33,mid,What are Group Policies in Windows?
+System Administrator,Junior System Administrator,34,mid,You are managing a web server. How would you troubleshoot network latency? (Scenario 10)
+System Administrator,Junior System Administrator,35,mid,What is virtualization and why is it useful?
+System Administrator,Junior System Administrator,36,mid,You are managing a file server. How would you troubleshoot network latency? (Scenario 14)
+System Administrator,Junior System Administrator,37,mid,What is the difference between TCP and UDP?
+System Administrator,Junior System Administrator,38,mid,How do you configure remote desktop securely?
+System Administrator,Junior System Administrator,39,high,What is the difference between a domain and a workgroup?
+System Administrator,Junior System Administrator,40,high,You are managing a web server. How would you troubleshoot disk failure? (Scenario 21)
+System Administrator,Junior System Administrator,41,high,"How do you monitor server CPU, memory, and disk usage?"
+System Administrator,Junior System Administrator,42,high,How do you troubleshoot a PC that cannot access the internet?
+System Administrator,Junior System Administrator,43,high,How do you schedule a task in Windows Task Scheduler?
+System Administrator,Junior System Administrator,44,high,You are managing a domain controller. How would you troubleshoot unauthorized login attempts? (Scenario 19)
+System Administrator,Junior System Administrator,45,high,You are managing a web server. How would you troubleshoot disk failure? (Scenario 20)
+System Administrator,Junior System Administrator,46,high,How do you check disk usage on Windows and Linux?
+System Administrator,Junior System Administrator,47,high,You are managing a domain controller. How would you troubleshoot network latency? (Scenario 7)
+System Administrator,Junior System Administrator,48,high,How do you configure a network printer?
+System Administrator,Junior System Administrator,49,high,You are managing a domain controller. How would you troubleshoot network latency? (Scenario 22)
+System Administrator,Junior System Administrator,50,high,What is a proxy server?
+System Administrator,System Administrator,1,easy,You are managing a database server. How would you troubleshoot unauthorized login attempts? (Scenario 8)
+System Administrator,System Administrator,2,easy,What is a certificate authority and why is it needed?
+System Administrator,System Administrator,3,easy,You are managing a file server. How would you troubleshoot disk failure? (Scenario 1)
+System Administrator,System Administrator,4,easy,You are managing a file server. How would you troubleshoot high CPU usage? (Scenario 6)
+System Administrator,System Administrator,5,easy,What is LDAP and how is it used?
+System Administrator,System Administrator,6,easy,How do you configure centralized logging?
+System Administrator,System Administrator,7,easy,You are managing a file server. How would you troubleshoot unauthorized login attempts? (Scenario 9)
+System Administrator,System Administrator,8,easy,How do you check disk usage on Windows and Linux? (Context: System Administrator)
+System Administrator,System Administrator,9,easy,What are RAID levels and why are they used? (Context: System Administrator)
+System Administrator,System Administrator,10,easy,How do you manage service dependencies on Linux?
+System Administrator,System Administrator,11,easy,Explain patch management strategies.
+System Administrator,System Administrator,12,easy,How do you schedule a task in Windows Task Scheduler? (Context: System Administrator)
+System Administrator,System Administrator,13,easy,Explain what containers are in system administration.
+System Administrator,System Administrator,14,easy,What is DNS and why is it important? (Context: System Administrator)
+System Administrator,System Administrator,15,easy,How do you configure a network printer? (Context: System Administrator)
+System Administrator,System Administrator,16,easy,How do you troubleshoot account lockouts?
+System Administrator,System Administrator,17,easy,You are managing a file server. How would you troubleshoot high CPU usage? (Scenario 7)
+System Administrator,System Administrator,18,easy,How do you troubleshoot a PC that cannot access the internet? (Context: System Administrator)
+System Administrator,System Administrator,19,mid,What are Group Policies in Windows? (Context: System Administrator)
+System Administrator,System Administrator,20,mid,Explain DHCP and its role in networking. (Context: System Administrator)
+System Administrator,System Administrator,21,mid,How do you apply system updates? (Context: System Administrator)
+System Administrator,System Administrator,22,mid,What is the difference between TCP and UDP? (Context: System Administrator)
+System Administrator,System Administrator,23,mid,What is load balancing and when is it needed?
+System Administrator,System Administrator,24,mid,What is the difference between a domain and a workgroup? (Context: System Administrator)
+System Administrator,System Administrator,25,mid,You are managing a domain controller. How would you troubleshoot network latency? (Scenario 4)
+System Administrator,System Administrator,26,mid,Explain IPv4 vs IPv6. (Context: System Administrator)
+System Administrator,System Administrator,27,mid,Explain the OSI model layers. (Context: System Administrator)
+System Administrator,System Administrator,28,mid,What are system environment variables?
+System Administrator,System Administrator,29,mid,How do you configure remote desktop securely? (Context: System Administrator)
+System Administrator,System Administrator,30,mid,"How do you monitor server CPU, memory, and disk usage? (Context: System Administrator)"
+System Administrator,System Administrator,31,mid,Explain how you would secure network shares.
+System Administrator,System Administrator,32,mid,What is PowerShell and why is it used? (Context: System Administrator)
+System Administrator,System Administrator,33,mid,How do you use monitoring tools like Nagios or Zabbix?
+System Administrator,System Administrator,34,mid,What is a firewall and how does it work? (Context: System Administrator)
+System Administrator,System Administrator,35,mid,What is SNMP and how is it used? (Context: System Administrator)
+System Administrator,System Administrator,36,mid,What is SSH and why is it important? (Context: System Administrator)
+System Administrator,System Administrator,37,mid,What is virtualization and why is it useful? (Context: System Administrator)
+System Administrator,System Administrator,38,mid,How do you handle slow login issues in a domain?
+System Administrator,System Administrator,39,high,You are managing a web server. How would you troubleshoot disk failure? (Scenario 10)
+System Administrator,System Administrator,40,high,You are managing a database server. How would you troubleshoot high CPU usage? (Scenario 5)
+System Administrator,System Administrator,41,high,How do you reset a user password in Active Directory? (Context: System Administrator)
+System Administrator,System Administrator,42,high,You are managing a database server. How would you troubleshoot disk failure? (Scenario 2)
+System Administrator,System Administrator,43,high,What is high availability in system infrastructure?
+System Administrator,System Administrator,44,high,How do you restore a deleted file from backup? (Context: System Administrator)
+System Administrator,System Administrator,45,high,How do you configure NIC bonding or teaming?
+System Administrator,System Administrator,46,high,You are managing a file server. How would you troubleshoot unauthorized login attempts? (Scenario 3)
+System Administrator,System Administrator,47,high,How do you deploy software using Group Policy?
+System Administrator,System Administrator,48,high,How do you join a computer to a domain? (Context: System Administrator)
+System Administrator,System Administrator,49,high,What is Active Directory used for? (Context: System Administrator)
+System Administrator,System Administrator,50,high,What is a proxy server? (Context: System Administrator)
+System Administrator,Senior System Administrator,1,easy,You are managing a database server. How would you troubleshoot unauthorized login attempts? (Scenario 6)
+System Administrator,Senior System Administrator,2,easy,How do you design a disaster recovery plan?
+System Administrator,Senior System Administrator,3,easy,You are managing a domain controller. How would you troubleshoot network latency? (Scenario 1)
+System Administrator,Senior System Administrator,4,easy,How do you implement a patch management lifecycle?
+System Administrator,Senior System Administrator,5,easy,How do you configure remote desktop securely? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,6,easy,How do you automate system administration with Ansible or Puppet?
+System Administrator,Senior System Administrator,7,easy,What are best practices for centralized monitoring and alerting?
+System Administrator,Senior System Administrator,8,easy,You are managing a database server. How would you troubleshoot disk failure? (Scenario 9) (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,9,easy,You are managing a web server. How would you troubleshoot high CPU usage? (Scenario 4)
+System Administrator,Senior System Administrator,10,easy,How do you use monitoring tools like Nagios or Zabbix? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,11,easy,How do you migrate workloads from physical to virtual servers?
+System Administrator,Senior System Administrator,12,easy,Explain patch management strategies. (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,13,easy,How do you deploy software using Group Policy? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,14,easy,How do you join a computer to a domain? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,15,easy,How do you configure centralized logging? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,16,easy,You are managing a domain controller. How would you troubleshoot high CPU usage? (Scenario 2)
+System Administrator,Senior System Administrator,17,easy,What is a hypervisor and what types exist?
+System Administrator,Senior System Administrator,18,easy,Explain what containers are in system administration. (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,19,mid,What is load balancing and when is it needed? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,20,mid,You are managing a web server. How would you troubleshoot network latency? (Scenario 3)
+System Administrator,Senior System Administrator,21,mid,You are managing a file server. How would you troubleshoot unauthorized login attempts? (Scenario 10)
+System Administrator,Senior System Administrator,22,mid,How do you harden a Linux server?
+System Administrator,Senior System Administrator,23,mid,How do you perform centralized backup testing?
+System Administrator,Senior System Administrator,24,mid,What is PowerShell and why is it used? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,25,mid,What is high availability in system infrastructure? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,26,mid,How do you handle slow login issues in a domain? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,27,mid,Explain the process of capacity planning.
+System Administrator,Senior System Administrator,28,mid,How do you evaluate hybrid cloud strategies?
+System Administrator,Senior System Administrator,29,mid,What are KPIs to measure system reliability?
+System Administrator,Senior System Administrator,30,mid,How do you configure multi-factor authentication?
+System Administrator,Senior System Administrator,31,mid,How do you troubleshoot account lockouts? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,32,mid,Explain how you would secure network shares. (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,33,mid,You are managing a database server. How would you troubleshoot network latency? (Scenario 5)
+System Administrator,Senior System Administrator,34,mid,Explain containerization vs virtualization.
+System Administrator,Senior System Administrator,35,mid,How do you manage service dependencies on Linux? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,36,mid,You are managing a domain controller. How would you troubleshoot unauthorized login attempts? (Scenario 8) (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,37,mid,What are system environment variables? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,38,mid,What is zero trust security in infrastructure?
+System Administrator,Senior System Administrator,39,high,"How do you monitor server CPU, memory, and disk usage? (Context: Senior System Administrator)"
+System Administrator,Senior System Administrator,40,high,What are the security risks of outdated operating systems?
+System Administrator,Senior System Administrator,41,high,How do you test business continuity plans?
+System Administrator,Senior System Administrator,42,high,What is a certificate authority and why is it needed? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,43,high,"Explain trade-offs between bare metal, VM, and containers."
+System Administrator,Senior System Administrator,44,high,What is LDAP and how is it used? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,45,high,What is SNMP and how is it used? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,46,high,How do you secure privileged account access?
+System Administrator,Senior System Administrator,47,high,How do you conduct a root cause analysis after an outage?
+System Administrator,Senior System Administrator,48,high,How do you configure NIC bonding or teaming? (Context: Senior System Administrator)
+System Administrator,Senior System Administrator,49,high,You are managing a domain controller. How would you troubleshoot high CPU usage? (Scenario 7)
+System Administrator,Senior System Administrator,50,high,Explain strategies for network segmentation.
+System Administrator,IT Infrastructure Lead,1,easy,Explain strategies for network segmentation. (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,2,easy,What metrics do you track for IT infrastructure health?
+System Administrator,IT Infrastructure Lead,3,easy,You are managing a domain controller. How would you troubleshoot disk failure? (Scenario 7)
+System Administrator,IT Infrastructure Lead,4,easy,You are managing a domain controller. How would you troubleshoot network latency? (Scenario 6)
+System Administrator,IT Infrastructure Lead,5,easy,How do you test business continuity plans? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,6,easy,You are managing a domain controller. How would you troubleshoot unauthorized login attempts? (Scenario 5)
+System Administrator,IT Infrastructure Lead,7,easy,How do you automate system administration with Ansible or Puppet? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,8,easy,How do you secure privileged account access? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,9,easy,You are managing a domain controller. How would you troubleshoot unauthorized login attempts? (Scenario 14)
+System Administrator,IT Infrastructure Lead,10,easy,What is zero trust security in infrastructure? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,11,easy,You are managing a domain controller. How would you troubleshoot network latency? (Scenario 11)
+System Administrator,IT Infrastructure Lead,12,easy,You are managing a file server. How would you troubleshoot network latency? (Scenario 19)
+System Administrator,IT Infrastructure Lead,13,easy,How do you migrate workloads from physical to virtual servers? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,14,easy,You are managing a web server. How would you troubleshoot high CPU usage? (Scenario 25)
+System Administrator,IT Infrastructure Lead,15,easy,How do you harden a Linux server? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,16,easy,How do you evaluate hybrid cloud strategies? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,17,easy,You are managing a domain controller. How would you troubleshoot unauthorized login attempts? (Scenario 8) (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,18,easy,You are managing a domain controller. How would you troubleshoot high CPU usage? (Scenario 22)
+System Administrator,IT Infrastructure Lead,19,mid,You are managing a web server. How would you troubleshoot high CPU usage? (Scenario 4) (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,20,mid,You are managing a domain controller. How would you troubleshoot network latency? (Scenario 21)
+System Administrator,IT Infrastructure Lead,21,mid,How do you prioritize critical incidents?
+System Administrator,IT Infrastructure Lead,22,mid,You are managing a web server. How would you troubleshoot disk failure? (Scenario 9)
+System Administrator,IT Infrastructure Lead,23,mid,You are managing a file server. How would you troubleshoot disk failure? (Scenario 18)
+System Administrator,IT Infrastructure Lead,24,mid,You are managing a domain controller. How would you troubleshoot disk failure? (Scenario 16)
+System Administrator,IT Infrastructure Lead,25,mid,What is a hypervisor and what types exist? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,26,mid,You are managing a domain controller. How would you troubleshoot network latency? (Scenario 1) (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,27,mid,How do you manage an on-call rotation?
+System Administrator,IT Infrastructure Lead,28,mid,What are best practices for centralized monitoring and alerting? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,29,mid,How do you conduct a root cause analysis after an outage? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,30,mid,You are managing a file server. How would you troubleshoot high CPU usage? (Scenario 10)
+System Administrator,IT Infrastructure Lead,31,mid,You are managing a file server. How would you troubleshoot high CPU usage? (Scenario 24)
+System Administrator,IT Infrastructure Lead,32,mid,You are managing a database server. How would you troubleshoot high CPU usage? (Scenario 3)
+System Administrator,IT Infrastructure Lead,33,mid,You are managing a domain controller. How would you troubleshoot unauthorized login attempts? (Scenario 13)
+System Administrator,IT Infrastructure Lead,34,mid,You are managing a domain controller. How would you troubleshoot unauthorized login attempts? (Scenario 20)
+System Administrator,IT Infrastructure Lead,35,mid,How do you justify budget requests for upgrades?
+System Administrator,IT Infrastructure Lead,36,mid,"Explain trade-offs between bare metal, VM, and containers. (Context: IT Infrastructure Lead)"
+System Administrator,IT Infrastructure Lead,37,mid,How do you perform centralized backup testing? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,38,mid,You are managing a file server. How would you troubleshoot unauthorized login attempts? (Scenario 2)
+System Administrator,IT Infrastructure Lead,39,high,What are KPIs to measure system reliability? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,40,high,How do you design a disaster recovery plan? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,41,high,You are managing a database server. How would you troubleshoot network latency? (Scenario 23)
+System Administrator,IT Infrastructure Lead,42,high,You are managing a file server. How would you troubleshoot unauthorized login attempts? (Scenario 15)
+System Administrator,IT Infrastructure Lead,43,high,What is ITIL and why is it important?
+System Administrator,IT Infrastructure Lead,44,high,You are managing a domain controller. How would you troubleshoot disk failure? (Scenario 12)
+System Administrator,IT Infrastructure Lead,45,high,What are the security risks of outdated operating systems? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,46,high,Explain the process of capacity planning. (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,47,high,How do you configure multi-factor authentication? (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,48,high,Explain containerization vs virtualization. (Context: IT Infrastructure Lead)
+System Administrator,IT Infrastructure Lead,49,high,You are managing a domain controller. How would you troubleshoot network latency? (Scenario 17)
+System Administrator,IT Infrastructure Lead,50,high,How do you implement a patch management lifecycle? (Context: IT Infrastructure Lead)
+System Administrator,IT Operations Manager,1,easy,What metrics do you track for IT infrastructure health? (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,2,easy,You are managing a file server. How would you troubleshoot disk failure? (Scenario 6)
+System Administrator,IT Operations Manager,3,easy,You are managing a domain controller. How would you troubleshoot network latency? (Scenario 20)
+System Administrator,IT Operations Manager,4,easy,How do you harden a Linux server? (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,5,easy,You are managing a domain controller. How would you troubleshoot unauthorized login attempts? (Scenario 27)
+System Administrator,IT Operations Manager,6,easy,How do you justify budget requests for upgrades? (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,7,easy,How do you coordinate change management?
+System Administrator,IT Operations Manager,8,easy,You are managing a domain controller. How would you troubleshoot disk failure? (Scenario 31)
+System Administrator,IT Operations Manager,9,easy,Explain the process of capacity planning. (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,10,easy,How do you prioritize critical incidents? (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,11,easy,What is zero trust security in infrastructure? (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,12,easy,How do you configure multi-factor authentication? (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,13,easy,You are managing a file server. How would you troubleshoot disk failure? (Scenario 32)
+System Administrator,IT Operations Manager,14,easy,You are managing a domain controller. How would you troubleshoot disk failure? (Scenario 4)
+System Administrator,IT Operations Manager,15,easy,You are managing a web server. How would you troubleshoot unauthorized login attempts? (Scenario 26)
+System Administrator,IT Operations Manager,16,easy,How do you manage an on-call rotation? (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,17,easy,You are managing a domain controller. How would you troubleshoot unauthorized login attempts? (Scenario 7)
+System Administrator,IT Operations Manager,18,easy,You are managing a file server. How would you troubleshoot unauthorized login attempts? (Scenario 23)
+System Administrator,IT Operations Manager,19,mid,You are managing a database server. How would you troubleshoot network latency? (Scenario 28)
+System Administrator,IT Operations Manager,20,mid,You are managing a web server. How would you troubleshoot high CPU usage? (Scenario 18)
+System Administrator,IT Operations Manager,21,mid,You are managing a web server. How would you troubleshoot network latency? (Scenario 2)
+System Administrator,IT Operations Manager,22,mid,You are managing a database server. How would you troubleshoot network latency? (Scenario 30)
+System Administrator,IT Operations Manager,23,mid,You are managing a web server. How would you troubleshoot high CPU usage? (Scenario 15)
+System Administrator,IT Operations Manager,24,mid,You are managing a web server. How would you troubleshoot disk failure? (Scenario 3)
+System Administrator,IT Operations Manager,25,mid,What KPIs matter for cost and efficiency of IT operations?
+System Administrator,IT Operations Manager,26,mid,You are managing a database server. How would you troubleshoot disk failure? (Scenario 17)
+System Administrator,IT Operations Manager,27,mid,How do you design a disaster recovery plan? (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,28,mid,You are managing a web server. How would you troubleshoot high CPU usage? (Scenario 10)
+System Administrator,IT Operations Manager,29,mid,You are managing a file server. How would you troubleshoot disk failure? (Scenario 33)
+System Administrator,IT Operations Manager,30,mid,You are managing a database server. How would you troubleshoot unauthorized login attempts? (Scenario 11)
+System Administrator,IT Operations Manager,31,mid,You are managing a web server. How would you troubleshoot high CPU usage? (Scenario 25) (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,32,mid,You are managing a web server. How would you troubleshoot unauthorized login attempts? (Scenario 29)
+System Administrator,IT Operations Manager,33,mid,You are managing a web server. How would you troubleshoot unauthorized login attempts? (Scenario 9)
+System Administrator,IT Operations Manager,34,mid,You are managing a file server. How would you troubleshoot high CPU usage? (Scenario 24) (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,35,mid,You are managing a domain controller. How would you troubleshoot high CPU usage? (Scenario 16)
+System Administrator,IT Operations Manager,36,mid,You are managing a web server. How would you troubleshoot unauthorized login attempts? (Scenario 8)
+System Administrator,IT Operations Manager,37,mid,You are managing a file server. How would you troubleshoot network latency? (Scenario 13) (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,38,mid,You are managing a domain controller. How would you troubleshoot unauthorized login attempts? (Scenario 21)
+System Administrator,IT Operations Manager,39,high,How do you communicate technical incidents to executives?
+System Administrator,IT Operations Manager,40,high,How do you staff a 24/7 operations team?
+System Administrator,IT Operations Manager,41,high,You are managing a database server. How would you troubleshoot unauthorized login attempts? (Scenario 14)
+System Administrator,IT Operations Manager,42,high,You are managing a file server. How would you troubleshoot network latency? (Scenario 35)
+System Administrator,IT Operations Manager,43,high,You are managing a web server. How would you troubleshoot high CPU usage? (Scenario 19)
+System Administrator,IT Operations Manager,44,high,What is ITIL and why is it important? (Context: IT Operations Manager)
+System Administrator,IT Operations Manager,45,high,You are managing a web server. How would you troubleshoot high CPU usage? (Scenario 5)
+System Administrator,IT Operations Manager,46,high,You are managing a database server. How would you troubleshoot network latency? (Scenario 12)
+System Administrator,IT Operations Manager,47,high,You are managing a web server. How would you troubleshoot disk failure? (Scenario 1)
+System Administrator,IT Operations Manager,48,high,You are managing a file server. How would you troubleshoot disk failure? (Scenario 22)
+System Administrator,IT Operations Manager,49,high,You are managing a database server. How would you troubleshoot network latency? (Scenario 34)
+System Administrator,IT Operations Manager,50,high,How do you evaluate new infrastructure technologies?

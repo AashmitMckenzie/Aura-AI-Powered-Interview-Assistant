@@ -1,0 +1,251 @@
+Main Role,Sub Role,Question number,difficulty,question
+Consultant (Tech / Business),Associate Consultant,1,easy,How do you manage confidential client data?
+Consultant (Tech / Business),Associate Consultant,2,easy,Scenario 12: How would you advise a retail client on supply chain optimization?
+Consultant (Tech / Business),Associate Consultant,3,easy,Scenario 7: How would you advise a technology client on M&A integration?
+Consultant (Tech / Business),Associate Consultant,4,easy,Scenario 6: How would you advise a healthcare client on financial restructuring?
+Consultant (Tech / Business),Associate Consultant,5,easy,What is the role of an Associate Consultant?
+Consultant (Tech / Business),Associate Consultant,6,easy,How do you prepare client deliverables?
+Consultant (Tech / Business),Associate Consultant,7,easy,What is your experience with PowerPoint presentations?
+Consultant (Tech / Business),Associate Consultant,8,easy,What tools do you use for data analysis?
+Consultant (Tech / Business),Associate Consultant,9,easy,What is your approach to market analysis?
+Consultant (Tech / Business),Associate Consultant,10,easy,What is your approach to problem-solving in consulting?
+Consultant (Tech / Business),Associate Consultant,11,easy,What’s your experience with business process mapping?
+Consultant (Tech / Business),Associate Consultant,12,easy,Scenario 11: How would you advise a retail client on digital transformation?
+Consultant (Tech / Business),Associate Consultant,13,easy,What is the importance of industry research in consulting?
+Consultant (Tech / Business),Associate Consultant,14,easy,How do you use data visualization in consulting?
+Consultant (Tech / Business),Associate Consultant,15,easy,Scenario 10: How would you advise a retail client on supply chain optimization?
+Consultant (Tech / Business),Associate Consultant,16,easy,What is your experience with Microsoft Excel or Google Sheets?
+Consultant (Tech / Business),Associate Consultant,17,easy,Scenario 17: How would you advise a healthcare client on digital transformation?
+Consultant (Tech / Business),Associate Consultant,18,easy,Scenario 18: How would you advise a retail client on digital transformation?
+Consultant (Tech / Business),Associate Consultant,19,mid,How do you gather requirements from clients?
+Consultant (Tech / Business),Associate Consultant,20,mid,Scenario 3: How would you advise a retail client on digital transformation?
+Consultant (Tech / Business),Associate Consultant,21,mid,How do you document client discussions?
+Consultant (Tech / Business),Associate Consultant,22,mid,What motivates you to work in consulting?
+Consultant (Tech / Business),Associate Consultant,23,mid,What is your approach to handling deadlines?
+Consultant (Tech / Business),Associate Consultant,24,mid,Scenario 21: How would you advise a healthcare client on digital transformation?
+Consultant (Tech / Business),Associate Consultant,25,mid,Scenario 8: How would you advise a technology client on supply chain optimization?
+Consultant (Tech / Business),Associate Consultant,26,mid,What role does teamwork play in consulting?
+Consultant (Tech / Business),Associate Consultant,27,mid,What does client communication mean to you?
+Consultant (Tech / Business),Associate Consultant,28,mid,Scenario 25: How would you advise a technology client on digital transformation?
+Consultant (Tech / Business),Associate Consultant,29,mid,How do you conduct basic client research?
+Consultant (Tech / Business),Associate Consultant,30,mid,Scenario 13: How would you advise a healthcare client on supply chain optimization?
+Consultant (Tech / Business),Associate Consultant,31,mid,Scenario 20: How would you advise a healthcare client on digital transformation?
+Consultant (Tech / Business),Associate Consultant,32,mid,How do you adapt quickly to new client industries?
+Consultant (Tech / Business),Associate Consultant,33,mid,How do you manage your time when working on multiple tasks?
+Consultant (Tech / Business),Associate Consultant,34,mid,How do you structure a consulting engagement?
+Consultant (Tech / Business),Associate Consultant,35,mid,Scenario 23: How would you advise a healthcare client on financial restructuring?
+Consultant (Tech / Business),Associate Consultant,36,mid,What’s your understanding of SWOT analysis?
+Consultant (Tech / Business),Associate Consultant,37,mid,Scenario 24: How would you advise a banking client on financial restructuring?
+Consultant (Tech / Business),Associate Consultant,38,mid,Scenario 4: How would you advise a retail client on digital transformation?
+Consultant (Tech / Business),Associate Consultant,39,high,How do you present information clearly to clients?
+Consultant (Tech / Business),Associate Consultant,40,high,Scenario 15: How would you advise a banking client on M&A integration?
+Consultant (Tech / Business),Associate Consultant,41,high,Scenario 1: How would you advise a healthcare client on financial restructuring?
+Consultant (Tech / Business),Associate Consultant,42,high,Scenario 19: How would you advise a retail client on digital transformation?
+Consultant (Tech / Business),Associate Consultant,43,high,Scenario 22: How would you advise a healthcare client on M&A integration?
+Consultant (Tech / Business),Associate Consultant,44,high,How do you handle feedback from senior consultants?
+Consultant (Tech / Business),Associate Consultant,45,high,How do you ensure accuracy in reporting?
+Consultant (Tech / Business),Associate Consultant,46,high,Scenario 14: How would you advise a banking client on M&A integration?
+Consultant (Tech / Business),Associate Consultant,47,high,Scenario 9: How would you advise a technology client on digital transformation?
+Consultant (Tech / Business),Associate Consultant,48,high,Scenario 16: How would you advise a technology client on supply chain optimization?
+Consultant (Tech / Business),Associate Consultant,49,high,Scenario 5: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Associate Consultant,50,high,Scenario 2: How would you advise a healthcare client on financial restructuring?
+Consultant (Tech / Business),Consultant,1,easy,How do you structure a consulting engagement? (Context: Consultant)
+Consultant (Tech / Business),Consultant,2,easy,How do you use data visualization in consulting? (Context: Consultant)
+Consultant (Tech / Business),Consultant,3,easy,How do you manage confidential client data? (Context: Consultant)
+Consultant (Tech / Business),Consultant,4,easy,What does client communication mean to you? (Context: Consultant)
+Consultant (Tech / Business),Consultant,5,easy,Scenario 3: How would you advise a banking client on financial restructuring?
+Consultant (Tech / Business),Consultant,6,easy,How do you handle difficult client requests?
+Consultant (Tech / Business),Consultant,7,easy,What is your experience with PowerPoint presentations? (Context: Consultant)
+Consultant (Tech / Business),Consultant,8,easy,What motivates you to work in consulting? (Context: Consultant)
+Consultant (Tech / Business),Consultant,9,easy,What is your experience with Microsoft Excel or Google Sheets? (Context: Consultant)
+Consultant (Tech / Business),Consultant,10,easy,What is your experience with benchmarking studies?
+Consultant (Tech / Business),Consultant,11,easy,Scenario 1: How would you advise a technology client on supply chain optimization?
+Consultant (Tech / Business),Consultant,12,easy,What tools do you use for data analysis? (Context: Consultant)
+Consultant (Tech / Business),Consultant,13,easy,Scenario 7: How would you advise a retail client on M&A integration?
+Consultant (Tech / Business),Consultant,14,easy,Scenario 8: How would you advise a banking client on supply chain optimization?
+Consultant (Tech / Business),Consultant,15,easy,How do you conduct basic client research? (Context: Consultant)
+Consultant (Tech / Business),Consultant,16,easy,Scenario 6: How would you advise a technology client on digital transformation?
+Consultant (Tech / Business),Consultant,17,easy,What role does teamwork play in consulting? (Context: Consultant)
+Consultant (Tech / Business),Consultant,18,easy,What is the importance of industry research in consulting? (Context: Consultant)
+Consultant (Tech / Business),Consultant,19,mid,What is your approach to market analysis? (Context: Consultant)
+Consultant (Tech / Business),Consultant,20,mid,How do you develop KPIs for clients?
+Consultant (Tech / Business),Consultant,21,mid,How do you handle feedback from senior consultants? (Context: Consultant)
+Consultant (Tech / Business),Consultant,22,mid,What is your approach to developing recommendations?
+Consultant (Tech / Business),Consultant,23,mid,How do you present information clearly to clients? (Context: Consultant)
+Consultant (Tech / Business),Consultant,24,mid,What is the role of an Associate Consultant? (Context: Consultant)
+Consultant (Tech / Business),Consultant,25,mid,What tools do you use for project management?
+Consultant (Tech / Business),Consultant,26,mid,How do you assess operational efficiency?
+Consultant (Tech / Business),Consultant,27,mid,How do you evaluate client requirements against best practices?
+Consultant (Tech / Business),Consultant,28,mid,How do you evaluate the ROI of consulting projects?
+Consultant (Tech / Business),Consultant,29,mid,What is risk management in consulting projects?
+Consultant (Tech / Business),Consultant,30,mid,How do you ensure client alignment with recommendations?
+Consultant (Tech / Business),Consultant,31,mid,What is change management in consulting?
+Consultant (Tech / Business),Consultant,32,mid,What is your approach to handling deadlines? (Context: Consultant)
+Consultant (Tech / Business),Consultant,33,mid,How do you conduct gap analysis?
+Consultant (Tech / Business),Consultant,34,mid,What is your approach to problem-solving in consulting? (Context: Consultant)
+Consultant (Tech / Business),Consultant,35,mid,How do you ensure accuracy in reporting? (Context: Consultant)
+Consultant (Tech / Business),Consultant,36,mid,What’s your approach to building financial models?
+Consultant (Tech / Business),Consultant,37,mid,What is your understanding of digital transformation?
+Consultant (Tech / Business),Consultant,38,mid,Scenario 2: How would you advise a banking client on supply chain optimization?
+Consultant (Tech / Business),Consultant,39,high,How do you gather requirements from clients? (Context: Consultant)
+Consultant (Tech / Business),Consultant,40,high,Scenario 9: How would you advise a technology client on M&A integration?
+Consultant (Tech / Business),Consultant,41,high,How do you manage your time when working on multiple tasks? (Context: Consultant)
+Consultant (Tech / Business),Consultant,42,high,How do you adapt quickly to new client industries? (Context: Consultant)
+Consultant (Tech / Business),Consultant,43,high,Scenario 10: How would you advise a retail client on financial restructuring?
+Consultant (Tech / Business),Consultant,44,high,How do you prepare client deliverables? (Context: Consultant)
+Consultant (Tech / Business),Consultant,45,high,What’s your understanding of SWOT analysis? (Context: Consultant)
+Consultant (Tech / Business),Consultant,46,high,What’s your experience with business process mapping? (Context: Consultant)
+Consultant (Tech / Business),Consultant,47,high,Scenario 5: How would you advise a banking client on financial restructuring?
+Consultant (Tech / Business),Consultant,48,high,What’s your strategy for stakeholder management?
+Consultant (Tech / Business),Consultant,49,high,Scenario 4: How would you advise a technology client on financial restructuring?
+Consultant (Tech / Business),Consultant,50,high,How do you document client discussions? (Context: Consultant)
+Consultant (Tech / Business),Senior Consultant,1,easy,What’s your strategy for stakeholder management? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,2,easy,Scenario 7: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Senior Consultant,3,easy,What is change management in consulting? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,4,easy,How do you manage global client engagements?
+Consultant (Tech / Business),Senior Consultant,5,easy,What’s your approach to building financial models? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,6,easy,What is your experience with benchmarking studies? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,7,easy,What is your approach to market analysis? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,8,easy,What’s your strategy for digital transformation roadmaps?
+Consultant (Tech / Business),Senior Consultant,9,easy,What is your approach to financial due diligence?
+Consultant (Tech / Business),Senior Consultant,10,easy,What’s your experience with business process mapping? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,11,easy,How do you evaluate client requirements against best practices? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,12,easy,How do you manage change resistance?
+Consultant (Tech / Business),Senior Consultant,13,easy,How do you use data visualization in consulting? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,14,easy,How do you prepare client deliverables? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,15,easy,What is your experience with large-scale transformation projects?
+Consultant (Tech / Business),Senior Consultant,16,easy,How do you handle confidentiality in sensitive projects?
+Consultant (Tech / Business),Senior Consultant,17,easy,How do you evaluate technology vendors for clients?
+Consultant (Tech / Business),Senior Consultant,18,easy,How do you evaluate success in consulting projects?
+Consultant (Tech / Business),Senior Consultant,19,mid,How do you ensure measurable outcomes in projects?
+Consultant (Tech / Business),Senior Consultant,20,mid,What is your experience with regulatory compliance consulting?
+Consultant (Tech / Business),Senior Consultant,21,mid,Scenario 5: How would you advise a retail client on financial restructuring?
+Consultant (Tech / Business),Senior Consultant,22,mid,Scenario 3: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Senior Consultant,23,mid,What tools do you use for project management? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,24,mid,What’s your method for prioritizing initiatives for clients?
+Consultant (Tech / Business),Senior Consultant,25,mid,How do you evaluate the ROI of consulting projects? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,26,mid,How do you evaluate M&A opportunities for clients?
+Consultant (Tech / Business),Senior Consultant,27,mid,How do you handle difficult client requests? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,28,mid,What role does data analytics play in consulting?
+Consultant (Tech / Business),Senior Consultant,29,mid,How do you assess operational efficiency? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,30,mid,Scenario 6: How would you advise a technology client on supply chain optimization?
+Consultant (Tech / Business),Senior Consultant,31,mid,How do you evaluate organizational design?
+Consultant (Tech / Business),Senior Consultant,32,mid,What’s your experience with IT strategy consulting?
+Consultant (Tech / Business),Senior Consultant,33,mid,Scenario 1: How would you advise a healthcare client on digital transformation?
+Consultant (Tech / Business),Senior Consultant,34,mid,How do you align consulting deliverables with client strategy?
+Consultant (Tech / Business),Senior Consultant,35,mid,How do you conduct gap analysis? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,36,mid,How do you develop KPIs for clients? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,37,mid,How do you lead client training sessions?
+Consultant (Tech / Business),Senior Consultant,38,mid,Scenario 9: How would you advise a healthcare client on M&A integration?
+Consultant (Tech / Business),Senior Consultant,39,high,What is your experience with agile consulting projects?
+Consultant (Tech / Business),Senior Consultant,40,high,Scenario 10: How would you advise a retail client on digital transformation?
+Consultant (Tech / Business),Senior Consultant,41,high,How do you lead multi-stakeholder workshops?
+Consultant (Tech / Business),Senior Consultant,42,high,What is your understanding of digital transformation? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,43,high,What’s your strategy for managing client escalations?
+Consultant (Tech / Business),Senior Consultant,44,high,Scenario 2: How would you advise a banking client on supply chain optimization? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,45,high,How do you structure a consulting engagement? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,46,high,What is your approach to developing recommendations? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,47,high,What is risk management in consulting projects? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,48,high,Scenario 4: How would you advise a banking client on M&A integration?
+Consultant (Tech / Business),Senior Consultant,49,high,How do you ensure client alignment with recommendations? (Context: Senior Consultant)
+Consultant (Tech / Business),Senior Consultant,50,high,Scenario 8: How would you advise a banking client on financial restructuring?
+Consultant (Tech / Business),Principal Consultant,1,easy,Scenario 1: How would you advise a banking client on supply chain optimization?
+Consultant (Tech / Business),Principal Consultant,2,easy,What’s your strategy for digital transformation roadmaps? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,3,easy,What’s your method for prioritizing initiatives for clients? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,4,easy,Scenario 2: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Principal Consultant,5,easy,Scenario 19: How would you advise a banking client on M&A integration?
+Consultant (Tech / Business),Principal Consultant,6,easy,How do you evaluate organizational design? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,7,easy,What’s your approach to business development in consulting?
+Consultant (Tech / Business),Principal Consultant,8,easy,How do you handle conflicts within consulting teams?
+Consultant (Tech / Business),Principal Consultant,9,easy,What role does data analytics play in consulting? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,10,easy,How do you manage global client engagements? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,11,easy,Scenario 13: How would you advise a retail client on financial restructuring?
+Consultant (Tech / Business),Principal Consultant,12,easy,How do you lead multi-stakeholder workshops? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,13,easy,Scenario 20: How would you advise a banking client on supply chain optimization?
+Consultant (Tech / Business),Principal Consultant,14,easy,How do you align consulting deliverables with client strategy? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,15,easy,How do you build long-term client relationships?
+Consultant (Tech / Business),Principal Consultant,16,easy,What is your experience with regulatory compliance consulting? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,17,easy,How do you ensure measurable outcomes in projects? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,18,easy,Scenario 4: How would you advise a healthcare client on financial restructuring?
+Consultant (Tech / Business),Principal Consultant,19,mid,How do you evaluate technology vendors for clients? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,20,mid,How do you evaluate success in consulting projects? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,21,mid,Scenario 24: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Principal Consultant,22,mid,Scenario 9: How would you advise a retail client on digital transformation?
+Consultant (Tech / Business),Principal Consultant,23,mid,How do you handle confidentiality in sensitive projects? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,24,mid,How do you lead client training sessions? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,25,mid,What is your experience with large-scale transformation projects? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,26,mid,How do you manage consulting teams?
+Consultant (Tech / Business),Principal Consultant,27,mid,Scenario 3: How would you advise a retail client on digital transformation? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,28,mid,Scenario 17: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Principal Consultant,29,mid,What is your experience with agile consulting projects? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,30,mid,Scenario 18: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Principal Consultant,31,mid,Scenario 25: How would you advise a technology client on M&A integration?
+Consultant (Tech / Business),Principal Consultant,32,mid,Scenario 15: How would you advise a technology client on supply chain optimization?
+Consultant (Tech / Business),Principal Consultant,33,mid,Scenario 12: How would you advise a banking client on financial restructuring?
+Consultant (Tech / Business),Principal Consultant,34,mid,Scenario 8: How would you advise a retail client on digital transformation?
+Consultant (Tech / Business),Principal Consultant,35,mid,Scenario 16: How would you advise a technology client on M&A integration?
+Consultant (Tech / Business),Principal Consultant,36,mid,What is your approach to financial due diligence? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,37,mid,How do you manage change resistance? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,38,mid,Scenario 21: How would you advise a retail client on M&A integration?
+Consultant (Tech / Business),Principal Consultant,39,high,Scenario 14: How would you advise a healthcare client on financial restructuring?
+Consultant (Tech / Business),Principal Consultant,40,high,What’s your experience with IT strategy consulting? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,41,high,What’s your strategy for managing client escalations? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,42,high,Scenario 10: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Principal Consultant,43,high,Scenario 11: How would you advise a healthcare client on supply chain optimization?
+Consultant (Tech / Business),Principal Consultant,44,high,Scenario 23: How would you advise a retail client on M&A integration?
+Consultant (Tech / Business),Principal Consultant,45,high,What’s your strategy for practice growth?
+Consultant (Tech / Business),Principal Consultant,46,high,Scenario 5: How would you advise a healthcare client on digital transformation?
+Consultant (Tech / Business),Principal Consultant,47,high,Scenario 22: How would you advise a retail client on digital transformation?
+Consultant (Tech / Business),Principal Consultant,48,high,Scenario 6: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Principal Consultant,49,high,How do you evaluate M&A opportunities for clients? (Context: Principal Consultant)
+Consultant (Tech / Business),Principal Consultant,50,high,Scenario 7: How would you advise a technology client on financial restructuring?
+Consultant (Tech / Business),Consulting Manager / Partner,1,easy,Scenario 22: How would you advise a healthcare client on financial restructuring?
+Consultant (Tech / Business),Consulting Manager / Partner,2,easy,Scenario 28: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Consulting Manager / Partner,3,easy,How do you build long-term client relationships? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,4,easy,How do you evaluate M&A opportunities for clients? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,5,easy,How do you present results to C-level executives and boards?
+Consultant (Tech / Business),Consulting Manager / Partner,6,easy,Scenario 29: How would you advise a banking client on supply chain optimization?
+Consultant (Tech / Business),Consulting Manager / Partner,7,easy,Scenario 5: How would you advise a technology client on M&A integration?
+Consultant (Tech / Business),Consulting Manager / Partner,8,easy,Scenario 11: How would you advise a technology client on financial restructuring?
+Consultant (Tech / Business),Consulting Manager / Partner,9,easy,Scenario 2: How would you advise a technology client on supply chain optimization?
+Consultant (Tech / Business),Consulting Manager / Partner,10,easy,Scenario 19: How would you advise a technology client on financial restructuring?
+Consultant (Tech / Business),Consulting Manager / Partner,11,easy,Scenario 30: How would you advise a healthcare client on supply chain optimization?
+Consultant (Tech / Business),Consulting Manager / Partner,12,easy,How do you mentor junior consultants?
+Consultant (Tech / Business),Consulting Manager / Partner,13,easy,Scenario 8: How would you advise a healthcare client on financial restructuring?
+Consultant (Tech / Business),Consulting Manager / Partner,14,easy,Scenario 12: How would you advise a healthcare client on supply chain optimization?
+Consultant (Tech / Business),Consulting Manager / Partner,15,easy,Scenario 10: How would you advise a retail client on supply chain optimization? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,16,easy,How do you align consulting services with market trends?
+Consultant (Tech / Business),Consulting Manager / Partner,17,easy,Scenario 14: How would you advise a technology client on digital transformation?
+Consultant (Tech / Business),Consulting Manager / Partner,18,easy,What is your experience with large-scale transformation projects? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,19,mid,Scenario 9: How would you advise a healthcare client on supply chain optimization?
+Consultant (Tech / Business),Consulting Manager / Partner,20,mid,Scenario 24: How would you advise a technology client on M&A integration?
+Consultant (Tech / Business),Consulting Manager / Partner,21,mid,Scenario 23: How would you advise a healthcare client on supply chain optimization?
+Consultant (Tech / Business),Consulting Manager / Partner,22,mid,Scenario 21: How would you advise a retail client on financial restructuring?
+Consultant (Tech / Business),Consulting Manager / Partner,23,mid,Scenario 1: How would you advise a banking client on financial restructuring?
+Consultant (Tech / Business),Consulting Manager / Partner,24,mid,How do you handle conflicts within consulting teams? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,25,mid,Scenario 4: How would you advise a technology client on financial restructuring? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,26,mid,How do you manage consulting teams? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,27,mid,What’s your approach to business development in consulting? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,28,mid,How do you align consulting deliverables with client strategy? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,29,mid,Scenario 27: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Consulting Manager / Partner,30,mid,Scenario 25: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Consulting Manager / Partner,31,mid,How do you measure client satisfaction at scale?
+Consultant (Tech / Business),Consulting Manager / Partner,32,mid,Scenario 3: How would you advise a technology client on digital transformation?
+Consultant (Tech / Business),Consulting Manager / Partner,33,mid,What’s your strategy for expanding into new industries?
+Consultant (Tech / Business),Consulting Manager / Partner,34,mid,Scenario 15: How would you advise a technology client on M&A integration?
+Consultant (Tech / Business),Consulting Manager / Partner,35,mid,Scenario 7: How would you advise a banking client on M&A integration?
+Consultant (Tech / Business),Consulting Manager / Partner,36,mid,Scenario 18: How would you advise a healthcare client on M&A integration?
+Consultant (Tech / Business),Consulting Manager / Partner,37,mid,Scenario 20: How would you advise a healthcare client on supply chain optimization?
+Consultant (Tech / Business),Consulting Manager / Partner,38,mid,What’s your approach to pricing consulting services?
+Consultant (Tech / Business),Consulting Manager / Partner,39,high,What’s your strategy for practice growth? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,40,high,How do you manage multi-million-dollar consulting projects?
+Consultant (Tech / Business),Consulting Manager / Partner,41,high,Scenario 16: How would you advise a healthcare client on supply chain optimization?
+Consultant (Tech / Business),Consulting Manager / Partner,42,high,Scenario 13: How would you advise a banking client on digital transformation?
+Consultant (Tech / Business),Consulting Manager / Partner,43,high,Scenario 6: How would you advise a technology client on digital transformation? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,44,high,What is your experience with thought leadership in consulting?
+Consultant (Tech / Business),Consulting Manager / Partner,45,high,How do you collaborate with other partners on strategic deals?
+Consultant (Tech / Business),Consulting Manager / Partner,46,high,What is your experience with client contract negotiations?
+Consultant (Tech / Business),Consulting Manager / Partner,47,high,Scenario 26: How would you advise a retail client on supply chain optimization?
+Consultant (Tech / Business),Consulting Manager / Partner,48,high,How do you lead multi-stakeholder workshops? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,49,high,What’s your strategy for managing client escalations? (Context: Consulting Manager / Partner)
+Consultant (Tech / Business),Consulting Manager / Partner,50,high,Scenario 17: How would you advise a technology client on M&A integration?

@@ -1,0 +1,251 @@
+Main Role,Sub Role,Question Number,Difficulty,Question
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,1,easy,What is the difference between QA and QC?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,2,mid,Explain the Software Testing Life Cycle (STLC).
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,3,high,What are positive and negative test cases?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,4,easy,What is regression testing and why is it important?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,5,mid,Define smoke testing with an example.
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,6,high,What is a test scenario? How is it different from a test case?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,7,easy,What is acceptance testing and who performs it?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,8,mid,Explain the bug/defect life cycle.
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,9,high,"What are the different levels of testing (unit, integration, system)?"
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,10,easy,What is exploratory testing? When would you apply it?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,11,mid,What are boundary value analysis and equivalence partitioning?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,12,high,What is usability testing? Provide an example.
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,13,easy,How do you write a clear bug report?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,14,mid,What is a test plan and why is it important?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,15,high,What is the difference between verification and validation?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,16,easy,Explain end-to-end testing with an example.
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,17,mid,What are high-level vs low-level test cases?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,18,high,What is the purpose of a traceability matrix?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,19,easy,What is localization and globalization testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,20,mid,What is the difference between functional and non-functional testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,21,high,How do you decide when to stop testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,22,easy,What is pair testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,23,mid,What is monkey testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,24,high,Explain ad-hoc testing.
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,25,easy,What is compatibility testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,26,mid,What are test deliverables?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,27,high,What is the role of a QA Tester in Agile?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,28,easy,How do you prioritize test cases when time is limited?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,29,mid,What is a blocker bug?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,30,high,How would you test a calculator app?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,31,easy,How would you test a login page?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,32,mid,What is cross-browser testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,33,high,What is data-driven testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,34,easy,How do you test dropdown menus?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,35,mid,What is black box testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,36,high,What is white box testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,37,easy,What is gray box testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,38,mid,What is integration testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,39,high,What is system testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,40,easy,What is alpha vs beta testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,41,mid,What is an orphan defect?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,42,high,What is defect clustering?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,43,easy,What is the pesticide paradox in testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,44,mid,What is risk-based testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,45,high,What is configuration testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,46,easy,What is performance testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,47,mid,How do you validate error messages?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,48,high,What is soak testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,49,easy,What is recovery testing?
+Quality Assurance (QA) / Test Engineer,QA Tester / Associate QA Engineer,50,mid,What is scalability testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,1,easy,What is the difference between QA and Testing roles?
+Quality Assurance (QA) / Test Engineer,QA Engineer,2,mid,"What is the difference between unit, integration, and system testing?"
+Quality Assurance (QA) / Test Engineer,QA Engineer,3,high,What is automation testing and its benefits?
+Quality Assurance (QA) / Test Engineer,QA Engineer,4,easy,What is Selenium and how does it work?
+Quality Assurance (QA) / Test Engineer,QA Engineer,5,mid,What is the Page Object Model (POM)?
+Quality Assurance (QA) / Test Engineer,QA Engineer,6,high,What is API testing and how is it done?
+Quality Assurance (QA) / Test Engineer,QA Engineer,7,easy,What is Postman used for?
+Quality Assurance (QA) / Test Engineer,QA Engineer,8,mid,What are REST and SOAP APIs?
+Quality Assurance (QA) / Test Engineer,QA Engineer,9,high,What is JSON schema validation in API testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,10,easy,What is Jenkins and why is it used?
+Quality Assurance (QA) / Test Engineer,QA Engineer,11,mid,What is a test strategy?
+Quality Assurance (QA) / Test Engineer,QA Engineer,12,high,What is the difference between sanity and smoke testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,13,easy,What is the role of assertions in test automation?
+Quality Assurance (QA) / Test Engineer,QA Engineer,14,mid,What is data-driven testing in automation?
+Quality Assurance (QA) / Test Engineer,QA Engineer,15,high,What is keyword-driven testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,16,easy,What is hybrid testing framework?
+Quality Assurance (QA) / Test Engineer,QA Engineer,17,mid,How do you handle dynamic elements in Selenium?
+Quality Assurance (QA) / Test Engineer,QA Engineer,18,high,What is implicit vs explicit wait in Selenium?
+Quality Assurance (QA) / Test Engineer,QA Engineer,19,easy,What is testNG and why is it used?
+Quality Assurance (QA) / Test Engineer,QA Engineer,20,mid,What are soft asserts vs hard asserts?
+Quality Assurance (QA) / Test Engineer,QA Engineer,21,high,What is headless browser testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,22,easy,What is XPath in Selenium?
+Quality Assurance (QA) / Test Engineer,QA Engineer,23,mid,What are locators in Selenium?
+Quality Assurance (QA) / Test Engineer,QA Engineer,24,high,What is continuous integration in QA?
+Quality Assurance (QA) / Test Engineer,QA Engineer,25,easy,What is the difference between JUnit and TestNG?
+Quality Assurance (QA) / Test Engineer,QA Engineer,26,mid,What is Agile testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,27,high,What is BDD (Behavior Driven Development)?
+Quality Assurance (QA) / Test Engineer,QA Engineer,28,easy,What is Cucumber tool?
+Quality Assurance (QA) / Test Engineer,QA Engineer,29,mid,What are Gherkin keywords?
+Quality Assurance (QA) / Test Engineer,QA Engineer,30,high,What is shift-left testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,31,easy,What is shift-right testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,32,mid,What is the difference between functional and non-functional requirements?
+Quality Assurance (QA) / Test Engineer,QA Engineer,33,high,What is load testing vs stress testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,34,easy,What are performance counters in testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,35,mid,What is SQL injection testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,36,high,How do you test authentication and authorization?
+Quality Assurance (QA) / Test Engineer,QA Engineer,37,easy,What is penetration testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,38,mid,What is static vs dynamic testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,39,high,What are code reviews in QA?
+Quality Assurance (QA) / Test Engineer,QA Engineer,40,easy,What is defect density metric?
+Quality Assurance (QA) / Test Engineer,QA Engineer,41,mid,What is test coverage?
+Quality Assurance (QA) / Test Engineer,QA Engineer,42,high,What are mocks and stubs in testing?
+Quality Assurance (QA) / Test Engineer,QA Engineer,43,easy,What is a test harness?
+Quality Assurance (QA) / Test Engineer,QA Engineer,44,mid,What is CI/CD pipeline?
+Quality Assurance (QA) / Test Engineer,QA Engineer,45,high,What is Docker and how is it useful in QA?
+Quality Assurance (QA) / Test Engineer,QA Engineer,46,easy,What is Kubernetes testing in QA?
+Quality Assurance (QA) / Test Engineer,QA Engineer,47,mid,What is compatibility matrix?
+Quality Assurance (QA) / Test Engineer,QA Engineer,48,high,What is parallel test execution?
+Quality Assurance (QA) / Test Engineer,QA Engineer,49,easy,What are flaky tests and how do you handle them?
+Quality Assurance (QA) / Test Engineer,QA Engineer,50,mid,What is chaos testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,1,easy,What is your approach to designing a test strategy for a new product?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,2,mid,How do you ensure maximum test coverage?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,3,high,How do you mentor junior testers?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,4,easy,What is risk-based testing and how do you apply it?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,5,mid,How do you design automation frameworks from scratch?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,6,high,How do you choose between different automation tools?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,7,easy,What is the role of QA in DevOps?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,8,mid,How do you integrate automated tests in CI/CD pipelines?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,9,high,What is the difference between TDD and BDD?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,10,easy,What is contract testing in microservices?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,11,mid,How do you manage test data in complex environments?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,12,high,What is synthetic monitoring in QA?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,13,easy,How do you validate logs for QA purposes?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,14,mid,How do you test event-driven architectures?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,15,high,What are canary releases and how do you test them?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,16,easy,What is blue-green deployment testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,17,mid,How do you approach performance tuning of automated tests?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,18,high,What is the difference between load and endurance testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,19,easy,What is scalability vs reliability testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,20,mid,What is chaos engineering in QA?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,21,high,How do you use observability tools in QA?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,22,easy,How do you measure quality in Agile teams?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,23,mid,What are key QA metrics for senior engineers?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,24,high,How do you handle flaky test cases in CI/CD?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,25,easy,How do you test cloud-native applications?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,26,mid,How do you perform security validation of APIs?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,27,high,What are OWASP top 10 and why are they important?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,28,easy,How do you plan regression cycles in Agile?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,29,mid,What is model-based testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,30,high,How do you use AI/ML in test automation?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,31,easy,What is contract-based testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,32,mid,How do you validate database migrations?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,33,high,How do you handle test environments in multi-team projects?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,34,easy,What is service virtualization in QA?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,35,mid,What is continuous testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,36,high,How do you handle version control in test artifacts?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,37,easy,What are key challenges in mobile testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,38,mid,How do you test IoT systems?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,39,high,What is API mocking and why is it useful?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,40,easy,"How do you ensure data privacy testing (GDPR, HIPAA)?"
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,41,mid,What is mutation testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,42,high,What are non-functional testing types you have handled?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,43,easy,What is resiliency testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,44,mid,How do you ensure backward compatibility testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,45,high,What are your strategies for zero-downtime release testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,46,easy,How do you test feature toggles?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,47,mid,What is synthetic transaction monitoring?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,48,high,How do you test distributed systems?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,49,easy,What is contract-first testing?
+Quality Assurance (QA) / Test Engineer,Senior QA Engineer,50,mid,How do you test containerized applications?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,1,easy,How do you design a test automation strategy for an organization?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,2,mid,How do you decide what to automate and what not to automate?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,3,high,What KPIs do you track for test automation success?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,4,easy,How do you manage a distributed QA team?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,5,mid,How do you ensure consistency across multiple automation frameworks?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,6,high,How do you plan regression test suites?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,7,easy,What is your approach to test data management?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,8,mid,How do you ensure test coverage in large applications?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,9,high,How do you collaborate with developers and product managers?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,10,easy,What is your approach to cross-platform testing?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,11,mid,How do you integrate QA in Agile ceremonies?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,12,high,What is your approach to test environment provisioning?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,13,easy,How do you ensure security in test automation frameworks?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,14,mid,How do you handle flaky automation tests?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,15,high,What are your best practices for code reviews in automation?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,16,easy,How do you lead adoption of new QA tools?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,17,mid,How do you handle conflicts in test prioritization?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,18,high,What is your approach to continuous improvement in QA?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,19,easy,How do you use dashboards to track QA progress?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,20,mid,What is your approach to root cause analysis of defects?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,21,high,How do you handle technical debt in automation frameworks?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,22,easy,What is your approach to test case versioning?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,23,mid,How do you evaluate ROI of test automation?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,24,high,How do you integrate performance tests in pipelines?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,25,easy,How do you integrate security tests in pipelines?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,26,mid,What is your approach to contract testing?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,27,high,"How do you ensure compliance testing (GDPR, PCI-DSS)?"
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,28,easy,How do you test large-scale distributed systems?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,29,mid,How do you approach release readiness sign-off?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,30,high,What is your strategy for mobile test automation?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,31,easy,How do you lead cloud application testing?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,32,mid,How do you approach chaos testing at scale?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,33,high,How do you plan A/B testing validation?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,34,easy,How do you collaborate with DevOps for QA?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,35,mid,What is your strategy for test reporting?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,36,high,How do you plan test automation roadmap?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,37,easy,How do you ensure accessibility compliance testing?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,38,mid,What is your approach to testing third-party integrations?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,39,high,How do you evaluate test automation tools?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,40,easy,How do you lead knowledge sharing within QA team?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,41,mid,What is your approach to risk-based test planning?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,42,high,How do you manage multiple QA projects in parallel?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,43,easy,What is your approach to CI/CD test orchestration?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,44,mid,How do you test feature flags in production?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,45,high,How do you set up observability in QA pipelines?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,46,easy,How do you lead automation for microservices?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,47,mid,What is your approach to contract-first API testing?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,48,high,How do you validate performance SLAs?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,49,easy,How do you manage QA in fast release cycles?
+Quality Assurance (QA) / Test Engineer,QA Lead / Automation Lead,50,mid,What is your approach to automated rollback testing?
+Quality Assurance (QA) / Test Engineer,QA Manager,1,easy,How do you define quality goals for your organization?
+Quality Assurance (QA) / Test Engineer,QA Manager,2,mid,What is your approach to building a QA strategy?
+Quality Assurance (QA) / Test Engineer,QA Manager,3,high,How do you align QA objectives with business goals?
+Quality Assurance (QA) / Test Engineer,QA Manager,4,easy,How do you measure QA effectiveness at an organizational level?
+Quality Assurance (QA) / Test Engineer,QA Manager,5,mid,What are your key QA metrics for management reporting?
+Quality Assurance (QA) / Test Engineer,QA Manager,6,high,How do you build and scale QA teams?
+Quality Assurance (QA) / Test Engineer,QA Manager,7,easy,What is your approach to hiring QA talent?
+Quality Assurance (QA) / Test Engineer,QA Manager,8,mid,How do you retain QA talent in competitive markets?
+Quality Assurance (QA) / Test Engineer,QA Manager,9,high,How do you justify QA investments to leadership?
+Quality Assurance (QA) / Test Engineer,QA Manager,10,easy,What is your approach to managing vendor QA services?
+Quality Assurance (QA) / Test Engineer,QA Manager,11,mid,How do you balance automation vs manual testing at scale?
+Quality Assurance (QA) / Test Engineer,QA Manager,12,high,How do you align QA with DevOps culture?
+Quality Assurance (QA) / Test Engineer,QA Manager,13,easy,What is your approach to enterprise test data management?
+Quality Assurance (QA) / Test Engineer,QA Manager,14,mid,"How do you handle compliance audits (SOX, GDPR)?"
+Quality Assurance (QA) / Test Engineer,QA Manager,15,high,How do you manage QA budgets?
+Quality Assurance (QA) / Test Engineer,QA Manager,16,easy,What is your approach to risk-based QA governance?
+Quality Assurance (QA) / Test Engineer,QA Manager,17,mid,How do you handle escalations for critical production defects?
+Quality Assurance (QA) / Test Engineer,QA Manager,18,high,How do you manage global QA teams?
+Quality Assurance (QA) / Test Engineer,QA Manager,19,easy,What is your approach to training and upskilling QA staff?
+Quality Assurance (QA) / Test Engineer,QA Manager,20,mid,How do you implement quality gates in release pipelines?
+Quality Assurance (QA) / Test Engineer,QA Manager,21,high,"How do you align QA with Agile at scale (SAFe, LeSS)?"
+Quality Assurance (QA) / Test Engineer,QA Manager,22,easy,What is your approach to vendor tool selection?
+Quality Assurance (QA) / Test Engineer,QA Manager,23,mid,How do you manage KPIs across multiple projects?
+Quality Assurance (QA) / Test Engineer,QA Manager,24,high,How do you align QA with security testing practices?
+Quality Assurance (QA) / Test Engineer,QA Manager,25,easy,How do you handle quality in mergers and acquisitions?
+Quality Assurance (QA) / Test Engineer,QA Manager,26,mid,What is your approach to disaster recovery testing?
+Quality Assurance (QA) / Test Engineer,QA Manager,27,high,How do you ensure business continuity testing?
+Quality Assurance (QA) / Test Engineer,QA Manager,28,easy,What is your strategy for performance governance?
+Quality Assurance (QA) / Test Engineer,QA Manager,29,mid,How do you manage test environment costs?
+Quality Assurance (QA) / Test Engineer,QA Manager,30,high,How do you integrate customer feedback into QA strategy?
+Quality Assurance (QA) / Test Engineer,QA Manager,31,easy,What is your approach to zero-defect culture?
+Quality Assurance (QA) / Test Engineer,QA Manager,32,mid,How do you present QA outcomes to executives?
+Quality Assurance (QA) / Test Engineer,QA Manager,33,high,How do you implement continuous improvement at organizational level?
+Quality Assurance (QA) / Test Engineer,QA Manager,34,easy,How do you define roles and responsibilities within QA teams?
+Quality Assurance (QA) / Test Engineer,QA Manager,35,mid,What is your approach to third-party integration validation?
+Quality Assurance (QA) / Test Engineer,QA Manager,36,high,How do you evaluate ROI of QA investments?
+Quality Assurance (QA) / Test Engineer,QA Manager,37,easy,How do you handle conflicting stakeholder priorities?
+Quality Assurance (QA) / Test Engineer,QA Manager,38,mid,How do you ensure regulatory compliance in QA processes?
+Quality Assurance (QA) / Test Engineer,QA Manager,39,high,What is your approach to enterprise test automation strategy?
+Quality Assurance (QA) / Test Engineer,QA Manager,40,easy,How do you foster innovation within QA teams?
+Quality Assurance (QA) / Test Engineer,QA Manager,41,mid,How do you handle rapid scaling of QA needs?
+Quality Assurance (QA) / Test Engineer,QA Manager,42,high,What is your strategy for outsourcing QA?
+Quality Assurance (QA) / Test Engineer,QA Manager,43,easy,How do you implement metrics-driven QA culture?
+Quality Assurance (QA) / Test Engineer,QA Manager,44,mid,How do you ensure end-user satisfaction through QA?
+Quality Assurance (QA) / Test Engineer,QA Manager,45,high,How do you manage QA risks at enterprise level?
+Quality Assurance (QA) / Test Engineer,QA Manager,46,easy,What is your approach to defect prevention?
+Quality Assurance (QA) / Test Engineer,QA Manager,47,mid,How do you collaborate with CIO/CTO for QA strategy?
+Quality Assurance (QA) / Test Engineer,QA Manager,48,high,How do you balance speed vs quality in releases?
+Quality Assurance (QA) / Test Engineer,QA Manager,49,easy,What is your long-term vision for QA in digital transformation?
+Quality Assurance (QA) / Test Engineer,QA Manager,50,mid,How do you handle QA during cloud migrations?
